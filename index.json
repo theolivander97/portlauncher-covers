@@ -1,0 +1,1357 @@
+{
+ "generatedAt": "2026-10-16",
+ "covers": {
+  "1oom-fork-1oom": {
+   "v": "398b7f0d94",
+   "src": "libretro:DOS/Master of Orion (1993).png"
+  },
+  "999sian-melee-pc": {
+   "v": "623b0a05ee",
+   "src": "libretro:Nintendo - GameCube/Super Smash Bros. Melee (USA).png"
+  },
+  "999sian-tmc": {
+   "v": "5bd1dc9ce5",
+   "src": "libretro:Nintendo - Game Boy Advance/Legend of Zelda, The - The Minish Cap (USA).png"
+  },
+  "acranon-kf1-enhanced": {
+   "v": "ed8dd757d9",
+   "src": "libretro:Sony - PlayStation/King's Field (Japan).png"
+  },
+  "afritz1-opentesarena": {
+   "v": "5c1792183d",
+   "src": "libretro:DOS/Elder Scrolls, The - Arena (1994).png"
+  },
+  "akratch-goldenballoon": {
+   "v": "8a7ba9805c",
+   "src": "libretro:Nintendo - Nintendo 64/Diddy Kong Racing (USA) (En,Fr).png"
+  },
+  "alexbeavs-ps1-ports-alien-resurrection-recomp": {
+   "v": "e978815d80",
+   "src": "libretro:Sony - PlayStation/Alien Resurrection (USA).png"
+  },
+  "alexbeavs-ps1-ports-apocalypse-recomp": {
+   "v": "3b9729a4cf",
+   "src": "libretro:Sony - PlayStation/Apocalypse (USA).png"
+  },
+  "alexbeavs-ps1-ports-brave-fencer-musashi-recomp": {
+   "v": "cd8b6f7125",
+   "src": "libretro:Sony - PlayStation/Brave Fencer Musashi (USA).png"
+  },
+  "alexbeavs-ps1-ports-colony-wars-recomp": {
+   "v": "92e67f98c2",
+   "src": "libretro:Sony - PlayStation/Colony Wars (USA).png"
+  },
+  "alexbeavs-ps1-ports-crash-bandicoot-3-warped-recomp": {
+   "v": "4c44834477",
+   "src": "libretro:Sony - PlayStation/Crash Bandicoot 3 - Warped (Europe) (En,Fr,De,Es,It).png"
+  },
+  "alexbeavs-ps1-ports-diablo-recomp": {
+   "v": "0da4eeafbb",
+   "src": "libretro:Sony - PlayStation/Diablo (USA) (En,Fr,De,Sv).png"
+  },
+  "alexbeavs-ps1-ports-dino-crisis-2-recomp": {
+   "v": "aaaccce575",
+   "src": "libretro:Sony - PlayStation/Dino Crisis (USA).png"
+  },
+  "alexbeavs-ps1-ports-dino-crisis-recomp": {
+   "v": "aaaccce575",
+   "src": "libretro:Sony - PlayStation/Dino Crisis (USA).png"
+  },
+  "alexbeavs-ps1-ports-fear-effect-recomp": {
+   "v": "1a33f8ceda",
+   "src": "libretro:Sony - PlayStation/Fear Effect (USA).png"
+  },
+  "alexbeavs-ps1-ports-final-fantasy-ix-recomp": {
+   "v": "9f1c2063fb",
+   "src": "libretro:Sony - PlayStation/Final Fantasy IX (USA).png"
+  },
+  "alexbeavs-ps1-ports-final-fantasy-viii-recomp": {
+   "v": "66bda5cf19",
+   "src": "libretro:Sony - PlayStation/Final Fantasy VIII (USA).png"
+  },
+  "alexbeavs-ps1-ports-g-police-recomp": {
+   "v": "c66e169b53",
+   "src": "libretro:Sony - PlayStation/G-Police (USA).png"
+  },
+  "alexbeavs-ps1-ports-ghost-in-the-shell-recomp": {
+   "v": "6984918964",
+   "src": "libretro:Sony - PlayStation/Ghost in the Shell (USA).png"
+  },
+  "alexbeavs-ps1-ports-legacy-of-kain-soul-reaver-recomp": {
+   "v": "1dc2274d2b",
+   "src": "libretro:Sony - PlayStation/Legacy of Kain - Soul Reaver (USA).png"
+  },
+  "alexbeavs-ps1-ports-martian-gothic-recomp": {
+   "v": "8021c2ed49",
+   "src": "libretro:Sony - PlayStation/Martian Gothic - Unification (USA).png"
+  },
+  "alexbeavs-ps1-ports-medievil-ii-recomp": {
+   "v": "52b462503f",
+   "src": "libretro:Sony - PlayStation/MediEvil II (USA).png"
+  },
+  "alexbeavs-ps1-ports-medievil-recomp": {
+   "v": "47078f217a",
+   "src": "libretro:Sony - PlayStation/MediEvil (USA).png"
+  },
+  "alexbeavs-ps1-ports-monster-rancher-2-recomp": {
+   "v": "8ce1b37306",
+   "src": "libretro:Sony - PlayStation/Monster Rancher 2 (USA).png"
+  },
+  "alexbeavs-ps1-ports-monster-rancher-recomp": {
+   "v": "fb8fbfd6b3",
+   "src": "libretro:Sony - PlayStation/Monster Rancher (USA).png"
+  },
+  "alexbeavs-ps1-ports-oddworld-abe-s-oddysee-recomp": {
+   "v": "e64f0f6d73",
+   "src": "libretro:Sony - PlayStation/Oddworld - Abe's Oddysee (USA).png"
+  },
+  "alexbeavs-ps1-ports-pro-pinball-timeshock-recomp": {
+   "v": "8cd6294cb5",
+   "src": "libretro:Sony - PlayStation/Pro Pinball - Timeshock! (USA).png"
+  },
+  "alexbeavs-ps1-ports-r-type-delta-recomp": {
+   "v": "801409c8e5",
+   "src": "libretro:Sony - PlayStation/R-Type Delta (USA).png"
+  },
+  "alexbeavs-ps1-ports-resident-evil-3-recomp": {
+   "v": "fbcdefc729",
+   "src": "libretro:Sony - PlayStation/Resident Evil (USA).png"
+  },
+  "alexbeavs-ps1-ports-spider-man-recomp": {
+   "v": "2fc1173af1",
+   "src": "libretro:Sony - PlayStation/Spider-Man (USA).png"
+  },
+  "alexbeavs-ps1-ports-spyro-the-dragon-recomp": {
+   "v": "43b37fddfb",
+   "src": "libretro:Sony - PlayStation/Spyro the Dragon (USA).png"
+  },
+  "alexbeavs-ps1-ports-star-wars-episode-i-the-phantom-menace-recomp": {
+   "v": "207cef7039",
+   "src": "libretro:Sony - PlayStation/Star Wars - Episode I - The Phantom Menace (USA).png"
+  },
+  "alexbeavs-ps1-ports-suikoden-recomp": {
+   "v": "63d8616e36",
+   "src": "libretro:Sony - PlayStation/Suikoden (USA).png"
+  },
+  "alexbeavs-ps1-ports-syphon-filter-3-recomp": {
+   "v": "90bf2a0dc2",
+   "src": "libretro:Sony - PlayStation/Syphon Filter 3 (USA).png"
+  },
+  "alexbeavs-ps1-ports-tenchu-stealth-assassins-recomp": {
+   "v": "2277193eac",
+   "src": "libretro:Sony - PlayStation/Tenchu - Stealth Assassins (USA).png"
+  },
+  "alexbeavs-ps1-ports-the-fifth-element-recomp": {
+   "v": "9216ed72d2",
+   "src": "libretro:Sony - PlayStation/Fifth Element, The (USA).png"
+  },
+  "alexbeavs-ps1-ports-tokyo-highway-battle-recomp": {
+   "v": "60c67bf066",
+   "src": "libretro:Sony - PlayStation/Tokyo Highway Battle (USA).png"
+  },
+  "alexbeavs-ps1-ports-tony-hawk-s-pro-skater-2-recomp": {
+   "v": "59ba3ba15d",
+   "src": "libretro:Sony - PlayStation/Tony Hawk's Pro Skater 2 (USA).png"
+  },
+  "alexbeavs-ps1-ports-tony-hawk-s-pro-skater-3-recomp": {
+   "v": "7e95f7ba09",
+   "src": "libretro:Sony - PlayStation/Tony Hawk's Pro Skater 3 (USA).png"
+  },
+  "alexbeavs-ps1-ports-tony-hawk-s-pro-skater-4-recomp": {
+   "v": "775cb804b5",
+   "src": "libretro:Sony - PlayStation/Tony Hawk's Pro Skater 4 (USA).png"
+  },
+  "alexbeavs-ps1-ports-tony-hawk-s-pro-skater-recomp": {
+   "v": "5e6fe48eaf",
+   "src": "libretro:Sony - PlayStation/Tony Hawk's Pro Skater (USA).png"
+  },
+  "alexbeavs-ps1-ports-vib-ribbon-recomp": {
+   "v": "80b38aa5c4",
+   "src": "libretro:Sony - PlayStation/Vib-Ribbon (Europe) (En,Fr,De,Es,It).png"
+  },
+  "alexbeavs-ps1-ports-wipeout-recomp": {
+   "v": "c052ec7fa0",
+   "src": "libretro:Sony - PlayStation/WipEout (USA).png"
+  },
+  "alistert-openjazz": {
+   "v": "a20ced51bd",
+   "src": "libretro:DOS/Jazz Jackrabbit (1994).png"
+  },
+  "aliveteam-alive-reversing": {
+   "v": "edc7a4069a",
+   "src": "libretro:Sony - PlayStation/Oddworld - Abe's Exoddus (USA).png"
+  },
+  "alondero-aerogauge-recomp": {
+   "v": "4e5834d24c",
+   "src": "libretro:Nintendo - Nintendo 64/AeroGauge (USA).png"
+  },
+  "alondero-automobililamborghini-recomp": {
+   "v": "4e634e29d4",
+   "src": "libretro:Nintendo - Nintendo 64/Automobili Lamborghini (USA).png"
+  },
+  "alphanu1-daytona-arcade-recomp": {
+   "v": "e41ca15bcb",
+   "src": "libretro:Sega - Dreamcast/Daytona USA (USA).png"
+  },
+  "andrei-drexler-ironwail": {
+   "v": "37b83ce0ee",
+   "src": "libretro:DOS/Quake (1996).png"
+  },
+  "ant0-blase-mohfrontline-gc-recomp": {
+   "v": "d849aefb48",
+   "src": "libretro:Nintendo - GameCube/Medal of Honor - Frontline (USA).png"
+  },
+  "apancik-abuse-2025": {
+   "v": "6fdf60d5ad",
+   "src": "libretro:DOS/Abuse (1995).png"
+  },
+  "asphaltian-pmd-green": {
+   "v": "a4d22343ae",
+   "src": "libretro:Nintendo - Game Boy Advance/Pokemon (USA).png"
+  },
+  "atsb-doom64ex-plus": {
+   "v": "d18d451885",
+   "src": "libretro:Nintendo - Nintendo 64/Doom 64 (USA).png"
+  },
+  "banjorecomp-banjorecomp": {
+   "v": "cb933e8cd1",
+   "src": "libretro:Nintendo - Nintendo 64/Banjo-Kazooie (USA).png"
+  },
+  "bibendovsky-bstone": {
+   "v": "77b24d0988",
+   "src": "libretro:DOS/Blake Stone - Aliens of Gold (1993).png"
+  },
+  "blacklabelhq-medievilrecomp": {
+   "v": "47078f217a",
+   "src": "libretro:Sony - PlayStation/MediEvil (USA).png"
+  },
+  "blacklabelhq-symphonyrecomp": {
+   "v": "7f44844805",
+   "src": "libretro:Sony - PlayStation/Castlevania - Symphony of the Night (USA).png"
+  },
+  "bodbdearg-psydoom": {
+   "v": "a0893fb95d",
+   "src": "libretro:Sony - PlayStation/Doom (USA).png"
+  },
+  "boricuapab-snowboardkids-recompiled": {
+   "v": "2eb3ba9a58",
+   "src": "libretro:Nintendo - Nintendo 64/Snowboard Kids (USA).png"
+  },
+  "bradharding-doomretro": {
+   "v": "223f335153",
+   "src": "libretro:DOS/DOOM (1993).png"
+  },
+  "brawmario-infinite-mario-64-ever": {
+   "v": "47a6e00d1e",
+   "src": "libretro:Nintendo - Nintendo 64/Super Mario 64 (USA).png"
+  },
+  "brokenregistry-rotp-fusion": {
+   "v": "398b7f0d94",
+   "src": "libretro:DOS/Master of Orion (1993).png"
+  },
+  "bryankruman-beetlerecomp": {
+   "v": "f65a34d36b",
+   "src": "libretro:Nintendo - Nintendo 64/Beetle Adventure Racing! (USA) (En,Fr,De).png"
+  },
+  "bryanthaboi-gen1recomp": {
+   "v": "610fce1b9e",
+   "src": "libretro:Nintendo - Game Boy/Pokemon - Red Version (USA, Europe) (SGB Enhanced).png"
+  },
+  "bryantmh-rush2recompiled": {
+   "v": "8564fafb3d",
+   "src": "libretro:Nintendo - Nintendo 64/Rush 2 - Extreme Racing USA (USA).png"
+  },
+  "bvschaik-julius": {
+   "v": "d6fda2ff88",
+   "src": "libretro:DOS/Caesar (1992).png"
+  },
+  "cdlewis-snowboardkids2-recomp": {
+   "v": "2eb3ba9a58",
+   "src": "libretro:Nintendo - Nintendo 64/Snowboard Kids (USA).png"
+  },
+  "cellenseres-lufia2snesrecomp": {
+   "v": "cf63df02eb",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/Lufia II - Rise of the Sinistrals (USA).png"
+  },
+  "chocolate-doom-chocolate-doom": {
+   "v": "223f335153",
+   "src": "libretro:DOS/DOOM (1993).png"
+  },
+  "chrissotraidis-bluewake": {
+   "v": "cd09587c22",
+   "src": "libretro:Nintendo - GameCube/Legend of Zelda, The - The Wind Waker (USA).png"
+  },
+  "clover-moe-spearmint": {
+   "v": "1b65f37d25",
+   "src": "libretro:Quake III/Quake III Arena.png"
+  },
+  "coccofresco-triaevum": {
+   "v": "052ff3b8bf",
+   "src": "libretro:Nintendo - Nintendo 3DS/Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es).png"
+  },
+  "comfubar-knowyourrolerecomp": {
+   "v": "0d001e31d7",
+   "src": "libretro:Sony - PlayStation/WWF SmackDown! 2 - Know Your Role (USA).png"
+  },
+  "conker64recomp-conker64-recompiled": {
+   "v": "fb3789e906",
+   "src": "libretro:Nintendo - Nintendo 64/Conker's Bad Fur Day (USA).png"
+  },
+  "coop-deluxe-sm64coopdx": {
+   "v": "47a6e00d1e",
+   "src": "libretro:Nintendo - Nintendo 64/Super Mario 64 (USA).png"
+  },
+  "corsixth-corsixth": {
+   "v": "be30b1386a",
+   "src": "libretro:DOS/Theme Hospital (1997).png"
+  },
+  "craigshaw-fzerorecomp": {
+   "v": "177d7305f4",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/F-Zero (USA).png"
+  },
+  "cybervisi0n-pokeplatinum": {
+   "v": "0528fdfc00",
+   "src": "libretro:Nintendo - Nintendo DS/Pokemon - Platinum Version (USA).png"
+  },
+  "danielgomesvieira2000-beetle-adventure-racing-recomp": {
+   "v": "f65a34d36b",
+   "src": "libretro:Nintendo - Nintendo 64/Beetle Adventure Racing! (USA) (En,Fr,De).png"
+  },
+  "danielgomesvieira2000-body-harvest-recomp": {
+   "v": "ffda0332e4",
+   "src": "libretro:Nintendo - Nintendo 64/Body Harvest (USA).png"
+  },
+  "danielgomesvieira2000-pilotwings-64-recomp": {
+   "v": "ceb9c3a696",
+   "src": "libretro:Nintendo - Nintendo 64/Pilotwings 64 (USA).png"
+  },
+  "danielgomesvieira2000-rayman-2-the-great-escape-recomp": {
+   "v": "044ba48d80",
+   "src": "libretro:Nintendo - Nintendo 64/Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).png"
+  },
+  "darkplacesengine-darkplaces": {
+   "v": "37b83ce0ee",
+   "src": "libretro:DOS/Quake (1996).png"
+  },
+  "deathkiller-jazz2-native": {
+   "v": "a20ced51bd",
+   "src": "libretro:DOS/Jazz Jackrabbit (1994).png"
+  },
+  "derrickgold-ar-recomp": {
+   "v": "c645c9ad8e",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/ActRaiser (USA).png"
+  },
+  "descentdevelopers-descent3": {
+   "v": "4b1d6e9d99",
+   "src": "libretro:DOS/Descent (1995).png"
+  },
+  "dhewm-dhewm3": {
+   "v": "223f335153",
+   "src": "libretro:DOS/DOOM (1993).png"
+  },
+  "djultra64-blocksphere": {
+   "v": "52694d5f86",
+   "src": "libretro:Nintendo - Nintendo 64/Tetrisphere (USA).png"
+  },
+  "dkfans-keeperfx": {
+   "v": "99ea9b9a1d",
+   "src": "libretro:DOS/Dungeon Keeper (1997).png"
+  },
+  "dolent-goldeneye-pc-port-offers": {
+   "v": "626722f8b8",
+   "src": "libretro:Nintendo - Nintendo 64/GoldenEye 007 (USA).png"
+  },
+  "doukutsu-rs-doukutsu-rs": {
+   "v": "aefd608cc8",
+   "src": "libretro:Cave Story/Cave Story (De).png"
+  },
+  "dpjudas-surrealengine": {
+   "v": "1c939d7d3e",
+   "src": "libretro:DOS/Unreal (1991).png"
+  },
+  "dsda-org-dsda-doom": {
+   "v": "223f335153",
+   "src": "libretro:DOS/DOOM (1993).png"
+  },
+  "dxx-rebirth-dxx-rebirth": {
+   "v": "4b1d6e9d99",
+   "src": "libretro:DOS/Descent (1995).png"
+  },
+  "ec-quake3e": {
+   "v": "1b65f37d25",
+   "src": "libretro:Quake III/Quake III Arena.png"
+  },
+  "ecwolfengine-ecwolf": {
+   "v": "5eee4f97e4",
+   "src": "libretro:DOS/Spear of Destiny (1992).png"
+  },
+  "edge-classic-edge-classic": {
+   "v": "223f335153",
+   "src": "libretro:DOS/DOOM (1993).png"
+  },
+  "elliotttate-bombermanrecomp": {
+   "v": "1c192f68bb",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/Super Bomberman (USA).png"
+  },
+  "elliotttate-dkc1recomp": {
+   "v": "4baa5083f4",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/Donkey Kong Country (USA).png"
+  },
+  "elliotttate-dkc2recomp": {
+   "v": "11733157e6",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr).png"
+  },
+  "elliotttate-dkc3recomp": {
+   "v": "c51592f339",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).png"
+  },
+  "elmasas-lcs-recomp": {
+   "v": "c1b4b97f15",
+   "src": "libretro:Sony - PlayStation Portable/Grand Theft Auto - Liberty City Stories (USA) (En,Fr,De,Es,It) (v1.05).png"
+  },
+  "elspeththepict-s1forever": {
+   "v": "d02bac5341",
+   "src": "libretro:Sega - Mega Drive - Genesis/Sonic The Hedgehog (USA, Europe).png"
+  },
+  "elyosh-opentie": {
+   "v": "68677b94ca",
+   "src": "libretro:DOS/Star Wars (1988).png"
+  },
+  "elyosh-openxvt": {
+   "v": "ddd18b3e23",
+   "src": "libretro:DOS/Balance of Power (1985).png"
+  },
+  "elyosh-openxw": {
+   "v": "68677b94ca",
+   "src": "libretro:DOS/Star Wars (1988).png"
+  },
+  "elyosh-openxwa": {
+   "v": "68677b94ca",
+   "src": "libretro:DOS/Star Wars (1988).png"
+  },
+  "etroimcasso-kirpich": {
+   "v": "80e3737858",
+   "src": "libretro:Nintendo - Game Boy/Tetris (World) (Rev 1).png"
+  },
+  "exult-exult": {
+   "v": "2b23c8058b",
+   "src": "libretro:DOS/Ultima VII the black gate.png"
+  },
+  "fabiangreffrath-crispy-doom": {
+   "v": "223f335153",
+   "src": "libretro:DOS/DOOM (1993).png"
+  },
+  "fabiangreffrath-taradino": {
+   "v": "280820b794",
+   "src": "libretro:DOS/Rise of the Triad - Dark War (1994).png"
+  },
+  "fabiangreffrath-woof": {
+   "v": "223f335153",
+   "src": "libretro:DOS/DOOM (1993).png"
+  },
+  "fabioap-cpu-tekken3recomp": {
+   "v": "c2701faace",
+   "src": "libretro:Sony - PlayStation/Tekken (USA).png"
+  },
+  "fliperama86-cvlod-recomp": {
+   "v": "130575a5ff",
+   "src": "libretro:Nintendo - Nintendo 64/Castlevania (USA).png"
+  },
+  "flyngmt-acgc-pc-port": {
+   "v": "88b98a028b",
+   "src": "libretro:Nintendo - GameCube/Animal Crossing (USA).png"
+  },
+  "fte-team-fteqw": {
+   "v": "37b83ce0ee",
+   "src": "libretro:DOS/Quake (1996).png"
+  },
+  "gerstrong-commander-genius": {
+   "v": "5b1e4b3cfe",
+   "src": "libretro:DOS/Commander Keen - Keen Dreams (1993).png"
+  },
+  "gtteancum-jet-moto-anthology": {
+   "v": "ff1e73fb12",
+   "src": "libretro:Sony - PlayStation/Jet Moto (USA).png"
+  },
+  "gtteancum-opengtps1": {
+   "v": "2112472c91",
+   "src": "libretro:Sony - PlayStation/Gran Turismo (USA).png"
+  },
+  "gtteancum-openxml1xbox": {
+   "v": "5a5757ef69",
+   "src": "libretro:Microsoft - Xbox/X-Men Legends (World).png"
+  },
+  "gtteancum-xmen-mutant-academy-2-pc": {
+   "v": "8150dffd36",
+   "src": "libretro:Sony - PlayStation/X-Men - Mutant Academy 2 (USA).png"
+  },
+  "guimaraf-plusalpha-recomp": {
+   "v": "1c9440d0b6",
+   "src": "libretro:Sony - PlayStation/Street Fighter EX Plus Alpha (USA).png"
+  },
+  "gurekamdhillon-gd-melee-workspace": {
+   "v": "623b0a05ee",
+   "src": "libretro:Nintendo - GameCube/Super Smash Bros. Melee (USA).png"
+  },
+  "halmylyseas-vandalhearts-pcport": {
+   "v": "9c62e5401e",
+   "src": "libretro:Sony - PlayStation/Vandal Hearts (USA).png"
+  },
+  "harbourmasters-2ship2harkinian": {
+   "v": "668476e116",
+   "src": "libretro:Nintendo - Nintendo 64/Legend of Zelda, The - Majora's Mask (USA).png"
+  },
+  "harbourmasters-ghostship": {
+   "v": "47a6e00d1e",
+   "src": "libretro:Nintendo - Nintendo 64/Super Mario 64 (USA).png"
+  },
+  "harbourmasters-lighthouse": {
+   "v": "cb933e8cd1",
+   "src": "libretro:Nintendo - Nintendo 64/Banjo-Kazooie (USA).png"
+  },
+  "harbourmasters-paperboat": {
+   "v": "d6336d204e",
+   "src": "libretro:Nintendo - Nintendo 64/Paper Mario (USA).png"
+  },
+  "harbourmasters-shipwright": {
+   "v": "07f1f87055",
+   "src": "libretro:Nintendo - Nintendo 64/Legend of Zelda, The - Ocarina of Time (USA).png"
+  },
+  "harbourmasters-spaghettikart": {
+   "v": "8ba45266ef",
+   "src": "libretro:Nintendo - Nintendo 64/Mario Kart 64 (USA).png"
+  },
+  "harbourmasters-starship": {
+   "v": "14324e0e10",
+   "src": "libretro:Nintendo - Nintendo 64/Star Fox 64 (USA).png"
+  },
+  "harvestmoon64recomp-harvestmoon64recomp": {
+   "v": "382786ffea",
+   "src": "libretro:Nintendo - Nintendo 64/Harvest Moon 64 (USA).png"
+  },
+  "henrique194-chocolate-quake": {
+   "v": "37b83ce0ee",
+   "src": "libretro:DOS/Quake (1996).png"
+  },
+  "hero88go-melee-unlocked": {
+   "v": "623b0a05ee",
+   "src": "libretro:Nintendo - GameCube/Super Smash Bros. Melee (USA).png"
+  },
+  "inkub0-dude": {
+   "v": "2887689929",
+   "src": "libretro:DOOM/Doom 3 BFG Edition.png"
+  },
+  "interrupt-systemshock": {
+   "v": "16b1436bb8",
+   "src": "libretro:DOS/System Shock (1994).png"
+  },
+  "ioquake-ioq3": {
+   "v": "1b65f37d25",
+   "src": "libretro:Quake III/Quake III Arena.png"
+  },
+  "jackandbeans-snap64recomp": {
+   "v": "a18ef843a1",
+   "src": "libretro:Nintendo - Nintendo 64/Pokemon Snap (USA).png"
+  },
+  "jackpoison-prog-ringout": {
+   "v": "02e0356e00",
+   "src": "libretro:Nintendo - GameCube/SoulCalibur II (USA).png"
+  },
+  "jackpriceburns-foxhollow": {
+   "v": "7e1cc01887",
+   "src": "libretro:Nintendo - GameCube/Star Fox Adventures (USA).png"
+  },
+  "jacoders-openjk": {
+   "v": "68677b94ca",
+   "src": "libretro:DOS/Star Wars (1988).png"
+  },
+  "jessetbh-vpw2recomp": {
+   "v": "04f06bc0c1",
+   "src": "libretro:Nintendo - Nintendo 64/Virtual Pro Wrestling 2 - Oudou Keishou (Japan).png"
+  },
+  "jessetbh-vpw64recomp": {
+   "v": "6bc5d46bb7",
+   "src": "libretro:Nintendo - Nintendo 64/Virtual Pro Wrestling 64 (Japan).png"
+  },
+  "jessetbh-wcwnworevengerecomp": {
+   "v": "f66df0cadd",
+   "src": "libretro:Nintendo - Nintendo 64/WCW-nWo Revenge (USA).png"
+  },
+  "jessetbh-wcwvsnwoworldtourrecomp": {
+   "v": "652eb87d65",
+   "src": "libretro:Nintendo - Nintendo 64/WCW vs. nWo - World Tour (USA).png"
+  },
+  "jessetbh-wwfnomercyrecomp": {
+   "v": "a2e18238f4",
+   "src": "libretro:Nintendo - Nintendo 64/WWF No Mercy (USA).png"
+  },
+  "jessetbh-wwfwrestlemania2000recomp": {
+   "v": "d242d4ecd8",
+   "src": "libretro:Nintendo - Nintendo 64/WWF WrestleMania 2000 (USA).png"
+  },
+  "jgrennison-openttd-patches": {
+   "v": "90203dc9cd",
+   "src": "libretro:DOS/Transport Tycoon Deluxe (1995).png"
+  },
+  "jhdev2006-super-mario-bros-remastered-public": {
+   "v": "370ab3c385",
+   "src": "libretro:Nintendo - Nintendo Entertainment System/Super Mario Bros. (World).png"
+  },
+  "jkdansereau-goldeneye-pc-port": {
+   "v": "626722f8b8",
+   "src": "libretro:Nintendo - Nintendo 64/GoldenEye 007 (USA).png"
+  },
+  "jonof-jfsw": {
+   "v": "a5044d2107",
+   "src": "libretro:DOS/Shadow Warrior (1997).png"
+  },
+  "jrickey-battleship": {
+   "v": "76316e635b",
+   "src": "libretro:Nintendo - Nintendo 64/Super Smash Bros. (USA).png"
+  },
+  "junior-jones-adventure-island-ii-nes-static-recomp": {
+   "v": "5733885786",
+   "src": "libretro:Nintendo - Nintendo Entertainment System/Adventure Island II (USA).png"
+  },
+  "junior-jones-bubble-bobble-nes-static-recomp": {
+   "v": "421d5e50a5",
+   "src": "libretro:Nintendo - Nintendo Entertainment System/Bubble Bobble (USA).png"
+  },
+  "junior-jones-jungle-strike-snes-static-recomp": {
+   "v": "259d757ec5",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/Jungle Strike (USA).png"
+  },
+  "keepvaibin-nebula": {
+   "v": "8f1e0bf109",
+   "src": "libretro:Nintendo - Wii/Super Mario Galaxy (USA).png"
+  },
+  "khasinski-rage-racer-pc": {
+   "v": "51e29660cd",
+   "src": "libretro:Sony - PlayStation/Rage Racer (USA).png"
+  },
+  "kiexster-god-of-war-recomp": {
+   "v": "d087ca7058",
+   "src": "libretro:Sony - PlayStation 2/God of War (USA).png"
+  },
+  "kraftmacandchee-mercenaries-recompiled": {
+   "v": "1375fd92a3",
+   "src": "libretro:Microsoft - Xbox/Mercenaries - Playground of Destruction (USA).png"
+  },
+  "kumapauz-project-reignition": {
+   "v": "42c8399ac5",
+   "src": "libretro:Nintendo - Wii/Sonic and the Secret Rings (USA).png"
+  },
+  "kweepa-openunderground": {
+   "v": "b1b639d7f7",
+   "src": "libretro:DOS/Ultima Underworld - The Stygian Abyss (1992).png"
+  },
+  "lazd-wolf4sdl": {
+   "v": "5eee4f97e4",
+   "src": "libretro:DOS/Spear of Destiny (1992).png"
+  },
+  "lbalab-twin-e": {
+   "v": "16ac63d464",
+   "src": "libretro:DOS/Little Big Adventure (1994).png"
+  },
+  "legend-of-dragoon-modding-severed-chains": {
+   "v": "e719f4b56f",
+   "src": "libretro:Sony - PlayStation/Legend of Dragoon, The (USA).png"
+  },
+  "lethal-guitar-rigelengine": {
+   "v": "0621b93ded",
+   "src": "libretro:DOS/Duke Nukem II (1993).png"
+  },
+  "linkssy2-roadrash64recompiled": {
+   "v": "b6934740bc",
+   "src": "libretro:Nintendo - Nintendo 64/Road Rash 64 (USA).png"
+  },
+  "lostartefacts-trx": {
+   "v": "569c8061c9",
+   "src": "libretro:DOS/Tomb Raider.png"
+  },
+  "ltchips-rottexpr": {
+   "v": "280820b794",
+   "src": "libretro:DOS/Rise of the Triad - Dark War (1994).png"
+  },
+  "madxbio97-sf-pc-port": {
+   "v": "f348e9fc01",
+   "src": "libretro:Sony - PlayStation/Syphon Filter (USA).png"
+  },
+  "mariopartyrd-marioparty4": {
+   "v": "bbce51cf81",
+   "src": "libretro:Nintendo - GameCube/Mario Party 4 (USA).png"
+  },
+  "matteo842-crashbandicoot-launcher": {
+   "v": "a12cc5e38b",
+   "src": "libretro:Sony - PlayStation/Crash Bandicoot (USA).png"
+  },
+  "matymeatboy-rekhcom": {
+   "v": "d595935dd0",
+   "src": "libretro:Nintendo - Game Boy Advance/Kingdom Hearts - Chain of Memories (USA).png"
+  },
+  "megaman64recomp-megaman64recompiled": {
+   "v": "eff2efc97c",
+   "src": "libretro:Nintendo - Nintendo 64/Mega Man 64 (USA).png"
+  },
+  "mikompilation-mikupan": {
+   "v": "3cdd1192a8",
+   "src": "libretro:Sony - PlayStation 2/Fatal Frame (USA).png"
+  },
+  "mr-finster-vf1-recomp": {
+   "v": "275547bb6d",
+   "src": "libretro:Sega - Saturn/Virtua Fighter (USA).png"
+  },
+  "mr-shizzy-pacmanrecomp": {
+   "v": "22da444228",
+   "src": "libretro:Nintendo - Nintendo Entertainment System/Pac-Man (Europe).png"
+  },
+  "mstan-apeescaperecomp": {
+   "v": "28a4f0519a",
+   "src": "libretro:Sony - PlayStation/Ape Escape (USA).png"
+  },
+  "mstan-battlearenatoshindenrecomp": {
+   "v": "fc9486611f",
+   "src": "libretro:Sony - PlayStation/Battle Arena Toshinden (USA).png"
+  },
+  "mstan-dragonballzbuusfuryrecomp": {
+   "v": "cce484232d",
+   "src": "libretro:Nintendo - Game Boy Advance/Dragon Ball Z - Buu's Fury (USA).png"
+  },
+  "mstan-dragonballzlegacyofgokuiirecomp": {
+   "v": "090cd6b7d1",
+   "src": "libretro:Nintendo - Game Boy Advance/Dragon Ball Z - The Legacy of Goku II (USA).png"
+  },
+  "mstan-dragonballzlegacyofgokurecomp": {
+   "v": "54557b4673",
+   "src": "libretro:Nintendo - Game Boy Advance/Dragon Ball Z - The Legacy of Goku (USA).png"
+  },
+  "mstan-drmarionesrecomp": {
+   "v": "588ba7636f",
+   "src": "libretro:Nintendo - Nintendo Entertainment System/Dr. Mario (Europe).png"
+  },
+  "mstan-duckhuntnesrecomp": {
+   "v": "c08edef761",
+   "src": "libretro:Nintendo - Nintendo Entertainment System/Duck Hunt (World).png"
+  },
+  "mstan-emeraldrecomp": {
+   "v": "a4d22343ae",
+   "src": "libretro:Nintendo - Game Boy Advance/Pokemon (USA).png"
+  },
+  "mstan-faxanadurecomp": {
+   "v": "81fe2b4dae",
+   "src": "libretro:Nintendo - Nintendo Entertainment System/Faxanadu (USA).png"
+  },
+  "mstan-fireredleafgreenrecomp": {
+   "v": "a4d22343ae",
+   "src": "libretro:Nintendo - Game Boy Advance/Pokemon (USA).png"
+  },
+  "mstan-fzerosnesrecomp": {
+   "v": "177d7305f4",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/F-Zero (USA).png"
+  },
+  "mstan-gumshoenesrecomp": {
+   "v": "6c61e60dbd",
+   "src": "libretro:Nintendo - Nintendo Entertainment System/Gumshoe (USA, Europe).png"
+  },
+  "mstan-legendofzeldanesrecomp": {
+   "v": "3a1cb086fa",
+   "src": "libretro:Nintendo - Nintendo Entertainment System/Legend of Zelda, The (USA).png"
+  },
+  "mstan-mariokartsupercircuitrecomp": {
+   "v": "6aed990010",
+   "src": "libretro:Nintendo - Game Boy Advance/Mario Kart - Super Circuit (USA).png"
+  },
+  "mstan-mariotennisvirtualboyrecomp": {
+   "v": "690929c00d",
+   "src": "libretro:Nintendo - Virtual Boy/Mario's Tennis (Japan, USA).png"
+  },
+  "mstan-megaman3nesrecomp": {
+   "v": "c8caf15e52",
+   "src": "libretro:Nintendo - Nintendo Entertainment System/Mega Man (USA).png"
+  },
+  "mstan-megamanx4recomp": {
+   "v": "f64bbd0603",
+   "src": "libretro:Sony - PlayStation/Mega Man X4 (USA).png"
+  },
+  "mstan-megamanx5recomp": {
+   "v": "2bbb7c54e1",
+   "src": "libretro:Sony - PlayStation/Mega Man X5 (USA).png"
+  },
+  "mstan-megamanx6recomp": {
+   "v": "0ca08da4c6",
+   "src": "libretro:Sony - PlayStation/Mega Man X6 (USA).png"
+  },
+  "mstan-megamanxsnesrecomp": {
+   "v": "bf5bc22516",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/Mega Man X (USA).png"
+  },
+  "mstan-megamanzerorecomp": {
+   "v": "b965380941",
+   "src": "libretro:Nintendo - Game Boy Advance/Mega Man Zero (USA, Europe).png"
+  },
+  "mstan-metroidnesrecomp": {
+   "v": "f9332688fc",
+   "src": "libretro:Nintendo - Nintendo Entertainment System/Metroid (USA).png"
+  },
+  "mstan-metroidprimehuntersrecomp": {
+   "v": "cfe78eef8e",
+   "src": "libretro:Nintendo - Nintendo DS/Metroid Prime - Hunters (USA).png"
+  },
+  "mstan-minishcaprecomp": {
+   "v": "5bd1dc9ce5",
+   "src": "libretro:Nintendo - Game Boy Advance/Legend of Zelda, The - The Minish Cap (USA).png"
+  },
+  "mstan-pokemonstadiumrecomp": {
+   "v": "6b9af76f9f",
+   "src": "libretro:Nintendo - Nintendo 64/Pokemon Stadium (USA).png"
+  },
+  "mstan-rubysapphirerecomp": {
+   "v": "a4d22343ae",
+   "src": "libretro:Nintendo - Game Boy Advance/Pokemon (USA).png"
+  },
+  "mstan-starfoxsnesrecomp": {
+   "v": "cf694ea5a4",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/Star Fox (USA).png"
+  },
+  "mstan-supermarioadvance2recomp": {
+   "v": "2e3a5724e4",
+   "src": "libretro:Nintendo - Game Boy Advance/Super Mario Advance 2 - Super Mario World (Europe) (En,Fr,De,Es).png"
+  },
+  "mstan-supermarioadvance4recomp": {
+   "v": "036beac69f",
+   "src": "libretro:Nintendo - Game Boy Advance/Super Mario Advance 4 - Super Mario Bros. 3 (USA).png"
+  },
+  "mstan-supermariobrosnesrecomp": {
+   "v": "370ab3c385",
+   "src": "libretro:Nintendo - Nintendo Entertainment System/Super Mario Bros. (World).png"
+  },
+  "mstan-supermarioworldrecomp": {
+   "v": "b12e86a51d",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/Super Mario World (USA).png"
+  },
+  "mstan-supermetroidrecomp": {
+   "v": "83a9a733f7",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/Super Metroid (USA, Europe) (En,Ja) (Virtual Console, Classic Mini, Switch Online).png"
+  },
+  "mstan-tomba2recomp": {
+   "v": "a11a69860f",
+   "src": "libretro:Sony - PlayStation/Tomba! 2 - The Evil Swine Return (USA).png"
+  },
+  "mstan-tombarecomp": {
+   "v": "f9fe89f777",
+   "src": "libretro:Sony - PlayStation/Tomba! (USA).png"
+  },
+  "mstan-tsumulightrecomp": {
+   "v": "f28b0ad805",
+   "src": "libretro:Sony - PlayStation/Tsumu Light (Japan).png"
+  },
+  "mstan-wariowaretwistedrecomp": {
+   "v": "51fa2ee84e",
+   "src": "libretro:Nintendo - Game Boy Advance/WarioWare - Twisted! (USA).png"
+  },
+  "mstan-yoshinesrecomp": {
+   "v": "febf85cf0a",
+   "src": "libretro:Nintendo - Nintendo Entertainment System/Yoshi (USA).png"
+  },
+  "mstan-yoshiscookierecomp": {
+   "v": "388cd09b7c",
+   "src": "libretro:Nintendo - Nintendo Entertainment System/Yoshi's Cookie (USA).png"
+  },
+  "mstan-zeldaalttpsnesrecomp": {
+   "v": "2262233dcd",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/Legend of Zelda, The - A Link to the Past (USA).png"
+  },
+  "nagyd-sdlpop": {
+   "v": "1e25aa2abe",
+   "src": "libretro:DOS/Prince of Persia (1990).png"
+  },
+  "nathanialf-ico-pc": {
+   "v": "adde018b0c",
+   "src": "libretro:Sony - PlayStation 2/Ico (USA).png"
+  },
+  "neuromancer-wc1-re": {
+   "v": "b57ca607cf",
+   "src": "libretro:DOS/Wing Commander (1990).png"
+  },
+  "neuromancer-wc2-re": {
+   "v": "efb3b9fb98",
+   "src": "libretro:DOS/Wing Commander II - Deluxe Edition.png"
+  },
+  "neuviemeporte-f15se2-ex": {
+   "v": "50025a2dfd",
+   "src": "libretro:Commodore - Amiga/F-15 Strike Eagle II (Europe).png"
+  },
+  "nicholas-ochoa-opensc2k": {
+   "v": "4e5c963fe3",
+   "src": "libretro:DOS/SimCity 2000.png"
+  },
+  "njh-1001-finfantacrecomp": {
+   "v": "8abaf0b266",
+   "src": "libretro:Sony - PlayStation/Final Fantasy Tactics (USA).png"
+  },
+  "noahvl-birdman64": {
+   "v": "ceb9c3a696",
+   "src": "libretro:Nintendo - Nintendo 64/Pilotwings 64 (USA).png"
+  },
+  "norain211-doaxbv-re": {
+   "v": "ad0d2bd4be",
+   "src": "libretro:Microsoft - Xbox/Dead or Alive Xtreme Beach Volleyball (USA).png"
+  },
+  "novapowers0-bloodyroar2recomp": {
+   "v": "807493ab92",
+   "src": "libretro:Sony - PlayStation/Bloody Roar (USA).png"
+  },
+  "novum-vkquake": {
+   "v": "37b83ce0ee",
+   "src": "libretro:DOS/Quake (1996).png"
+  },
+  "nukeykt-nblood": {
+   "v": "dd27c42bf7",
+   "src": "libretro:DOS/Blood (1997).png"
+  },
+  "nxengine-nxengine-evo": {
+   "v": "aefd608cc8",
+   "src": "libretro:Cave Story/Cave Story (De).png"
+  },
+  "obaidr1-hercules-recompiled": {
+   "v": "ae0fbca880",
+   "src": "libretro:Sony - PlayStation/Disney's Hercules Action Game (USA).png"
+  },
+  "odamex-odamex": {
+   "v": "223f335153",
+   "src": "libretro:DOS/DOOM (1993).png"
+  },
+  "odrannnn-metroidprimeport": {
+   "v": "49c6315188",
+   "src": "libretro:Nintendo - GameCube/Metroid Prime (USA).png"
+  },
+  "omegakatana92-guiltygearrecomp": {
+   "v": "622a606924",
+   "src": "libretro:Sony - PlayStation/Guilty Gear (USA).png"
+  },
+  "omegakatana92-gundam-seed-battle-assault-recomp": {
+   "v": "54bdff940f",
+   "src": "libretro:Nintendo - Game Boy Advance/Mobile Suit Gundam Seed - Battle Assault (USA).png"
+  },
+  "omegakatana92-gundambattleassault2recomp": {
+   "v": "7fff85331d",
+   "src": "libretro:Sony - PlayStation/Gundam Battle Assault 2 (USA).png"
+  },
+  "omegakatana92-gundambattlemaster2recomp": {
+   "v": "925e1763e7",
+   "src": "libretro:Sony - PlayStation/Gundam the Battle Master (Japan).png"
+  },
+  "omegakatana92-gundambattlemasterrecomp": {
+   "v": "7db99e3398",
+   "src": "libretro:Sony - PlayStation/Battle Master (Japan).png"
+  },
+  "omegakatana92-madstalkerrecomp": {
+   "v": "8970644c4f",
+   "src": "libretro:Sony - PlayStation/Mad Stalker - Full Metal Force (Japan).png"
+  },
+  "omegakatana92-mega-man-8-recomp": {
+   "v": "7d1dba13bd",
+   "src": "libretro:Sony - PlayStation/Mega Man 8 (USA).png"
+  },
+  "omf2097-openomf": {
+   "v": "d3bdd52f2b",
+   "src": "libretro:DOS/One Must Fall 2097 (1994).png"
+  },
+  "open-goal-jak-project": {
+   "v": "5e362300ac",
+   "src": "libretro:Sony - PlayStation 2/Jak 3 (USA) (En,Fr,De,Es,It,Pt,Ru).png"
+  },
+  "openapoc-openapoc": {
+   "v": "d61a413364",
+   "src": "libretro:DOS/X-COM - Apocalypse (1997).png"
+  },
+  "opencommunityedition-opence": {
+   "v": "091496c506",
+   "src": "libretro:Microsoft - Xbox/Halo - Combat Evolved (USA).png"
+  },
+  "opendriver2-redriver2": {
+   "v": "3468ca37f7",
+   "src": "libretro:Sony - PlayStation/Driver 2 (USA).png"
+  },
+  "openfodder-openfodder": {
+   "v": "10bd948fdd",
+   "src": "libretro:DOS/Cannon Fodder (1993).png"
+  },
+  "openloco-openloco": {
+   "v": "6226b43587",
+   "src": "libretro:Commodore - Amiga/Locomotion (Europe).png"
+  },
+  "openra-openra": {
+   "v": "1f1f52e60f",
+   "src": "libretro:DOS/Command and Conquer (1995).png"
+  },
+  "openttd-openttd": {
+   "v": "b2f820b223",
+   "src": "libretro:DOS/Transport Tycoon (1994).png"
+  },
+  "opentyrian-opentyrian": {
+   "v": "e93ac90098",
+   "src": "libretro:DOS/Tyrian (1995).png"
+  },
+  "openxcom-openxcom": {
+   "v": "958531cfcf",
+   "src": "libretro:DOS/X-COM - Terror from the Deep (1995).png"
+  },
+  "opokxeno-xenogears-recomp": {
+   "v": "1f953f1aec",
+   "src": "libretro:Sony - PlayStation/Xenogears (USA).png"
+  },
+  "panzerschrek-chasm-reverse": {
+   "v": "8ce7afb571",
+   "src": "libretro:DOS/Chasm - The Rift (1997).png"
+  },
+  "parkerallan-doa3-recomp": {
+   "v": "0ab41d53fc",
+   "src": "libretro:Microsoft - Xbox/Dead or Alive 3 (USA).png"
+  },
+  "patchzyy-wiicompiled": {
+   "v": "ea1a662ebc",
+   "src": "libretro:Nintendo - Wii/Mario Kart Wii (USA).png"
+  },
+  "perfect-dark-pc-port-perfect-dark": {
+   "v": "a19e36edbf",
+   "src": "libretro:Nintendo - Nintendo 64/Perfect Dark (USA).png"
+  },
+  "phoboslab-wipeout-rewrite": {
+   "v": "c052ec7fa0",
+   "src": "libretro:Sony - PlayStation/WipEout (USA).png"
+  },
+  "pyrdacor-ambermoon-net": {
+   "v": "3f16537dd6",
+   "src": "libretro:Commodore - Amiga/Ambermoon (Europe).png"
+  },
+  "pyrdacor-freeserf-net": {
+   "v": "444720b7d4",
+   "src": "libretro:Commodore - Amiga/Settlers, The (Europe).png"
+  },
+  "raceintospace-raceintospace": {
+   "v": "1a9f1e13e2",
+   "src": "libretro:DOS/Buzz Aldrin's Race into Space (1993).png"
+  },
+  "radzprower-super-metroid-launcher": {
+   "v": "83a9a733f7",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/Super Metroid (USA, Europe) (En,Ja) (Virtual Console, Classic Mini, Switch Online).png"
+  },
+  "radzprower-zelda-3-launcher": {
+   "v": "2262233dcd",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/Legend of Zelda, The - A Link to the Past (USA).png"
+  },
+  "rainchus-chameleontwist1-jp-recomp": {
+   "v": "3de3520cfc",
+   "src": "libretro:Nintendo - Nintendo 64/Chameleon Twist (USA).png"
+  },
+  "rainchus-chameleontwist2-jp-recomp": {
+   "v": "3a25b325ae",
+   "src": "libretro:Nintendo - Nintendo 64/Chameleon Twist 2 (USA).png"
+  },
+  "rainchus-donkey-kong-64-recompiled": {
+   "v": "6586aabf0e",
+   "src": "libretro:Nintendo - Nintendo 64/Donkey Kong 64 (USA).png"
+  },
+  "rainchus-quest64-recomp": {
+   "v": "95589f14f2",
+   "src": "libretro:Nintendo - Nintendo 64/Quest 64 (USA).png"
+  },
+  "return-to-the-roots-s25client": {
+   "v": "d02942374c",
+   "src": "libretro:DOS/Settlers II, The (Gold Edition).png"
+  },
+  "revosucks-bm64recomp": {
+   "v": "ebd0e7f936",
+   "src": "libretro:Nintendo - Nintendo 64/Bomberman 64 (USA).png"
+  },
+  "revosucks-bmherorecomp": {
+   "v": "10673714c4",
+   "src": "libretro:Nintendo - Nintendo 64/Bomberman Hero (USA).png"
+  },
+  "robertbeckebans-rbdoom-3-bfg": {
+   "v": "2887689929",
+   "src": "libretro:DOOM/Doom 3 BFG Edition.png"
+  },
+  "robgreenuk-ridge-racer-ps1-recomp": {
+   "v": "b87622bb9c",
+   "src": "libretro:Sony - PlayStation/Ridge Racer (USA).png"
+  },
+  "rsdkmodding-rsdkv3-decompilation": {
+   "v": "9609fcba4b",
+   "src": "libretro:Sega - Mega-CD - Sega CD/Sonic CD (USA).png"
+  },
+  "rsdkmodding-rsdkv4-decompilation": {
+   "v": "d02bac5341",
+   "src": "libretro:Sega - Mega Drive - Genesis/Sonic The Hedgehog (USA, Europe).png"
+  },
+  "ruinelson-streetsofrageproject": {
+   "v": "9efe6451bb",
+   "src": "libretro:Sega - Mega Drive - Genesis/Streets of Rage (World).png"
+  },
+  "sal063-ace-combat-5-static-recompilation": {
+   "v": "e0baed1a7c",
+   "src": "libretro:Sony - PlayStation 2/Ace Combat 5 - The Unsung War (USA) (En,Ja).png"
+  },
+  "samsteprojects-legend-of-legaia-recomp": {
+   "v": "1f9224c6be",
+   "src": "libretro:Sony - PlayStation/Legend of Legaia (USA).png"
+  },
+  "sciaschi-cbfd-recompiled": {
+   "v": "fb3789e906",
+   "src": "libretro:Nintendo - Nintendo 64/Conker's Bad Fur Day (USA).png"
+  },
+  "sezero-quakespasm": {
+   "v": "37b83ce0ee",
+   "src": "libretro:DOS/Quake (1996).png"
+  },
+  "shmargus-gsrecomp": {
+   "v": "71cec5dbf0",
+   "src": "libretro:Nintendo - Game Boy Advance/Golden Sun (USA, Europe).png"
+  },
+  "silverwiregames-rechan": {
+   "v": "c13c68411c",
+   "src": "libretro:Sony - PlayStation/Jackie Chan Stuntmaster (USA).png"
+  },
+  "sinan-karakaya-dq8-recompiled": {
+   "v": "95926e4905",
+   "src": "libretro:Sony - PlayStation 2/Dragon Quest VIII - Journey of the Cursed King (USA).png"
+  },
+  "skyjake-doomsday-engine": {
+   "v": "223f335153",
+   "src": "libretro:DOS/DOOM (1993).png"
+  },
+  "slickamogus-silent-hill-decomp": {
+   "v": "520ada0f46",
+   "src": "libretro:Sony - PlayStation/Silent Hill (USA).png"
+  },
+  "smcgames-paper-mario-recut": {
+   "v": "d6336d204e",
+   "src": "libretro:Nintendo - Nintendo 64/Paper Mario (USA).png"
+  },
+  "snesrev-smw": {
+   "v": "b12e86a51d",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/Super Mario World (USA).png"
+  },
+  "snesrev-zelda3": {
+   "v": "2262233dcd",
+   "src": "libretro:Nintendo - Super Nintendo Entertainment System/Legend of Zelda, The - A Link to the Past (USA).png"
+  },
+  "some-scurvy-dog-banjo-tooie-scurvy-dog-port": {
+   "v": "31c86b375d",
+   "src": "libretro:Nintendo - Nintendo 64/Banjo-Tooie (USA).png"
+  },
+  "sonicdcer-dnzhrecomp": {
+   "v": "733aec3fe1",
+   "src": "libretro:Nintendo - Nintendo 64/Duke Nukem - Zero Hour (USA).png"
+  },
+  "sonicdcer-mariokart64recomp": {
+   "v": "8ba45266ef",
+   "src": "libretro:Nintendo - Nintendo 64/Mario Kart 64 (USA).png"
+  },
+  "sonicdcer-starfox64recomp": {
+   "v": "14324e0e10",
+   "src": "libretro:Nintendo - Nintendo 64/Star Fox 64 (USA).png"
+  },
+  "sonicfreak1337-sarecomp": {
+   "v": "b047846d3d",
+   "src": "libretro:Sega - Dreamcast/Sonic Adventure (USA).png"
+  },
+  "sp00nznet-linksawakening-portable": {
+   "v": "a450def5c2",
+   "src": "libretro:Nintendo - Game Boy Color/Legend of Zelda, The - Link's Awakening DX (USA, Europe) (SGB Enhanced) (GB Compatible).png"
+  },
+  "sp00nznet-neodriftout": {
+   "v": "e4e1affa7e",
+   "src": "libretro:FBNeo - Arcade Games/Neo Drift Out - New Technology.png"
+  },
+  "spacefarergames-aloneinthedarkrehaunted": {
+   "v": "ac517f7cc2",
+   "src": "libretro:DOS/Alone in the Dark (1992).png"
+  },
+  "ssunnking-open-nectar-pikmin-native-pc-mobile-port": {
+   "v": "d73be1c4eb",
+   "src": "libretro:Nintendo - GameCube/Pikmin (USA).png"
+  },
+  "stonedmodder-auto-tmc": {
+   "v": "5bd1dc9ce5",
+   "src": "libretro:Nintendo - Game Boy Advance/Legend of Zelda, The - The Minish Cap (USA).png"
+  },
+  "strider973-street-fighter-ex2-plus-recompiled": {
+   "v": "e29f0f4e0c",
+   "src": "libretro:Sony - PlayStation/Street Fighter EX2 Plus (USA).png"
+  },
+  "strider973-strider-2-recompiled": {
+   "v": "888c3c7b24",
+   "src": "libretro:Sony - PlayStation/Strider 2 (USA).png"
+  },
+  "styd051-doom64-ex-plus-enhanced": {
+   "v": "d18d451885",
+   "src": "libretro:Nintendo - Nintendo 64/Doom 64 (USA).png"
+  },
+  "swfans-syndwarsfx": {
+   "v": "e9c0fca9b6",
+   "src": "libretro:DOS/Syndicate Wars (1996).png"
+  },
+  "team-eternity-eternity": {
+   "v": "223f335153",
+   "src": "libretro:DOS/DOOM (1993).png"
+  },
+  "technicallycomputers-street-fighter-alpha-3-recomp": {
+   "v": "78d6e63728",
+   "src": "libretro:Sony - PlayStation/Street Fighter Alpha 3 (USA).png"
+  },
+  "tekrantgaming-simpsons-wrestling-recompiled": {
+   "v": "95e26be624",
+   "src": "libretro:Sony - PlayStation/Simpsons Wrestling, The (USA).png"
+  },
+  "tekrantgaming-sms-pc-port": {
+   "v": "94b7173873",
+   "src": "libretro:Nintendo - GameCube/Super Mario Sunshine (USA).png"
+  },
+  "teraflopping-xrevive": {
+   "v": "84b7c79ca9",
+   "src": "libretro:Microsoft - Xbox/Ninja Gaiden Black (USA).png"
+  },
+  "tetrisgm-ridgeracertype4recomp": {
+   "v": "1a22cd4b85",
+   "src": "libretro:Sony - PlayStation/R4 - Ridge Racer Type 4 (USA).png"
+  },
+  "thatguymcd-dkr-r": {
+   "v": "8a7ba9805c",
+   "src": "libretro:Nintendo - Nintendo 64/Diddy Kong Racing (USA) (En,Fr).png"
+  },
+  "thatguymcd-glover-r": {
+   "v": "e300f5c848",
+   "src": "libretro:Nintendo - Nintendo 64/Glover (USA).png"
+  },
+  "thatguymcd-rocket-r": {
+   "v": "e91bda761a",
+   "src": "libretro:Nintendo - Nintendo 64/Rocket - Robot on Wheels (USA).png"
+  },
+  "theassemblyarmada-vanilla-conquer": {
+   "v": "1f1f52e60f",
+   "src": "libretro:DOS/Command and Conquer (1995).png"
+  },
+  "theboy181-drmario64-recomp-plus": {
+   "v": "d04e5d9aa4",
+   "src": "libretro:Nintendo - Nintendo 64/Dr. Mario 64 (USA).png"
+  },
+  "theclub654-projectcane": {
+   "v": "590c07cbf1",
+   "src": "libretro:Sony - PlayStation 2/Sly Cooper and the Thievius Raccoonus (USA).png"
+  },
+  "theforceengine-theforceengine": {
+   "v": "68677b94ca",
+   "src": "libretro:DOS/Star Wars (1988).png"
+  },
+  "thiagolira-trouble-makers-pc-recomp": {
+   "v": "b9196c2182",
+   "src": "libretro:Nintendo - Nintendo 64/Mischief Makers (USA).png"
+  },
+  "troyedwardsjr-z2rs": {
+   "v": "a6cedb75ae",
+   "src": "libretro:Nintendo - Nintendo Entertainment System/Zelda II - The Adventure of Link (USA).png"
+  },
+  "turican0-remc2": {
+   "v": "c5919719f8",
+   "src": "libretro:DOS/Magic Carpet 2 - The Netherworlds (1995).png"
+  },
+  "twilitrealm-dusklight": {
+   "v": "e01233f49d",
+   "src": "libretro:Nintendo - GameCube/Legend of Zelda, The - Twilight Princess (USA).png"
+  },
+  "unchiga-yu-gi-oh-forbidden-memories-recompiled": {
+   "v": "5a55fe3c27",
+   "src": "libretro:Sony - PlayStation/Yu-Gi-Oh! Forbidden Memories (USA).png"
+  },
+  "uzdoom-uzdoom": {
+   "v": "223f335153",
+   "src": "libretro:DOS/DOOM (1993).png"
+  },
+  "vibecodekun-shantaerecomp": {
+   "v": "a85624ddff",
+   "src": "libretro:Nintendo - Game Boy Color/Shantae (USA).png"
+  },
+  "vidanox-banjotooierecompiled": {
+   "v": "31c86b375d",
+   "src": "libretro:Nintendo - Nintendo 64/Banjo-Tooie (USA).png"
+  },
+  "voicedrew11-verdite1": {
+   "v": "ed8dd757d9",
+   "src": "libretro:Sony - PlayStation/King's Field (Japan).png"
+  },
+  "voicedrew11-verdite2": {
+   "v": "595209ecd1",
+   "src": "libretro:Sony - PlayStation/King's Field (USA).png"
+  },
+  "wargus-wargus": {
+   "v": "4bbc3ebfb8",
+   "src": "libretro:DOS/Warcraft II - Tides of Darkness (1995).png"
+  },
+  "warzone2100-warzone2100": {
+   "v": "9ed7dddc4c",
+   "src": "libretro:Commodore - Amiga/Warzone (Europe).png"
+  },
+  "wipeout-phantom-edition-wipeout-phantom-edition": {
+   "v": "c052ec7fa0",
+   "src": "libretro:Sony - PlayStation/WipEout (USA).png"
+  },
+  "witherblitz-nsmb-wii-multiplayer-recompilation": {
+   "v": "96848b8b99",
+   "src": "libretro:Nintendo - Wii/New Super Mario Bros. Wii (USA).png"
+  },
+  "wivi514-dead-rising-2-case-west-xenon-recomp": {
+   "v": "16160de968",
+   "src": "libretro:Microsoft - Xbox 360/Dead Rising (USA).png"
+  },
+  "wivi514-dead-rising-2-case-zero-xenon-recomp": {
+   "v": "16160de968",
+   "src": "libretro:Microsoft - Xbox 360/Dead Rising (USA).png"
+  },
+  "xproger-openlara": {
+   "v": "88d34ad495",
+   "src": "libretro:Sony - PlayStation/Tomb Raider (USA).png"
+  },
+  "yannicksuter-mscharged-port": {
+   "v": "0512d467ab",
+   "src": "libretro:Nintendo - Wii/Mario Strikers Charged (USA).png"
+  },
+  "yquake2-yquake2": {
+   "v": "cfb4e915ed",
+   "src": "libretro:Quake II/Quake II.png"
+  },
+  "yuutatsubasa-chaotixrecompiled": {
+   "v": "a59e5ae752",
+   "src": "libretro:Sega - 32X/Knuckles' Chaotix (Europe).png"
+  },
+  "z3xox-bt3-recomp": {
+   "v": "d859473e75",
+   "src": "libretro:Sony - PlayStation 2/Dragon Ball Z - Budokai Tenkaichi 3 (USA) (En,Ja).png"
+  },
+  "zdoom-gzdoom": {
+   "v": "223f335153",
+   "src": "libretro:DOS/DOOM (1993).png"
+  },
+  "zdoom-raze": {
+   "v": "dd27c42bf7",
+   "src": "libretro:DOS/Blood (1997).png"
+  },
+  "zelda64recomp-zelda64recomp": {
+   "v": "668476e116",
+   "src": "libretro:Nintendo - Nintendo 64/Legend of Zelda, The - Majora's Mask (USA).png"
+  },
+  "zeldawwhdrecomp-zeldawwhdrecomp": {
+   "v": "72c40a525f",
+   "src": "libretro:Nintendo - Wii U/Legend of Zelda, The - The Wind Waker HD (Europe, Australia) (En,Fr,De,Es,It).png"
+  },
+  "zorkats-g-diffuser": {
+   "v": "522229f6b8",
+   "src": "libretro:Nintendo - Nintendo 64/F-Zero X (USA).png"
+  },
+  "zumbo06-crash2recomp": {
+   "v": "4947f4830a",
+   "src": "libretro:Sony - PlayStation/Crash Bandicoot 2 - Cortex Strikes Back (USA).png"
+  }
+ }
+}

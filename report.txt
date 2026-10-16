@@ -1,0 +1,157 @@
+Juegos sin portada (155). Pon una imagen en covers/manual/<id>.png|jpg|webp y vuelve a ejecutar.
+
+distilledorion-sketch-initial-d-arcade-stage-3-native-sh-4-recompilation-wip Arcade             Initial D Arcade Stage 3
+djyt-cannonball                                         Arcade             OutRun
+mstan-shrekgbavideorecomp                               Game Boy Advance   Shrek (GBA Video)
+nukep-smb-vanilla-port                                  NES                Super Mario Bros. y The Lost Levels
+fearkov-3dsrecomp                                       Nintendo 3DS       3dsrecomp + Zakuro · Nintendo 3DS Static Recompiler
+dinosaurplanetrecomp-dino-recomp                        Nintendo 64        Dinosaur Planet
+citrongames-dora64                                      Nintendo 64        Doraemon: Nobita to Mittsu no Seireiseki
+klorfmorf-goemon64recomp                                Nintendo 64        Goemon 64
+cellenseres-sssv-recomp                                 Nintendo 64        Space Station Silicon Valley
+gcsmith-superman64recomp                                Nintendo 64        Superman: The New Superman Adventures
+danielgomesvieira2000-wave-race-64-recomp               Nintendo 64        Wave Race 64
+yell0wsuit-cuttherope-dx                                Otros              Cut the Rope
+official-kryo-to-ctw-native                             Otros              Grand Theft Auto: Chinatown Wars
+scummvm-scummvm                                         Otros              ScummVM · Aventuras clásicas
+k4zmu2a-spacecadetpinball                               PC                 3D Pinball: Space Cadet
+xtreme8000-betterspades                                 PC                 Ace of Spades (Classic)
+arx-arxlibertatis                                       PC                 Arx Fatalis
+gemrb-gemrb                                             PC                 Baldur's Gate
+cxong-cdogs-sdl                                         PC                 C-Dogs
+arnoansems-catacombgl                                   PC                 Catacomb 3D
+olcayseygan-cncgeneralszh-reforged                      PC                 Command & Conquer: Generals — Zero Hour
+yuriplanet-vera20k                                      PC                 Command & Conquer: Red Alert 2 — Yuri’s Revenge
+sulix-omnispeak                                         PC                 Commander Keen 4
+banteg-crimson                                          PC                 Crimsonland Classic
+interkarma-daggerfall-unity                             PC                 Daggerfall
+diasurgical-devilutionx                                 PC                 Diablo
+dgcor-dgengine                                          PC                 Diablo (1996)
+mralaux-nugget-doom                                     PC                 DOOM / DOOM II
+scp-fs2open-fs2open-github-com                          PC                 FreeSpace 2
+try-opengothic                                          PC                 Gothic II: Night of the Raven
+fwgs-xash3d-fwgs                                        PC                 Half-Life
+splittydev-openhp1                                      PC                 Harry Potter and the Philosopher’s Stone (PC)
+m-x-d-heretic2r                                         PC                 Heretic II
+vcmi-vcmi                                               PC                 Heroes III
+ihhub-fheroes2                                          PC                 Heroes Of Might And Magic 2
+hurricangame-hurrican                                   PC                 Hurrican
+ja2-stracciatella-ja2-stracciatella                     PC                 Jagged Alliance 2
+icereaper-openkrush                                     PC                 Krush, Kill ’n’ Destroy / KKnD2
+isledecomp-isle-portable                                PC                 LEGO Island
+isledecomp-racers-portable                              PC                 LEGO Racers (1999)
+openlierox-openlierox                                   PC                 Liero Xtreme
+lbalab-lba2-classic-community                           PC                 Little Big Adventure 2: Twinsen’s Odyssey
+wiredforwar-machines                                    PC                 Machines: Wired for War
+aleph-one-marathon-alephone                             PC                 Marathon
+maxr-dot-org-maxr                                       PC                 Mechanized Assault & eXploration (M.A.X.)
+alariq-mc2                                              PC                 MechCommander 2
+openmoh-openmohaa                                       PC                 Medal of Honor: Allied Assault
+openenroth-openenroth                                   PC                 Might and Magic VII
+javanaise-mrboom-libretro                               PC                 Mr.Boom
+opennox-opennox                                         PC                 Nox
+bishop-333-omega-engine                                 PC                 OpenArena
+outpostuniverse-ophd                                    PC                 Outpost (1994)
+dalerank-akhenaten                                      PC                 Pharaoh
+themuffinator-openprey                                  PC                 Prey (2006)
+themuffinator-openq4                                    PC                 Quake 4
+qw-group-ezquake-source                                 PC                 QuakeWorld
+iortcw-iortcw                                           PC                 Return to Castle Wolfenstein
+openrct2-openrct2                                       PC                 Rollercoaster Tycoon
+openxray-xray-16                                        PC                 S.T.A.L.K.E.R.: Call of Pripyat
+tx00100xt-serioussamclassic-vk                          PC                 Serious Sam: The First Encounter y The Second Encounter
+the3dfxdude-7kaa                                        PC                 Seven Kingdoms: Ancient Adversaries
+rsdkmodding-sonic-mania-decompilation                   PC                 Sonic Mania
+fragglet-sdl-sopwith                                    PC                 Sopwith
+clover-moe-lilium-voyager                               PC                 Star Trek: Voyager — Elite Force Holomatch
+kugelrund-speed-academy                                 PC                 Star Wars Jedi Knight: Jedi Academy
+openreliant-openreliant                                 PC                 StarLancer
+mystichaze157-fata-morgana-project                      PC                 The House in Fata Morgana
+sdlpal-sdlpal                                           PC                 The Legend Of Sword And Fairy
+cardanawandra-th06                                      PC                 Touhou 6: Embodiment of Scarlet Devil
+tribal-trouble-tribaltrouble                            PC                 Tribal Trouble
+abedegno-underworld-exhumed                             PC                 Ultima Underworld I & II
+kranx-vangers                                           PC                 Vangers
+jjmhalew-woodyre                                        PC                 Woody Woodpecker: Escape from Buzz Buzzard Park
+samwhosung-benilla                                      PC                 World of Warcraft (1.12.1)
+ctr-tools-ctr-native                                    PlayStation        Crash Team Racing
+strider973-einhander-recompiled                         PlayStation        Einhander
+sdw-community-sheep-dog-n-wolf-rewooled                 PlayStation        Sheep, Dog 'n' Wolf / Sheep Raider
+gtteancum-spideyps1recomp                               PlayStation        Spider-Man (PS1) / Spider-Man 2: Enter Electro
+periblugaming-toystory2recomp                           PlayStation        Toy Story 2
+re-rac-rerac                                            PlayStation 2      Ratchet & Clank (2002)
+crowded-street-3sx                                      PlayStation 2      Street Fighter III: 3rd Strike
+guimaraf-3sxw                                           PlayStation 2      Street Fighter III: 3rd Strike
+canersaka-yakuza-dead-souls-ex                          PlayStation 3      Yakuza: Dead Souls
+supermedo-bloodborne-pc                                 PlayStation 4      Bloodborne
+awesomeobserver-bloodborne-pc                           PlayStation 4      Bloodborne
+getlostin-ctr-nitrofueled-pc                            PlayStation 4      Crash Team Racing Nitro-Fueled
+felipeprado0-gow3-pc                                    PlayStation 4      God of War III Remastered
+loreanxavier-pt-pc                                      PlayStation 4      P.T.
+ajncsystem-shadowofthecolossus-pc                       PlayStation 4      Shadow of the Colossus (2018)
+teamgdb-yakumo                                          PSP                Monster Hunter Portable 3rd HD
+mstan-sonic3andknucklesrecomp                           Sega               Sonic the Hedgehog 3 / Sonic & Knuckles
+peiikai-lasrecomp                                       Switch             The Legend of Zelda: Link's Awakening (2019)
+mstan-zeroracersvirtualboyrecomp                        Virtual Boy        Zero Racers
+expansionpak-moderngekko                                Wii                Kirby Wii
+sal063-ac6-recomp                                       Xbox 360           Ace Combat 6: Fires of Liberation
+masterspike52-renut                                     Xbox 360           Banjo-Kazooie: Nuts & Bolts
+zolaware-reblue                                         Xbox 360           Blue Dragon
+shipa-2-xerenge                                         Xbox 360           Burnout Revenge
+paulcombal-mw2-recompiled                               Xbox 360           Call of Duty: Modern Warfare 2
+birabittoh-nocturnerecomp                               Xbox 360           Castlevania: Symphony of the Night
+psxrestore-condemned2recomp                             Xbox 360           Condemned 2
+oaleex-mojorecomp                                       Xbox 360           Crash of the Titans
+maxilure-mindover-recomp                                Xbox 360           Crash: Mind over Mutant
+florinp93-hells-gate-recomp                             Xbox 360           Dante's Inferno
+littlebitua-dprecomp                                    Xbox 360           Deadly Premonition
+masterspike52-redahm                                    Xbox 360           Destroy All Humans: Path of the Furon
+novapowers0-dbz-budokai-3-hd-collection                 Xbox 360           Dragon Ball Z: Budokai 3 HD
+wistfulhopes-dbz1                                       Xbox 360           Dragon Ball Z: Budokai HD
+iexplosiverage-dbz-burst-limit-recompiled               Xbox 360           Dragon Ball Z: Burst Limit
+tekrantgaming-earthworm-jim-hd-recompiled               Xbox 360           Earthworm Jim HD
+birabittoh-eternalsonatareprise                         Xbox 360           Eternal Sonata
+fluffyquack-rexglue-exit                                Xbox 360           EXIT
+himdo-fable-2-recomp                                    Xbox 360           Fable II
+thesalttrader-a-legend-never-dies-fable-2-recompilation Xbox 360           Fable II
+whompay-fncreborn                                       Xbox 360           Fight Night Champion
+arcanite24-pinyon-shift                                 Xbox 360           Forza Horizon
+dyotson-forzahorizon1-reimagined                        Xbox 360           Forza Horizon (2012)
+saulob-geometry-wars-retro-evolved-2-recompiled         Xbox 360           Geometry Wars: Retro Evolved 2
+sunjaycy-goldeneye-recomp                               Xbox 360           GoldenEye 007 XBLA
+ronniecloud-re-wor                                      Xbox 360           Guitar Hero: Warriors of Rock
+saulob-hard-corps-uprising-recompiled                   Xbox 360           Hard Corps: Uprising
+doc-haz-infinite-undiscovery-recomp                     Xbox 360           Infinite Undiscovery
+birabittoh-kameorepowered                               Xbox 360           Kameo
+nevercookfirst-dimensionsrecomp                         Xbox 360           LEGO Dimensions
+freefrank-lostodysseyrecomp                             Xbox 360           Lost Odyssey
+holdmysocks-mcla-recomp                                 Xbox 360           Midnight Club: Los Angeles Complete Edition
+kawaiibunga-mkvdcu-recomp                               Xbox 360           Mortal Kombat vs. DC Universe
+gtteancum-openjam                                       Xbox 360           NBA Jam: On Fire Edition
+windroid-emu-nfsmw-recomp                               Xbox 360           Need for Speed: Most Wanted
+madelrandel-blip-nfsmw-recompiled                       Xbox 360           Need for Speed: Most Wanted (2005)
+puckhead73-nhl-legacy-recomp                            Xbox 360           NHL Legacy Edition
+thesalttrader-ninja-s-dawn-a-ninja-gaiden-2-recompilation-project Xbox 360           Ninja Gaiden II
+tekrantgaming-outpost-kaloki-x-recompiled               Xbox 360           Outpost Kaloki X
+nikolaygorb-perfectdarkzerorecomp                       Xbox 360           Perfect Dark Zero
+tekrantgaming-king-kong-recompiled                      Xbox 360           Peter Jackson's King Kong
+beatrixzy-pgr4-recomp                                   Xbox 360           Project Gotham Racing 4
+belmantegu-raymanoriginsrecomp                          Xbox 360           Rayman Origins
+whompay-saintsreborn                                    Xbox 360           Saints Row
+m1ndcrap-sega-superstars-tennis-rematch                 Xbox 360           Sega Superstars Tennis
+littlebitua-downpourrecomp                              Xbox 360           Silent Hill: Downpour
+mchughalex-skate3recomp                                 Xbox 360           Skate 3
+yuutatsubasa-free-riders-recompiled                     Xbox 360           Sonic Free Riders
+player124413-fightersrecomp                             Xbox 360           Sonic the Fighters
+pranchad-re-sonic06demo                                 Xbox 360           Sonic the Hedgehog (2006) — Demo
+hedge-dev-unleashedrecomp                               Xbox 360           Sonic Unleashed
+genrythefox-spider-man-edge-of-time-pc-edition          Xbox 360           Spider-Man: Edge of Time
+pprism-terrariaogc                                      Xbox 360           Terraria: Old-Gen Console Edition
+portingpete-the-darkness-recomp                         Xbox 360           The Darkness
+yestermester-thesimpsonsgamerecomp                      Xbox 360           The Simpsons Game
+theokyr-project8recomp                                  Xbox 360           Tony Hawk's Project 8
+paulogaab21-ufc3recomp                                  Xbox 360           UFC Undisputed 3
+crabinacrabic-vivapinatarecomp                          Xbox 360           Viva Piñata
+solarcookies-tip-recomp                                 Xbox 360           Viva Piñata: Trouble in Paradise
+supermedo-wet-recomp                                    Xbox 360           WET
+hollywoodakeem-svr07-recomp                             Xbox 360           WWE SmackDown vs. Raw 2007
