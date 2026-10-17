@@ -1,42 +1,8 @@
-Juegos sin portada (40). Pon una imagen en covers/manual/<id del juego>.png|jpg|webp y vuelve a ejecutar.
+Juegos sin portada (6). Pon una imagen en covers/manual/<id del juego>.png|jpg|webp y vuelve a ejecutar.
 
-initial-d-arcade-stage-3                                Arcade             Initial D Arcade Stage 3
 shrek                                                   Game Boy Advance   Shrek (GBA Video)
-super-mario-bros-y-the-lost-levels                      NES                Super Mario Bros. y The Lost Levels
 3dsrecomp-zakuro                                        Nintendo 3DS       3dsrecomp + Zakuro · Nintendo 3DS Static Recompiler
-doraemon-nobita-to-mittsu-no-seireiseki                 Nintendo 64        Doraemon: Nobita to Mittsu no Seireiseki
-ace-of-spades                                           PC                 Ace of Spades (Classic)
-commander-keen-4                                        PC                 Commander Keen 4
-crimsonland-classic                                     PC                 Crimsonland Classic
-daggerfall                                              PC                 Daggerfall
-gothic-ii-night-of-the-raven                            PC                 Gothic II: Night of the Raven
-heroes-of-might-and-magic-2                             PC                 Heroes Of Might And Magic 2
-krush-kill-n-destroy-kknd2                              PC                 Krush, Kill ’n’ Destroy / KKnD2
-little-big-adventure-2-twinsens-odyssey                 PC                 Little Big Adventure 2: Twinsen’s Odyssey
-mechanized-assault-and-exploration                      PC                 Mechanized Assault & eXploration (M.A.X.)
-might-and-magic-vii                                     PC                 Might and Magic VII
-mr-boom                                                 PC                 Mr.Boom
 outpost                                                 PC                 Outpost (1994)
-quakeworld                                              PC                 QuakeWorld
-serious-sam-the-first-encounter-y-the-second-encounter  PC                 Serious Sam: The First Encounter y The Second Encounter
-star-trek-voyager-elite-force-holomatch                 PC                 Star Trek: Voyager — Elite Force Holomatch
-the-legend-of-sword-and-fairy                           PC                 The Legend Of Sword And Fairy
-touhou-6-embodiment-of-scarlet-devil                    PC                 Touhou 6: Embodiment of Scarlet Devil
 tribal-trouble                                          PC                 Tribal Trouble
-ultima-underworld-i-and-ii                              PC                 Ultima Underworld I & II
-crash-team-racing                                       PlayStation        Crash Team Racing
-jet-moto-anthology                                      PlayStation        Jet Moto Anthology
-sheep-dog-n-wolf-sheep-raider                           PlayStation        Sheep, Dog 'n' Wolf / Sheep Raider
-spider-man-spider-man-2-enter-electro                   PlayStation        Spider-Man (PS1) / Spider-Man 2: Enter Electro
-crash-team-racing-nitro-fueled                          PlayStation 4      Crash Team Racing Nitro-Fueled
-sonic-the-hedgehog-3-sonic-and-knuckles                 Sega               Sonic the Hedgehog 3 / Sonic & Knuckles
 zero-racers                                             Virtual Boy        Zero Racers
-kirby-wii                                               Wii                Kirby Wii
-dragon-ball-z-budokai-3-hd                              Xbox 360           Dragon Ball Z: Budokai 3 HD
-exit                                                    Xbox 360           EXIT
-goldeneye-007-xbla                                      Xbox 360           GoldenEye 007 XBLA
-kameo                                                   Xbox 360           Kameo
 outpost-kaloki-x                                        Xbox 360           Outpost Kaloki X
-peter-jacksons-king-kong                                Xbox 360           Peter Jackson's King Kong
-sonic-the-hedgehog-demo                                 Xbox 360           Sonic the Hedgehog (2006) — Demo
-terraria-old-gen-console-edition                        Xbox 360           Terraria: Old-Gen Console Edition

@@ -17,6 +17,10 @@
    "v": "8526b11891",
    "src": "sgdb:5258316/319825"
   },
+  "ace-of-spades": {
+   "v": "5d2b21d71b",
+   "src": "sgdb:2373/46294"
+  },
   "actraiser": {
    "v": "c645c9ad8e",
    "src": "libretro:Nintendo - Super Nintendo Entertainment System/ActRaiser (USA).png"
@@ -209,6 +213,10 @@
    "v": "5b1e4b3cfe",
    "src": "libretro:DOS/Commander Keen - Keen Dreams (1993).png"
   },
+  "commander-keen-4": {
+   "v": "4d8c0406ff",
+   "src": "libretro:DOS/Commander Keen 4 - Secret of the Oracle (1991).png"
+  },
   "condemned-2": {
    "v": "a889b0750e",
    "src": "sgdb:5265030/102737"
@@ -237,9 +245,25 @@
    "v": "0bbe313d9f",
    "src": "sgdb:90/97437"
   },
+  "crash-team-racing": {
+   "v": "04093426e1",
+   "src": "libretro:Sony - PlayStation/CTR - Crash Team Racing (USA).png"
+  },
+  "crash-team-racing-nitro-fueled": {
+   "v": "e8dbdd6e43",
+   "src": "sgdb:5246172/86808"
+  },
+  "crimsonland-classic": {
+   "v": "5f010cc4dd",
+   "src": "sgdb:3400/209047"
+  },
   "cut-the-rope": {
    "v": "84bd1074e3",
    "src": "sgdb:2330/111825"
+  },
+  "daggerfall": {
+   "v": "154bfbd230",
+   "src": "sgdb:38717/118988"
   },
   "dantes-inferno": {
    "v": "8e8407541d",
@@ -349,6 +373,10 @@
    "v": "a0893fb95d",
    "src": "libretro:Sony - PlayStation/Doom (USA).png"
   },
+  "doraemon-nobita-to-mittsu-no-seireiseki": {
+   "v": "7ebf6a4a9f",
+   "src": "libretro:Nintendo - Nintendo 64/Doraemon - Nobita to 3tsu no Seireiseki (Japan).png"
+  },
   "dr-mario": {
    "v": "588ba7636f",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Dr. Mario (Europe).png"
@@ -356,6 +384,10 @@
   "dr-mario-64": {
    "v": "d04e5d9aa4",
    "src": "libretro:Nintendo - Nintendo 64/Dr. Mario 64 (USA).png"
+  },
+  "dragon-ball-z-budokai-3-hd": {
+   "v": "b88c1d4030",
+   "src": "sgdb:5277034/226774"
   },
   "dragon-ball-z-budokai-hd": {
    "v": "b88c1d4030",
@@ -420,6 +452,10 @@
   "eternal-sonata": {
    "v": "6b4314f606",
    "src": "sgdb:33606/137579"
+  },
+  "exit": {
+   "v": "ec00f68cf1",
+   "src": "sgdb:5246719/378702"
   },
   "f-15-strike-eagle-ii": {
    "v": "50025a2dfd",
@@ -509,6 +545,14 @@
    "v": "626722f8b8",
    "src": "libretro:Nintendo - Nintendo 64/GoldenEye 007 (USA).png"
   },
+  "goldeneye-007-xbla": {
+   "v": "9930b465ad",
+   "src": "sgdb:34306/43964"
+  },
+  "gothic-ii-night-of-the-raven": {
+   "v": "73f04c4c1e",
+   "src": "sgdb:8792/66676"
+  },
   "gran-turismo-2": {
    "v": "e0083ffe91",
    "src": "libretro:Sony - PlayStation/Gran Turismo 2 (USA) (Arcade Mode).png"
@@ -573,6 +617,10 @@
    "v": "4e60fe0ea6",
    "src": "sgdb:5444610/437523"
   },
+  "heroes-of-might-and-magic-2": {
+   "v": "9727838768",
+   "src": "libretro:DOS/Heroes of Might and Magic II - The Succession Wars.png"
+  },
   "hurrican": {
    "v": "b8e62736ba",
    "src": "sgdb:5340502/360583"
@@ -584,6 +632,10 @@
   "infinite-undiscovery": {
    "v": "d9138bf895",
    "src": "sgdb:34050/133088"
+  },
+  "initial-d-arcade-stage-3": {
+   "v": "78a7f240a3",
+   "src": "libretro:Sega - Naomi 2/Initial D Arcade Stage Ver. 3 (Export) (GDS-0033).png"
   },
   "jackie-chan-stuntmaster": {
    "v": "c13c68411c",
@@ -609,9 +661,17 @@
    "v": "68677b94ca",
    "src": "libretro:DOS/Star Wars (1988).png"
   },
+  "jet-moto-anthology": {
+   "v": "ff1e73fb12",
+   "src": "libretro:Sony - PlayStation/Jet Moto (USA).png"
+  },
   "jungle-strike": {
    "v": "259d757ec5",
    "src": "libretro:Nintendo - Super Nintendo Entertainment System/Jungle Strike (USA).png"
+  },
+  "kameo": {
+   "v": "cae073526e",
+   "src": "sgdb:5265763/600365"
   },
   "kingdom-hearts-chain-of-memories": {
    "v": "d595935dd0",
@@ -625,9 +685,17 @@
    "v": "ed8dd757d9",
    "src": "libretro:Sony - PlayStation/King's Field (Japan).png"
   },
+  "kirby-wii": {
+   "v": "f999c28c63",
+   "src": "libretro:Nintendo - Wii/Kirby's Return to Dream Land (USA).png"
+  },
   "knuckles-chaotix": {
    "v": "a59e5ae752",
    "src": "libretro:Sega - 32X/Knuckles' Chaotix (Europe).png"
+  },
+  "krush-kill-n-destroy-kknd2": {
+   "v": "0918c0b943",
+   "src": "sgdb:5247459/528520"
   },
   "legacy-of-kain-soul-reaver": {
    "v": "1dc2274d2b",
@@ -656,6 +724,10 @@
   "little-big-adventure": {
    "v": "16ac63d464",
    "src": "libretro:DOS/Little Big Adventure (1994).png"
+  },
+  "little-big-adventure-2-twinsens-odyssey": {
+   "v": "f92c3bdb7d",
+   "src": "sgdb:8951/54820"
   },
   "lost-odyssey": {
    "v": "f4af92d620",
@@ -712,6 +784,10 @@
   "master-of-orion": {
    "v": "398b7f0d94",
    "src": "libretro:DOS/Master of Orion (1993).png"
+  },
+  "mechanized-assault-and-exploration": {
+   "v": "bd0774a007",
+   "src": "sgdb:17646/383164"
   },
   "mechcommander-2": {
    "v": "5efa551a21",
@@ -785,6 +861,10 @@
    "v": "b814d9be22",
    "src": "sgdb:5334363/549289"
   },
+  "might-and-magic-vii": {
+   "v": "38f5b25797",
+   "src": "sgdb:5254178/133656"
+  },
   "mischief-makers": {
    "v": "b9196c2182",
    "src": "libretro:Nintendo - Nintendo 64/Mischief Makers (USA).png"
@@ -808,6 +888,10 @@
   "mortal-kombat-vs-dc-universe": {
    "v": "7b595d4ae6",
    "src": "sgdb:5249210/62050"
+  },
+  "mr-boom": {
+   "v": "accbbbf2f9",
+   "src": "libretro:MrBoom/Mr.Boom.png"
   },
   "nba-jam-on-fire-edition": {
    "v": "a5c7dc5b4b",
@@ -876,6 +960,10 @@
   "perfect-dark-zero": {
    "v": "2b4592569d",
    "src": "sgdb:5262078/94509"
+  },
+  "peter-jacksons-king-kong": {
+   "v": "9511bed7ad",
+   "src": "sgdb:5249080/476345"
   },
   "pharaoh": {
    "v": "d091fcce30",
@@ -952,6 +1040,10 @@
   "quake-iii-arena": {
    "v": "1b65f37d25",
    "src": "libretro:Quake III/Quake III Arena.png"
+  },
+  "quakeworld": {
+   "v": "928470787c",
+   "src": "libretro:Quake/Quake (v1.06).png"
   },
   "quest-64": {
    "v": "95589f14f2",
@@ -1033,6 +1125,10 @@
    "v": "7e75ab11ce",
    "src": "sgdb:5248634/44385"
   },
+  "serious-sam-the-first-encounter-y-the-second-encounter": {
+   "v": "3565e4492d",
+   "src": "sgdb:9458/148146"
+  },
   "seven-kingdoms-ancient-adversaries": {
    "v": "13f36ba025",
    "src": "sgdb:11034/74822"
@@ -1048,6 +1144,10 @@
   "shantae": {
    "v": "a85624ddff",
    "src": "libretro:Nintendo - Game Boy Color/Shantae (USA).png"
+  },
+  "sheep-dog-n-wolf-sheep-raider": {
+   "v": "bee46fb6ed",
+   "src": "libretro:Sony - PlayStation/Sheep, Dog 'n' Wolf (Europe) (En,Fr,De,Es,It,Nl).png"
   },
   "silent-hill": {
    "v": "520ada0f46",
@@ -1109,6 +1209,14 @@
    "v": "d02bac5341",
    "src": "libretro:Sega - Mega Drive - Genesis/Sonic The Hedgehog (USA, Europe).png"
   },
+  "sonic-the-hedgehog-3-sonic-and-knuckles": {
+   "v": "80b2b41047",
+   "src": "sgdb:33827/55613"
+  },
+  "sonic-the-hedgehog-demo": {
+   "v": "276e36c539",
+   "src": "sgdb:5249681/75394"
+  },
   "sonic-unleashed": {
    "v": "ec8e64a479",
    "src": "sgdb:34584/70537"
@@ -1133,6 +1241,10 @@
    "v": "aaf40dc34f",
    "src": "sgdb:33765/129775"
   },
+  "spider-man-spider-man-2-enter-electro": {
+   "v": "2fc1173af1",
+   "src": "libretro:Sony - PlayStation/Spider-Man (USA).png"
+  },
   "spyro-the-dragon": {
    "v": "43b37fddfb",
    "src": "libretro:Sony - PlayStation/Spyro the Dragon (USA).png"
@@ -1148,6 +1260,10 @@
   "star-fox-adventures": {
    "v": "7e1cc01887",
    "src": "libretro:Nintendo - GameCube/Star Fox Adventures (USA).png"
+  },
+  "star-trek-voyager-elite-force-holomatch": {
+   "v": "83e5a2361b",
+   "src": "sgdb:38118/79298"
   },
   "star-wars-dark-forces": {
    "v": "41fef4d471",
@@ -1229,6 +1345,10 @@
    "v": "370ab3c385",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Super Mario Bros. (World).png"
   },
+  "super-mario-bros-y-the-lost-levels": {
+   "v": "370ab3c385",
+   "src": "libretro:Nintendo - Nintendo Entertainment System/Super Mario Bros. (World).png"
+  },
   "super-mario-galaxy": {
    "v": "8f1e0bf109",
    "src": "libretro:Nintendo - Wii/Super Mario Galaxy (USA).png"
@@ -1281,6 +1401,10 @@
    "v": "2277193eac",
    "src": "libretro:Sony - PlayStation/Tenchu - Stealth Assassins (USA).png"
   },
+  "terraria-old-gen-console-edition": {
+   "v": "0d0f518366",
+   "src": "sgdb:1226/225608"
+  },
   "tetris": {
    "v": "80e3737858",
    "src": "libretro:Nintendo - Game Boy/Tetris (World) (Rev 1).png"
@@ -1308,6 +1432,10 @@
   "the-legend-of-dragoon": {
    "v": "e719f4b56f",
    "src": "libretro:Sony - PlayStation/Legend of Dragoon, The (USA).png"
+  },
+  "the-legend-of-sword-and-fairy": {
+   "v": "3c73b2069d",
+   "src": "sgdb:20899/46050"
   },
   "the-legend-of-zelda": {
    "v": "3a1cb086fa",
@@ -1413,6 +1541,10 @@
    "v": "cc1ff0b8ee",
    "src": "sgdb:34809/106818"
   },
+  "touhou-6-embodiment-of-scarlet-devil": {
+   "v": "b540c8f685",
+   "src": "sgdb:104/289217"
+  },
   "toy-story-2": {
    "v": "c88e84d059",
    "src": "sgdb:17828/66604"
@@ -1434,6 +1566,10 @@
    "src": "sgdb:5410707/519414"
   },
   "ultima-underworld": {
+   "v": "b1b639d7f7",
+   "src": "libretro:DOS/Ultima Underworld - The Stygian Abyss (1992).png"
+  },
+  "ultima-underworld-i-and-ii": {
    "v": "b1b639d7f7",
    "src": "libretro:DOS/Ultima Underworld - The Stygian Abyss (1992).png"
   },
