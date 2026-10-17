@@ -649,6 +649,11 @@
    "src": "libretro:Sony - PlayStation/G-Police (USA).png",
    "h": "c07eddb27a"
   },
+  "gears-of-war-2": {
+   "v": "3aec4ce539",
+   "src": "sgdb:37163/54652",
+   "h": "d77e53be89"
+  },
   "geometry-wars-retro-evolved-2": {
    "v": "ca08e65bbf",
    "src": "sgdb:5254320/134924",
