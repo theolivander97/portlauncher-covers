@@ -1,6 +1,6 @@
-# PortLauncher · Portadas
+# Dársena · Portadas
 
-Base de datos de portadas de PortLauncher, el launcher de juegos porteados.
+Base de datos de portadas de Dársena, el launcher de juegos porteados.
 Se sirve por CDN con jsDelivr:
 
 ```
