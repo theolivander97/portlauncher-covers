@@ -145,6 +145,10 @@
    "v": "b0d1d3ee24",
    "src": "sgdb:13742/51378"
   },
+  "call-of-duty-3": {
+   "v": "32bf243df1",
+   "src": "sgdb:5248470/334846"
+  },
   "call-of-duty-modern-warfare-2": {
    "v": "6f1d3906cd",
    "src": "sgdb:710/544376"
@@ -565,6 +569,10 @@
    "v": "c1b4b97f15",
    "src": "libretro:Sony - PlayStation Portable/Grand Theft Auto - Liberty City Stories (USA) (En,Fr,De,Es,It) (v1.05).png"
   },
+  "grand-theft-auto-vice-city-stories": {
+   "v": "4c62cc6480",
+   "src": "libretro:Sony - PlayStation Portable/Grand Theft Auto - Vice City Stories (USA).png"
+  },
   "guilty-gear": {
    "v": "622a606924",
    "src": "libretro:Sony - PlayStation/Guilty Gear (USA).png"
@@ -892,6 +900,10 @@
   "mr-boom": {
    "v": "accbbbf2f9",
    "src": "libretro:MrBoom/Mr.Boom.png"
+  },
+  "naruto-rise-of-a-ninja": {
+   "v": "eae41fe66b",
+   "src": "sgdb:5268809/182802"
   },
   "nba-jam-on-fire-edition": {
    "v": "a5c7dc5b4b",
@@ -1481,6 +1493,10 @@
    "v": "e01233f49d",
    "src": "libretro:Nintendo - GameCube/Legend of Zelda, The - Twilight Princess (USA).png"
   },
+  "the-lord-of-the-rings-the-two-towers": {
+   "v": "d4fbd6456d",
+   "src": "libretro:Microsoft - Xbox/Lord of the Rings, The - The Two Towers (USA).png"
+  },
   "the-settlers": {
    "v": "444720b7d4",
    "src": "libretro:Commodore - Amiga/Settlers, The (Europe).png"
@@ -1665,9 +1681,17 @@
    "v": "bddce5d826",
    "src": "sgdb:33707/70819"
   },
+  "wwe-13": {
+   "v": "0db2859ab8",
+   "src": "sgdb:5252562/81431"
+  },
   "wwe-smackdown-vs-raw-2007": {
    "v": "52d3a81b6f",
    "src": "sgdb:5264777/111496"
+  },
+  "wwe-smackdown-vs-raw-2011": {
+   "v": "1b2e475a08",
+   "src": "sgdb:36043/61530"
   },
   "wwf-no-mercy": {
    "v": "a2e18238f4",
