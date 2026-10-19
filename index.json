@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17",
+ "generatedAt": "2026-10-19",
  "covers": {
   "3d-pinball-space-cadet": {
    "v": "034f6bfe76",
@@ -109,6 +109,16 @@
    "src": "libretro:Sony - PlayStation/Battle Arena Toshinden (USA).png",
    "h": "c5f451a23c"
   },
+  "battletech-the-crescent-hawks-inception": {
+   "v": "4b2f7d87cc",
+   "src": "libretro:DOS/BattleTech - The Crescent Hawk's Inception (1988).png",
+   "h": null
+  },
+  "battletech-the-crescent-hawks-revenge": {
+   "v": "cf1fa40cfc",
+   "src": "libretro:DOS/BattleTech - The Crescent Hawk's Revenge (1990).png",
+   "h": null
+  },
   "beetle-adventure-racing": {
    "v": "f65a34d36b",
    "src": "libretro:Nintendo - Nintendo 64/Beetle Adventure Racing! (USA) (En,Fr,De).png",
@@ -159,6 +169,9 @@
    "src": "libretro:Sony - PlayStation/Brave Fencer Musashi (USA).png",
    "h": "039f9932c7"
   },
+  "brickblaster": {
+   "h": null
+  },
   "bubble-bobble": {
    "v": "421d5e50a5",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Bubble Bobble (USA).png",
@@ -188,6 +201,11 @@
    "v": "32bf243df1",
    "src": "sgdb:5248470/334846",
    "h": "6b24b13425"
+  },
+  "call-of-duty-4-modern-warfare": {
+   "v": "01e116c6c6",
+   "src": "sgdb:25316/36222",
+   "h": "49038a6486"
   },
   "call-of-duty-modern-warfare-2": {
    "v": "6f1d3906cd",
@@ -223,6 +241,11 @@
    "v": "aefd608cc8",
    "src": "libretro:Cave Story/Cave Story (De).png",
    "h": "f902b8befa"
+  },
+  "celeste-classic": {
+   "v": "6191b237ca",
+   "src": "sgdb:5253956/199171",
+   "h": "77f8f4d961"
   },
   "chameleon-twist": {
    "v": "3de3520cfc",
@@ -323,6 +346,11 @@
    "v": "e8dbdd6e43",
    "src": "sgdb:5246172/86808",
    "h": "2ebc17ca63"
+  },
+  "crimson-skies": {
+   "v": "6d52530d33",
+   "src": "sgdb:5261630/538567",
+   "h": "58a2fa7f46"
   },
   "crimsonland-classic": {
    "v": "5f010cc4dd",
@@ -464,6 +492,11 @@
    "src": "sgdb:5461041/473956",
    "h": "d0102913dd"
   },
+  "doom-otros": {
+   "v": "6aa8ece9c8",
+   "src": "sgdb:2460/38598",
+   "h": "f41ee96b85"
+  },
   "doom-pc": {
    "v": "223f335153",
    "src": "libretro:DOS/DOOM (1993).png",
@@ -554,10 +587,20 @@
    "src": "libretro:Nintendo - Nintendo 64/Duke Nukem - Zero Hour (USA).png",
    "h": "f540a9b566"
   },
+  "dune-ii": {
+   "v": "2a03ed3ccb",
+   "src": "libretro:DOS/Dune II - The Building of a Dynasty (1992).png",
+   "h": "757189086f"
+  },
   "dungeon-keeper": {
    "v": "99ea9b9a1d",
    "src": "libretro:DOS/Dungeon Keeper (1997).png",
    "h": "cdfdaae019"
+  },
+  "dungeon-master": {
+   "v": "7fa6888b18",
+   "src": "libretro:DOS/Dungeon Master (1989).png",
+   "h": "73b30b716a"
   },
   "earthworm-jim-hd": {
    "v": "076a72ffcf",
@@ -568,6 +611,11 @@
    "v": "8c36a7d5f7",
    "src": "sgdb:38273/57836",
    "h": "9aa922b270"
+  },
+  "escape-velocity-nova": {
+   "v": "d8ab86ae62",
+   "src": "sgdb:5299938/592105",
+   "h": "b233d26af4"
   },
   "eternal-sonata": {
    "v": "6b4314f606",
@@ -644,10 +692,18 @@
    "src": "sgdb:3719/54332",
    "h": "7f213d2d7d"
   },
+  "frontier-v2000": {
+   "h": null
+  },
   "g-police": {
    "v": "c66e169b53",
    "src": "libretro:Sony - PlayStation/G-Police (USA).png",
    "h": "c07eddb27a"
+  },
+  "gauntlet-dark-legacy": {
+   "v": "41b12e4e8c",
+   "src": "libretro:Sony - PlayStation 2/Gauntlet - Dark Legacy (USA).png",
+   "h": "9c1a3b3b6e"
   },
   "gears-of-war-2": {
    "v": "3aec4ce539",
@@ -699,6 +755,11 @@
    "src": "sgdb:34306/43964",
    "h": "ccf70a17c0"
   },
+  "gothic": {
+   "v": "a39c475d18",
+   "src": "sgdb:19012/188571",
+   "h": "adb1b3c377"
+  },
   "gothic-ii-night-of-the-raven": {
    "v": "73f04c4c1e",
    "src": "sgdb:8792/66676",
@@ -718,6 +779,11 @@
    "v": "c1b4b97f15",
    "src": "libretro:Sony - PlayStation Portable/Grand Theft Auto - Liberty City Stories (USA) (En,Fr,De,Es,It) (v1.05).png",
    "h": "9cc50c1026"
+  },
+  "grand-theft-auto-san-andreas": {
+   "v": "877ce5370c",
+   "src": "sgdb:1352/67088",
+   "h": "3f9b1f1135"
   },
   "grand-theft-auto-vice-city-stories": {
    "v": "4c62cc6480",
@@ -803,6 +869,14 @@
    "v": "adde018b0c",
    "src": "libretro:Sony - PlayStation 2/Ico (USA).png",
    "h": "ec16db91e1"
+  },
+  "im-netzwerk-gefangen-dunkle-schatten-2": {
+   "h": null
+  },
+  "in-pursuit-of-greed": {
+   "v": "fd962521da",
+   "src": "libretro:DOS/In Pursuit of Greed (1995).png",
+   "h": null
   },
   "infinite-undiscovery": {
    "v": "d9138bf895",
@@ -989,6 +1063,9 @@
    "src": "libretro:Nintendo - Virtual Boy/Mario's Tennis (Japan, USA).png",
    "h": "9adfaa786f"
   },
+  "mars-the-ultimate-fighter": {
+   "h": null
+  },
   "martian-gothic-unification": {
    "v": "8021c2ed49",
    "src": "libretro:Sony - PlayStation/Martian Gothic - Unification (USA).png",
@@ -998,6 +1075,11 @@
    "v": "398b7f0d94",
    "src": "libretro:DOS/Master of Orion (1993).png",
    "h": "3822ec88a2"
+  },
+  "mdk": {
+   "v": "bbcc228687",
+   "src": "libretro:DOS/MDK (1997).png",
+   "h": "ff8d6587b6"
   },
   "mechanized-assault-and-exploration": {
    "v": "bd0774a007",
@@ -1099,6 +1181,9 @@
    "src": "sgdb:5254178/133656",
    "h": "b2916c5242"
   },
+  "mine-bombers": {
+   "h": null
+  },
   "mischief-makers": {
    "v": "b9196c2182",
    "src": "libretro:Nintendo - Nintendo 64/Mischief Makers (USA).png",
@@ -1168,11 +1253,6 @@
    "v": "84b7c79ca9",
    "src": "libretro:Microsoft - Xbox/Ninja Gaiden Black (USA).png",
    "h": "490ce12bb7"
-  },
-  "ninja-gaiden-ii": {
-   "v": "507d943811",
-   "src": "sgdb:5253715/229088",
-   "h": "6cf368516a"
   },
   "nox": {
    "v": "1921a9d3b5",
@@ -1290,6 +1370,11 @@
    "src": "libretro:Nintendo - Nintendo 64/Pokemon Stadium (USA).png",
    "h": "28a9e4b337"
   },
+  "prehistorik": {
+   "v": "3343365416",
+   "src": "libretro:DOS/Prehistorik (1991).png",
+   "h": "47e77014da"
+  },
   "prey": {
    "v": "5f01e2d952",
    "src": "sgdb:8887/45070",
@@ -1350,6 +1435,11 @@
    "src": "libretro:Sony - PlayStation/R4 - Ridge Racer Type 4 (USA).png",
    "h": "ecd1aba664"
   },
+  "radix-beyond-the-void": {
+   "v": "01b67ec41c",
+   "src": "libretro:DOS/Radix - Beyond the Void (1995).png",
+   "h": "f63875066f"
+  },
   "rage-racer": {
    "v": "51e29660cd",
    "src": "libretro:Sony - PlayStation/Rage Racer (USA).png",
@@ -1360,15 +1450,8 @@
    "src": "sgdb:34743/158705",
    "h": "0496f3775d"
   },
-  "rayman-2-the-great-escape": {
-   "v": "044ba48d80",
-   "src": "libretro:Nintendo - Nintendo 64/Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).png",
-   "h": "1015107d97"
-  },
-  "rayman-origins": {
-   "v": "2c99043848",
-   "src": "sgdb:1915/88991",
-   "h": "069dc1c3ab"
+  "reckless-drivin": {
+   "h": null
   },
   "remnants-of-the-precursors": {
    "v": "398b7f0d94",
@@ -1389,6 +1472,11 @@
    "v": "b87622bb9c",
    "src": "libretro:Sony - PlayStation/Ridge Racer (USA).png",
    "h": "b78f554af1"
+  },
+  "rise-2-resurrection": {
+   "v": "2fab25be46",
+   "src": "libretro:DOS/Rise 2 Resurrection.png",
+   "h": null
   },
   "rise-of-the-triad": {
    "v": "280820b794",
@@ -1424,6 +1512,11 @@
    "v": "a54f2c8ca0",
    "src": "sgdb:35143/52599",
    "h": "dfef823d7f"
+  },
+  "sangokushi-eiketsuden": {
+   "v": "586d81a5bb",
+   "src": "sgdb:18089/204496",
+   "h": null
   },
   "scummvm": {
    "v": "a74ef88fbe",
@@ -1488,6 +1581,11 @@
    "src": "sgdb:5249006/51506",
    "h": "c1c37d1188"
   },
+  "skyroads": {
+   "v": "94d904b4f0",
+   "src": "libretro:DOS/SkyRoads (1993).png",
+   "h": "d366266f7f"
+  },
   "sly-cooper-and-the-thievius-raccoonus": {
    "v": "590c07cbf1",
    "src": "libretro:Sony - PlayStation 2/Sly Cooper and the Thievius Raccoonus (USA).png",
@@ -1507,6 +1605,11 @@
    "v": "d02bac5341",
    "src": "libretro:Sega - Mega Drive - Genesis/Sonic The Hedgehog (USA, Europe).png",
    "h": "68d1859463"
+  },
+  "sonic-3-and-knuckles": {
+   "v": "7e1b133ee4",
+   "src": "sgdb:5248529/90892",
+   "h": "ba4b2c743b"
   },
   "sonic-adventure": {
    "v": "b047846d3d",
@@ -1573,6 +1676,11 @@
    "src": "sgdb:35559/103279",
    "h": "994a524a7d"
   },
+  "speed-haste": {
+   "v": "51c20396e9",
+   "src": "libretro:DOS/Speed Haste (1995).png",
+   "h": null
+  },
   "spider-man": {
    "v": "2fc1173af1",
    "src": "libretro:Sony - PlayStation/Spider-Man (USA).png",
@@ -1622,6 +1730,11 @@
    "v": "207cef7039",
    "src": "libretro:Sony - PlayStation/Star Wars - Episode I - The Phantom Menace (USA).png",
    "h": "ef3e551b66"
+  },
+  "star-wars-episode-iii-revenge-of-the-sith": {
+   "v": "b41b1eddae",
+   "src": "libretro:Microsoft - Xbox/Star Wars - Episode III - Revenge of the Sith (USA).png",
+   "h": "5243b973ff"
   },
   "star-wars-jedi-knight-jedi-academy": {
    "v": "63f70f286d",
@@ -1747,11 +1860,6 @@
    "v": "623b0a05ee",
    "src": "libretro:Nintendo - GameCube/Super Smash Bros. Melee (USA).png",
    "h": "102f856f60"
-  },
-  "superman-the-new-superman-adventures": {
-   "v": "3d68a2fd56",
-   "src": "sgdb:35444/236404",
-   "h": "f783167b40"
   },
   "syndicate-wars": {
    "v": "e9c0fca9b6",
@@ -1908,6 +2016,11 @@
    "src": "libretro:Sony - PlayStation/Simpsons Wrestling, The (USA).png",
    "h": "b92a59ced8"
   },
+  "the-terminator-future-shock": {
+   "v": "2f509ad606",
+   "src": "libretro:DOS/Terminator, The - Future Shock (1995).png",
+   "h": "69321a8f3a"
+  },
   "theme-hospital": {
    "v": "be30b1386a",
    "src": "libretro:DOS/Theme Hospital (1997).png",
@@ -1963,6 +2076,11 @@
    "src": "sgdb:34809/106818",
    "h": "412e189782"
   },
+  "total-annihilation-kingdoms": {
+   "v": "ebb42f0c91",
+   "src": "sgdb:5247487/108187",
+   "h": "1300f3be05"
+  },
   "touhou-6-embodiment-of-scarlet-devil": {
    "v": "b540c8f685",
    "src": "sgdb:104/289217",
@@ -1991,11 +2109,6 @@
    "src": "libretro:DOS/Tyrian (1995).png",
    "h": null
   },
-  "ufc-undisputed-3": {
-   "v": "0da84654d2",
-   "src": "sgdb:5410707/519414",
-   "h": null
-  },
   "ultima-underworld": {
    "v": "b1b639d7f7",
    "src": "libretro:DOS/Ultima Underworld - The Stygian Abyss (1992).png",
@@ -2005,6 +2118,11 @@
    "v": "b1b639d7f7",
    "src": "libretro:DOS/Ultima Underworld - The Stygian Abyss (1992).png",
    "h": null
+  },
+  "ultima-v-warriors-of-destiny": {
+   "v": "c50a5f7334",
+   "src": "libretro:DOS/Ultima V - Warriors of Destiny (1988).png",
+   "h": "5073e40fec"
   },
   "ultima-vii-the-black-gate": {
    "v": "2b23c8058b",
@@ -2065,6 +2183,11 @@
    "v": "51fa2ee84e",
    "src": "libretro:Nintendo - Game Boy Advance/WarioWare - Twisted! (USA).png",
    "h": "722e073750"
+  },
+  "warrior-kings": {
+   "v": "1bd478a49f",
+   "src": "sgdb:4469/50358",
+   "h": "3de7a25dce"
   },
   "warzone-2100": {
    "v": "984c30b0d3",

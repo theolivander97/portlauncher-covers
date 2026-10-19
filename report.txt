@@ -1,8 +1,14 @@
-Juegos sin portada (6). Pon una imagen en covers/manual/<id del juego>.png|jpg|webp y vuelve a ejecutar.
+Juegos sin portada (12). Pon una imagen en covers/manual/<id del juego>.png|jpg|webp y vuelve a ejecutar.
 
 shrek                                                   Game Boy Advance   Shrek (GBA Video)
 3dsrecomp-zakuro                                        Nintendo 3DS       3dsrecomp + Zakuro · Nintendo 3DS Static Recompiler
+brickblaster                                            PC                 BrickBlaster
+frontier-v2000                                          PC                 Frontier: V2000
+im-netzwerk-gefangen-dunkle-schatten-2                  PC                 Im Netzwerk gefangen: Dunkle Schatten 2
+mars-the-ultimate-fighter                               PC                 Mars: The Ultimate Fighter
+mine-bombers                                            PC                 Mine Bombers
 outpost                                                 PC                 Outpost (1994)
+reckless-drivin                                         PC                 Reckless Drivin'
 tribal-trouble                                          PC                 Tribal Trouble
 zero-racers                                             Virtual Boy        Zero Racers
 outpost-kaloki-x                                        Xbox 360           Outpost Kaloki X
