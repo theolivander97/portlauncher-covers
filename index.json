@@ -1,2331 +1,2797 @@
 {
- "generatedAt": "2026-10-19",
+ "generatedAt": "2026-10-21",
  "covers": {
   "3d-pinball-space-cadet": {
    "v": "034f6bfe76",
    "src": "sgdb:17822/67396",
-   "h": "335791888f"
-  },
-  "3dsrecomp-zakuro": {
-   "h": null
+   "h": "335791888f",
+   "l": "6d01f6e77c"
   },
   "abuse": {
    "v": "6fdf60d5ad",
    "src": "libretro:DOS/Abuse (1995).png",
-   "h": "b1c431dbd2"
+   "h": "b1c431dbd2",
+   "l": "f16f1e4607"
   },
   "ace-combat-5-the-unsung-war": {
    "v": "e0baed1a7c",
    "src": "libretro:Sony - PlayStation 2/Ace Combat 5 - The Unsung War (USA) (En,Ja).png",
-   "h": "9638dcf708"
+   "h": "9638dcf708",
+   "l": "a6c44d9fd3"
   },
   "ace-combat-6-fires-of-liberation": {
    "v": "8526b11891",
    "src": "sgdb:5258316/319825",
-   "h": "6955112ac0"
+   "h": "6955112ac0",
+   "l": "d83f3ade11"
   },
   "ace-of-spades": {
    "v": "5d2b21d71b",
    "src": "sgdb:2373/46294",
-   "h": "6bceffbde2"
+   "h": "6bceffbde2",
+   "l": "7a108c21ef"
   },
   "actraiser": {
    "v": "c645c9ad8e",
    "src": "libretro:Nintendo - Super Nintendo Entertainment System/ActRaiser (USA).png",
-   "h": "93e0def9c5"
+   "h": "93e0def9c5",
+   "l": "49d081f47b"
   },
   "adventure-island-ii": {
    "v": "5733885786",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Adventure Island II (USA).png",
-   "h": "2fc73bcc59"
+   "h": "2fc73bcc59",
+   "l": "11e32d9779"
   },
   "aerogauge": {
    "v": "4e5834d24c",
    "src": "libretro:Nintendo - Nintendo 64/AeroGauge (USA).png",
-   "h": "48f1dee6fb"
+   "h": "48f1dee6fb",
+   "l": "e4891c652f"
   },
   "alien-resurrection": {
    "v": "e978815d80",
    "src": "libretro:Sony - PlayStation/Alien Resurrection (USA).png",
-   "h": "9849b7e49e"
+   "h": "9849b7e49e",
+   "l": "442d2fcb3c"
   },
   "alone-in-the-dark": {
    "v": "ac517f7cc2",
    "src": "libretro:DOS/Alone in the Dark (1992).png",
-   "h": "e0e0acb6e5"
+   "h": "e0e0acb6e5",
+   "l": "c73801f752"
   },
   "ambermoon": {
    "v": "3f16537dd6",
    "src": "libretro:Commodore - Amiga/Ambermoon (Europe).png",
-   "h": "80d40a0bc6"
+   "h": "80d40a0bc6",
+   "l": "21e024b6f8"
   },
   "animal-crossing": {
    "v": "88b98a028b",
    "src": "libretro:Nintendo - GameCube/Animal Crossing (USA).png",
-   "h": "60f5ec3f08"
+   "h": "60f5ec3f08",
+   "l": "52c3dc8214"
   },
   "ape-escape": {
    "v": "28a4f0519a",
    "src": "libretro:Sony - PlayStation/Ape Escape (USA).png",
-   "h": "2ddddbea0a"
+   "h": "2ddddbea0a",
+   "l": "dc5fceef51"
   },
   "apocalypse": {
    "v": "3b9729a4cf",
    "src": "libretro:Sony - PlayStation/Apocalypse (USA).png",
-   "h": "5bcdd143aa"
+   "h": "5bcdd143aa",
+   "l": "93688d6517"
   },
   "arx-fatalis": {
    "v": "8b0e85bc00",
    "src": "sgdb:1539/51260",
-   "h": "6e3accbdcf"
+   "h": "6e3accbdcf",
+   "l": "c9f429e51c"
   },
   "automobili-lamborghini": {
    "v": "4e634e29d4",
    "src": "libretro:Nintendo - Nintendo 64/Automobili Lamborghini (USA).png",
-   "h": "8d09eafb4e"
+   "h": "8d09eafb4e",
+   "l": "ffd04d77f0"
   },
   "baldurs-gate": {
    "v": "0ae7f2507a",
    "src": "sgdb:1873/51091",
-   "h": "082482b47a"
+   "h": "082482b47a",
+   "l": "6d7b0602f6"
   },
   "banjo-kazooie": {
    "v": "cb933e8cd1",
    "src": "libretro:Nintendo - Nintendo 64/Banjo-Kazooie (USA).png",
-   "h": "58dbbbbcfc"
+   "h": "58dbbbbcfc",
+   "l": "23c8f58399"
   },
   "banjo-kazooie-nuts-and-bolts": {
    "v": "d94cb9a5c6",
    "src": "sgdb:37213/111974",
-   "h": "0b7c3f3459"
+   "h": "0b7c3f3459",
+   "l": "4e38e276c6"
   },
   "banjo-tooie": {
    "v": "31c86b375d",
    "src": "libretro:Nintendo - Nintendo 64/Banjo-Tooie (USA).png",
-   "h": "8a6291e98b"
+   "h": "8a6291e98b",
+   "l": "84ac1791b3"
   },
   "battle-arena-toshinden": {
    "v": "fc9486611f",
    "src": "libretro:Sony - PlayStation/Battle Arena Toshinden (USA).png",
-   "h": "c5f451a23c"
+   "h": "c5f451a23c",
+   "l": "7f738dffe7"
   },
   "battletech-the-crescent-hawks-inception": {
    "v": "4b2f7d87cc",
    "src": "libretro:DOS/BattleTech - The Crescent Hawk's Inception (1988).png",
-   "h": null
+   "h": null,
+   "l": "da225809bf"
   },
   "battletech-the-crescent-hawks-revenge": {
    "v": "cf1fa40cfc",
    "src": "libretro:DOS/BattleTech - The Crescent Hawk's Revenge (1990).png",
-   "h": null
+   "h": null,
+   "l": "86ebc777a1"
   },
   "beetle-adventure-racing": {
    "v": "f65a34d36b",
    "src": "libretro:Nintendo - Nintendo 64/Beetle Adventure Racing! (USA) (En,Fr,De).png",
-   "h": "2f7edacf45"
+   "h": "2f7edacf45",
+   "l": "3d0cda2723"
   },
   "blake-stone-aliens-of-gold": {
    "v": "77b24d0988",
    "src": "libretro:DOS/Blake Stone - Aliens of Gold (1993).png",
-   "h": "6604e17268"
+   "h": "6604e17268",
+   "l": "1b30471ed4"
   },
   "blood": {
    "v": "dd27c42bf7",
    "src": "libretro:DOS/Blood (1997).png",
-   "h": "c546054280"
+   "h": "c546054280",
+   "l": "d48bfeecd9"
   },
   "bloodborne": {
    "v": "189edf825e",
    "src": "sgdb:5246746/82619",
-   "h": "9187cfb176"
+   "h": "9187cfb176",
+   "l": "6a5acd7e2d"
   },
   "bloody-roar-2": {
    "v": "66ff4533ac",
    "src": "sgdb:34481/185403",
-   "h": "119f19c43b"
+   "h": "119f19c43b",
+   "l": "f2d1e5d73a"
   },
   "blue-dragon": {
    "v": "3d9a2bf6ea",
    "src": "sgdb:5254283/784740",
-   "h": "35a7acb5b3"
+   "h": "35a7acb5b3",
+   "l": "7ce0826594"
   },
   "body-harvest": {
    "v": "ffda0332e4",
    "src": "libretro:Nintendo - Nintendo 64/Body Harvest (USA).png",
-   "h": "bb65e901e3"
+   "h": "bb65e901e3",
+   "l": "0f993357dc"
   },
   "bomberman-64": {
    "v": "ebd0e7f936",
    "src": "libretro:Nintendo - Nintendo 64/Bomberman 64 (USA).png",
-   "h": "feb41f38f4"
+   "h": "feb41f38f4",
+   "l": "f9c4bbffdb"
   },
   "bomberman-hero": {
    "v": "10673714c4",
    "src": "libretro:Nintendo - Nintendo 64/Bomberman Hero (USA).png",
-   "h": "229658e004"
+   "h": "229658e004",
+   "l": "e9bec7643a"
   },
   "brave-fencer-musashi": {
    "v": "cd8b6f7125",
    "src": "libretro:Sony - PlayStation/Brave Fencer Musashi (USA).png",
-   "h": "039f9932c7"
+   "h": "039f9932c7",
+   "l": "dc7fa4529d"
   },
   "brickblaster": {
-   "h": null
+   "h": null,
+   "l": null
   },
   "bubble-bobble": {
    "v": "421d5e50a5",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Bubble Bobble (USA).png",
-   "h": "a88a5eae7f"
+   "h": "a88a5eae7f",
+   "l": "10d9d2e090"
   },
   "burnout-revenge": {
    "v": "5ac27e6a43",
    "src": "sgdb:37108/104350",
-   "h": "3ebaeade8f"
+   "h": "3ebaeade8f",
+   "l": "b584d0b034"
   },
   "buzz-aldrins-race-into-space": {
    "v": "1a9f1e13e2",
    "src": "libretro:DOS/Buzz Aldrin's Race into Space (1993).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "c-dogs": {
    "v": "1069c79ea9",
    "src": "sgdb:5322091/189740",
-   "h": null
+   "h": null,
+   "l": "e425079db1"
   },
   "caesar-iii": {
    "v": "b0d1d3ee24",
    "src": "sgdb:13742/51378",
-   "h": "686b6d39ef"
+   "h": "686b6d39ef",
+   "l": "cb2c6c6888"
   },
   "call-of-duty-3": {
    "v": "32bf243df1",
    "src": "sgdb:5248470/334846",
-   "h": "6b24b13425"
+   "h": "6b24b13425",
+   "l": "d6b04b17ae"
   },
   "call-of-duty-4-modern-warfare": {
    "v": "01e116c6c6",
    "src": "sgdb:25316/36222",
-   "h": "49038a6486"
+   "h": "49038a6486",
+   "l": "379a898103"
   },
   "call-of-duty-modern-warfare-2": {
    "v": "6f1d3906cd",
    "src": "sgdb:710/544376",
-   "h": "7b05905a08"
+   "h": "7b05905a08",
+   "l": "87638fcf3b"
   },
   "cannon-fodder": {
    "v": "10bd948fdd",
    "src": "libretro:DOS/Cannon Fodder (1993).png",
-   "h": "508227105b"
+   "h": "508227105b",
+   "l": "7eaf377f91"
   },
   "castlevania-legacy-of-darkness": {
    "v": "b10c6299a1",
    "src": "libretro:Nintendo - Nintendo 64/Castlevania - Legacy of Darkness (USA).png",
-   "h": "7ebedf41c3"
+   "h": "7ebedf41c3",
+   "l": "116269fe0e"
   },
   "castlevania-symphony-of-the-night-playstation": {
    "v": "7f44844805",
    "src": "libretro:Sony - PlayStation/Castlevania - Symphony of the Night (USA).png",
-   "h": "551b214342"
+   "h": "551b214342",
+   "l": "d662766d64"
   },
   "castlevania-symphony-of-the-night-xbox-360": {
    "v": "fb69231066",
    "src": "sgdb:37654/325119",
-   "h": "551b214342"
+   "h": "551b214342",
+   "l": "d662766d64"
   },
   "catacomb-3d": {
    "v": "8559585b38",
    "src": "sgdb:5254880/84798",
-   "h": "144476d256"
+   "h": "144476d256",
+   "l": "cb7205d18b"
   },
   "cave-story": {
    "v": "aefd608cc8",
    "src": "libretro:Cave Story/Cave Story (De).png",
-   "h": "f902b8befa"
+   "h": "f902b8befa",
+   "l": "de5b013b20"
   },
   "celeste-classic": {
    "v": "6191b237ca",
    "src": "sgdb:5253956/199171",
-   "h": "77f8f4d961"
+   "h": "77f8f4d961",
+   "l": "77dac318c5"
   },
   "chameleon-twist": {
    "v": "3de3520cfc",
    "src": "libretro:Nintendo - Nintendo 64/Chameleon Twist (USA).png",
-   "h": "4de7a1095b"
+   "h": "4de7a1095b",
+   "l": "4b5c268835"
   },
   "chameleon-twist-2": {
    "v": "3a25b325ae",
    "src": "libretro:Nintendo - Nintendo 64/Chameleon Twist 2 (USA).png",
-   "h": "b31ee3c7e3"
+   "h": "b31ee3c7e3",
+   "l": "346830160f"
   },
   "chasm-the-rift": {
    "v": "8ce7afb571",
    "src": "libretro:DOS/Chasm - The Rift (1997).png",
-   "h": "d8fdb5d668"
+   "h": "d8fdb5d668",
+   "l": "d85813ab40"
   },
   "chris-sawyers-locomotion": {
    "v": "6226b43587",
    "src": "libretro:Commodore - Amiga/Locomotion (Europe).png",
-   "h": null
+   "h": null,
+   "l": "8bd2ed9f3f"
   },
   "colony-wars": {
    "v": "92e67f98c2",
    "src": "libretro:Sony - PlayStation/Colony Wars (USA).png",
-   "h": "8c2a432cc5"
+   "h": "8c2a432cc5",
+   "l": "8e1ed34772"
   },
   "command-and-conquer": {
    "v": "1f1f52e60f",
    "src": "libretro:DOS/Command and Conquer (1995).png",
-   "h": "c8b395e915"
+   "h": "c8b395e915",
+   "l": "9c6a7f23ab"
   },
   "command-and-conquer-generals-zero-hour": {
    "v": "d6012d6938",
    "src": "sgdb:5249925/66720",
-   "h": "11e08ee345"
+   "h": "11e08ee345",
+   "l": "ec9215c6ae"
   },
   "command-and-conquer-red-alert-2-yuris-revenge": {
    "v": "faeb97d965",
    "src": "sgdb:38629/138730",
-   "h": "f289e594f0"
+   "h": "f289e594f0",
+   "l": "826d1fad49"
   },
   "command-and-conquer-tiberian-dawn": {
    "v": "8886bfaa75",
    "src": "libretro:DOS/Command and Conquer - Red Alert (1997).png",
-   "h": "6d31cdd314"
+   "h": "6d31cdd314",
+   "l": "17e79be954"
   },
   "commander-keen": {
    "v": "5b1e4b3cfe",
    "src": "libretro:DOS/Commander Keen - Keen Dreams (1993).png",
-   "h": "d7abcb4f82"
+   "h": "d7abcb4f82",
+   "l": "b05dfc340c"
   },
   "commander-keen-4": {
    "v": "4d8c0406ff",
    "src": "libretro:DOS/Commander Keen 4 - Secret of the Oracle (1991).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "condemned-2": {
    "v": "a889b0750e",
    "src": "sgdb:5265030/102737",
-   "h": "e759aa7ad8"
+   "h": "e759aa7ad8",
+   "l": "27a3f44c8c"
   },
   "conkers-bad-fur-day": {
    "v": "fb3789e906",
    "src": "libretro:Nintendo - Nintendo 64/Conker's Bad Fur Day (USA).png",
-   "h": "4d9498e334"
+   "h": "4d9498e334",
+   "l": "a10e8e26f4"
   },
   "crash-bandicoot": {
    "v": "a12cc5e38b",
    "src": "libretro:Sony - PlayStation/Crash Bandicoot (USA).png",
-   "h": "7f1115a63f"
+   "h": "7f1115a63f",
+   "l": "843fbec25c"
   },
   "crash-bandicoot-2-cortex-strikes-back": {
    "v": "4947f4830a",
    "src": "libretro:Sony - PlayStation/Crash Bandicoot 2 - Cortex Strikes Back (USA).png",
-   "h": "8081019362"
+   "h": "8081019362",
+   "l": "5263d319c5"
   },
   "crash-bandicoot-3-warped": {
    "v": "4c44834477",
    "src": "libretro:Sony - PlayStation/Crash Bandicoot 3 - Warped (Europe) (En,Fr,De,Es,It).png",
-   "h": "428e207fdd"
+   "h": "428e207fdd",
+   "l": "85e1d7ceaa"
   },
   "crash-mind-over-mutant": {
    "v": "32b28e570e",
    "src": "sgdb:34952/273615",
-   "h": "a7bbc5c22f"
+   "h": "a7bbc5c22f",
+   "l": "f1745d660c"
   },
   "crash-of-the-titans": {
    "v": "0bbe313d9f",
    "src": "sgdb:90/97437",
-   "h": "07be86eda7"
+   "h": "07be86eda7",
+   "l": "628f2339e4"
   },
   "crash-team-racing": {
    "v": "04093426e1",
    "src": "libretro:Sony - PlayStation/CTR - Crash Team Racing (USA).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "crash-team-racing-nitro-fueled": {
    "v": "e8dbdd6e43",
    "src": "sgdb:5246172/86808",
-   "h": "2ebc17ca63"
+   "h": "2ebc17ca63",
+   "l": "a302025f34"
   },
   "crimson-skies": {
    "v": "6d52530d33",
    "src": "sgdb:5261630/538567",
-   "h": "58a2fa7f46"
+   "h": "58a2fa7f46",
+   "l": "96a88dc527"
   },
   "crimsonland-classic": {
    "v": "5f010cc4dd",
    "src": "sgdb:3400/209047",
-   "h": "da920c0e32"
+   "h": "da920c0e32",
+   "l": "86d42bc7dd"
   },
   "cut-the-rope": {
    "v": "84bd1074e3",
    "src": "sgdb:2330/111825",
-   "h": "68145c004f"
+   "h": "68145c004f",
+   "l": "277276ec7e"
   },
   "daggerfall": {
    "v": "154bfbd230",
    "src": "sgdb:38717/118988",
-   "h": "0b756670d3"
+   "h": "0b756670d3",
+   "l": "670269eba7"
   },
   "dantes-inferno": {
    "v": "8e8407541d",
    "src": "sgdb:29894/79321",
-   "h": "dca74bd120"
+   "h": "dca74bd120",
+   "l": "f95948ea72"
   },
   "daytona-usa": {
    "v": "e41ca15bcb",
    "src": "libretro:Sega - Dreamcast/Daytona USA (USA).png",
-   "h": "5eeda2f839"
+   "h": "5eeda2f839",
+   "l": "25b1af232d"
   },
   "dead-or-alive-3": {
    "v": "0ab41d53fc",
    "src": "libretro:Microsoft - Xbox/Dead or Alive 3 (USA).png",
-   "h": "f9b53dc9f5"
+   "h": "f9b53dc9f5",
+   "l": "9842596183"
   },
   "dead-or-alive-xtreme-beach-volleyball": {
    "v": "ad0d2bd4be",
    "src": "libretro:Microsoft - Xbox/Dead or Alive Xtreme Beach Volleyball (USA).png",
-   "h": "778ad2746c"
+   "h": "778ad2746c",
+   "l": "43a24c2ebb"
   },
   "dead-rising-2-case-west": {
    "v": "cf009f52e7",
    "src": "sgdb:5326701/198085",
-   "h": "23cfd2b11b"
+   "h": "23cfd2b11b",
+   "l": "451612b027"
   },
   "dead-rising-2-case-zero": {
    "v": "dc83a7857a",
    "src": "sgdb:5310558/257373",
-   "h": "8dc4c46a8c"
+   "h": "8dc4c46a8c",
+   "l": "f49dbd416b"
   },
   "deadly-premonition": {
    "v": "fe262a3c2a",
    "src": "sgdb:36900/101987",
-   "h": "184cabaaa0"
+   "h": "184cabaaa0",
+   "l": "3f1812ae60"
   },
   "descent": {
    "v": "4b1d6e9d99",
    "src": "libretro:DOS/Descent (1995).png",
-   "h": "94e59884f7"
+   "h": "94e59884f7",
+   "l": "4be90ec0f6"
   },
   "descent-3": {
    "v": "6ed1b2449c",
    "src": "sgdb:3717/81077",
-   "h": "0685f9f9d6"
+   "h": "0685f9f9d6",
+   "l": "2e4299702e"
   },
   "destroy-all-humans-path-of-the-furon": {
    "v": "5dd7735372",
    "src": "sgdb:5209440/93333",
-   "h": "9f07a1da9e"
+   "h": "9f07a1da9e",
+   "l": "36355140b9"
   },
   "diablo-pc": {
    "v": "4625c73869",
    "src": "sgdb:34237/57938",
-   "h": "2c155dad46"
+   "h": "2c155dad46",
+   "l": "5353d9f3df"
   },
   "diablo-playstation": {
    "v": "0da4eeafbb",
    "src": "libretro:Sony - PlayStation/Diablo (USA) (En,Fr,De,Sv).png",
-   "h": "2c155dad46"
+   "h": "2c155dad46",
+   "l": "5353d9f3df"
   },
   "diddy-kong-racing": {
    "v": "8a7ba9805c",
    "src": "libretro:Nintendo - Nintendo 64/Diddy Kong Racing (USA) (En,Fr).png",
-   "h": "c8127e36f0"
+   "h": "c8127e36f0",
+   "l": "d68652b2f3"
   },
   "dino-crisis": {
    "v": "aaaccce575",
    "src": "libretro:Sony - PlayStation/Dino Crisis (USA).png",
-   "h": "3ec3a74bf4"
+   "h": "3ec3a74bf4",
+   "l": "75139b7189"
   },
   "dino-crisis-2": {
    "v": "f183850e4c",
    "src": "libretro:Sony - PlayStation/Dino Crisis 2 (USA).png",
-   "h": "8d06c8b652"
+   "h": "8d06c8b652",
+   "l": "5a1a5e35a0"
   },
   "dinosaur-planet": {
    "v": "d67df15d02",
    "src": "sgdb:5278393/396574",
-   "h": "de7ba37af1"
+   "h": "de7ba37af1",
+   "l": "aba86285fa"
   },
   "disneys-hercules": {
    "v": "ae0fbca880",
    "src": "libretro:Sony - PlayStation/Disney's Hercules Action Game (USA).png",
-   "h": "a23b8a0a00"
+   "h": "a23b8a0a00",
+   "l": "8d1baf2922"
   },
   "donkey-kong-64": {
    "v": "6586aabf0e",
    "src": "libretro:Nintendo - Nintendo 64/Donkey Kong 64 (USA).png",
-   "h": "015aae7820"
+   "h": "015aae7820",
+   "l": "00c7bfc969"
   },
   "donkey-kong-country": {
    "v": "4baa5083f4",
    "src": "libretro:Nintendo - Super Nintendo Entertainment System/Donkey Kong Country (USA).png",
-   "h": "88bae6db58"
+   "h": "88bae6db58",
+   "l": "fe9c553b08"
   },
   "donkey-kong-country-2-diddys-kong-quest": {
    "v": "11733157e6",
    "src": "libretro:Nintendo - Super Nintendo Entertainment System/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr).png",
-   "h": "879a1bef94"
+   "h": "879a1bef94",
+   "l": "ab54c36a89"
   },
   "donkey-kong-country-3-dixie-kongs-double-trouble": {
    "v": "c51592f339",
    "src": "libretro:Nintendo - Super Nintendo Entertainment System/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).png",
-   "h": "16d38bb27d"
+   "h": "16d38bb27d",
+   "l": "6b23899ebd"
   },
   "doom-3": {
    "v": "2887689929",
    "src": "libretro:DOOM/Doom 3 BFG Edition.png",
-   "h": "3cba7546f4"
+   "h": "3cba7546f4",
+   "l": "af25df4fef"
   },
   "doom-3-bfg-edition": {
    "v": "2887689929",
    "src": "libretro:DOOM/Doom 3 BFG Edition.png",
-   "h": "899185aafa"
+   "h": "899185aafa",
+   "l": "8bcf742416"
   },
   "doom-64": {
    "v": "d18d451885",
    "src": "libretro:Nintendo - Nintendo 64/Doom 64 (USA).png",
-   "h": "b345d53086"
+   "h": "b345d53086",
+   "l": "f44f9bf837"
   },
   "doom-doom-ii": {
    "v": "10d2c64876",
    "src": "sgdb:5461041/473956",
-   "h": "d0102913dd"
+   "h": "d0102913dd",
+   "l": "04ac8e2f64"
   },
   "doom-otros": {
    "v": "6aa8ece9c8",
    "src": "sgdb:2460/38598",
-   "h": "f41ee96b85"
+   "h": "f41ee96b85",
+   "l": "9de6b18f9b"
   },
   "doom-pc": {
    "v": "223f335153",
    "src": "libretro:DOS/DOOM (1993).png",
-   "h": "f41ee96b85"
+   "h": "f41ee96b85",
+   "l": "9de6b18f9b"
   },
   "doom-playstation": {
    "v": "a0893fb95d",
    "src": "libretro:Sony - PlayStation/Doom (USA).png",
-   "h": "f41ee96b85"
+   "h": "f41ee96b85",
+   "l": "9de6b18f9b"
   },
   "doraemon-nobita-to-mittsu-no-seireiseki": {
    "v": "7ebf6a4a9f",
    "src": "libretro:Nintendo - Nintendo 64/Doraemon - Nobita to 3tsu no Seireiseki (Japan).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "dr-mario": {
    "v": "588ba7636f",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Dr. Mario (Europe).png",
-   "h": "017d1d7d0d"
+   "h": "017d1d7d0d",
+   "l": "831034caa9"
   },
   "dr-mario-64": {
    "v": "d04e5d9aa4",
    "src": "libretro:Nintendo - Nintendo 64/Dr. Mario 64 (USA).png",
-   "h": null
+   "h": null,
+   "l": "297c2abf9a"
   },
   "dragon-ball-z-budokai-3-hd": {
    "v": "b88c1d4030",
    "src": "sgdb:5277034/226774",
-   "h": "3a796be742"
+   "h": "3a796be742",
+   "l": "5f00654f4a"
   },
   "dragon-ball-z-budokai-hd": {
    "v": "b88c1d4030",
    "src": "sgdb:5277034/226774",
-   "h": "3a796be742"
+   "h": "3a796be742",
+   "l": "5f00654f4a"
   },
   "dragon-ball-z-budokai-tenkaichi-3": {
    "v": "d859473e75",
    "src": "libretro:Sony - PlayStation 2/Dragon Ball Z - Budokai Tenkaichi 3 (USA) (En,Ja).png",
-   "h": "c6455a9371"
+   "h": "c6455a9371",
+   "l": "233f510b6c"
   },
   "dragon-ball-z-burst-limit": {
    "v": "4096dc7d4c",
    "src": "sgdb:5273228/120440",
-   "h": "81343805c3"
+   "h": "81343805c3",
+   "l": "eff981d705"
   },
   "dragon-ball-z-buus-fury": {
    "v": "cce484232d",
    "src": "libretro:Nintendo - Game Boy Advance/Dragon Ball Z - Buu's Fury (USA).png",
-   "h": "a9538bcf12"
+   "h": "a9538bcf12",
+   "l": "3a6edf4d36"
   },
   "dragon-ball-z-the-legacy-of-goku": {
    "v": "54557b4673",
    "src": "libretro:Nintendo - Game Boy Advance/Dragon Ball Z - The Legacy of Goku (USA).png",
-   "h": "41558a9a98"
+   "h": "41558a9a98",
+   "l": "7a3adee62c"
   },
   "dragon-ball-z-the-legacy-of-goku-ii": {
    "v": "090cd6b7d1",
    "src": "libretro:Nintendo - Game Boy Advance/Dragon Ball Z - The Legacy of Goku II (USA).png",
-   "h": "1809b2705d"
+   "h": "1809b2705d",
+   "l": "31ed328d50"
   },
   "dragon-quest-viii-journey-of-the-cursed-king": {
    "v": "95926e4905",
    "src": "libretro:Sony - PlayStation 2/Dragon Quest VIII - Journey of the Cursed King (USA).png",
-   "h": "c187eccc72"
+   "h": "c187eccc72",
+   "l": "e9f9b27185"
   },
   "driver-2": {
    "v": "3468ca37f7",
    "src": "libretro:Sony - PlayStation/Driver 2 (USA).png",
-   "h": "f513a41339"
+   "h": "f513a41339",
+   "l": "afc1958477"
   },
   "duck-hunt": {
    "v": "c08edef761",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Duck Hunt (World).png",
-   "h": "542b0f3961"
+   "h": "542b0f3961",
+   "l": "929a5460ba"
   },
   "duke-nukem-3d": {
    "v": "bf3c27988b",
    "src": "libretro:DOS/Duke Nukem 3D (1996).png",
-   "h": "4e73221138"
+   "h": "4e73221138",
+   "l": "635c5f6ca4"
   },
   "duke-nukem-ii": {
    "v": "0621b93ded",
    "src": "libretro:DOS/Duke Nukem II (1993).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "duke-nukem-zero-hour": {
    "v": "733aec3fe1",
    "src": "libretro:Nintendo - Nintendo 64/Duke Nukem - Zero Hour (USA).png",
-   "h": "f540a9b566"
+   "h": "f540a9b566",
+   "l": "e998ade2a0"
   },
   "dune-ii": {
    "v": "2a03ed3ccb",
    "src": "libretro:DOS/Dune II - The Building of a Dynasty (1992).png",
-   "h": "757189086f"
+   "h": "757189086f",
+   "l": "b9d10e11a2"
   },
   "dungeon-keeper": {
    "v": "99ea9b9a1d",
    "src": "libretro:DOS/Dungeon Keeper (1997).png",
-   "h": "cdfdaae019"
+   "h": "cdfdaae019",
+   "l": "3492abc6e8"
   },
   "dungeon-master": {
    "v": "7fa6888b18",
    "src": "libretro:DOS/Dungeon Master (1989).png",
-   "h": "73b30b716a"
+   "h": "73b30b716a",
+   "l": "d672c4f560"
   },
   "earthworm-jim-hd": {
    "v": "076a72ffcf",
    "src": "sgdb:5268510/121276",
-   "h": "d761e27c73"
+   "h": "d761e27c73",
+   "l": "af690cde28"
   },
   "einhander": {
    "v": "8c36a7d5f7",
    "src": "sgdb:38273/57836",
-   "h": "9aa922b270"
+   "h": "9aa922b270",
+   "l": "b3ed896d4b"
   },
   "escape-velocity-nova": {
    "v": "d8ab86ae62",
    "src": "sgdb:5299938/592105",
-   "h": "b233d26af4"
+   "h": "b233d26af4",
+   "l": "9e18007e8e"
   },
   "eternal-sonata": {
    "v": "6b4314f606",
    "src": "sgdb:33606/137579",
-   "h": "0b77d86221"
+   "h": "0b77d86221",
+   "l": "c7e117c7be"
   },
   "exit": {
    "v": "ec00f68cf1",
    "src": "sgdb:5246719/378702",
-   "h": "1619a8ac0f"
+   "h": "1619a8ac0f",
+   "l": "7a59ddd369"
   },
   "f-15-strike-eagle-ii": {
    "v": "50025a2dfd",
    "src": "libretro:Commodore - Amiga/F-15 Strike Eagle II (Europe).png",
-   "h": "479f390177"
+   "h": "479f390177",
+   "l": "438e075d07"
   },
   "f-zero": {
    "v": "177d7305f4",
    "src": "libretro:Nintendo - Super Nintendo Entertainment System/F-Zero (USA).png",
-   "h": "da284d6da4"
+   "h": "da284d6da4",
+   "l": "7fb2312ec0"
   },
   "f-zero-x": {
    "v": "522229f6b8",
    "src": "libretro:Nintendo - Nintendo 64/F-Zero X (USA).png",
-   "h": "f06f3e6a52"
+   "h": "f06f3e6a52",
+   "l": "7b3b229e24"
   },
   "fable-ii": {
    "v": "ce470bb09a",
    "src": "sgdb:70/39790",
-   "h": "7eff3c4cb6"
+   "h": "7eff3c4cb6",
+   "l": "12a1ac378e"
   },
   "fatal-frame": {
    "v": "3cdd1192a8",
    "src": "libretro:Sony - PlayStation 2/Fatal Frame (USA).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "faxanadu": {
    "v": "81fe2b4dae",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Faxanadu (USA).png",
-   "h": "aac6a066b5"
+   "h": "aac6a066b5",
+   "l": "2b4ab57fd1"
   },
   "fear-effect": {
    "v": "1a33f8ceda",
    "src": "libretro:Sony - PlayStation/Fear Effect (USA).png",
-   "h": "b23ab9572b"
+   "h": "b23ab9572b",
+   "l": "dde2319076"
   },
   "fight-night-champion": {
    "v": "c20c0f0d01",
    "src": "sgdb:5259187/730798",
-   "h": "57d16f4d2b"
+   "h": "57d16f4d2b",
+   "l": "640da0f026"
   },
   "final-fantasy-ix": {
    "v": "9f1c2063fb",
    "src": "libretro:Sony - PlayStation/Final Fantasy IX (USA).png",
-   "h": "a9a7a371fb"
+   "h": "a9a7a371fb",
+   "l": "0fe0868689"
   },
   "final-fantasy-tactics": {
    "v": "8abaf0b266",
    "src": "libretro:Sony - PlayStation/Final Fantasy Tactics (USA).png",
-   "h": "30881d677d"
+   "h": "30881d677d",
+   "l": "b0d273f36a"
   },
   "final-fantasy-viii": {
    "v": "66bda5cf19",
    "src": "libretro:Sony - PlayStation/Final Fantasy VIII (USA).png",
-   "h": "b0dfd59540"
+   "h": "b0dfd59540",
+   "l": "f120839c0f"
   },
   "forza-horizon": {
    "v": "425b2d5b98",
    "src": "sgdb:19719/96394",
-   "h": "43b51ba9d6"
+   "h": "43b51ba9d6",
+   "l": "2a33b88fc9"
   },
   "freespace-2": {
    "v": "990c5f83de",
    "src": "sgdb:3719/54332",
-   "h": "7f213d2d7d"
+   "h": "7f213d2d7d",
+   "l": "1b42ce7473"
   },
   "frontier-v2000": {
-   "h": null
+   "h": null,
+   "l": null
   },
   "g-police": {
    "v": "c66e169b53",
    "src": "libretro:Sony - PlayStation/G-Police (USA).png",
-   "h": "c07eddb27a"
+   "h": "c07eddb27a",
+   "l": "ab8a0bdbe4"
   },
   "gauntlet-dark-legacy": {
    "v": "41b12e4e8c",
    "src": "libretro:Sony - PlayStation 2/Gauntlet - Dark Legacy (USA).png",
-   "h": "9c1a3b3b6e"
+   "h": "9c1a3b3b6e",
+   "l": "1c768c28ee"
   },
   "gears-of-war-2": {
    "v": "3aec4ce539",
    "src": "sgdb:37163/54652",
-   "h": "d77e53be89"
+   "h": "d77e53be89",
+   "l": "f024890080"
   },
   "geometry-wars-retro-evolved-2": {
    "v": "ca08e65bbf",
    "src": "sgdb:5254320/134924",
-   "h": "4b2bf7953d"
+   "h": "4b2bf7953d",
+   "l": "df8d4ec97b"
   },
   "ghost-in-the-shell": {
    "v": "6984918964",
    "src": "libretro:Sony - PlayStation/Ghost in the Shell (USA).png",
-   "h": "eaa8676d54"
+   "h": "eaa8676d54",
+   "l": "906d3a71f2"
   },
   "glover": {
    "v": "e300f5c848",
    "src": "libretro:Nintendo - Nintendo 64/Glover (USA).png",
-   "h": "bd818ffb9e"
+   "h": "bd818ffb9e",
+   "l": "1007b57628"
   },
   "god-of-war": {
    "v": "d087ca7058",
    "src": "libretro:Sony - PlayStation 2/God of War (USA).png",
-   "h": "2fd392b3a9"
+   "h": "2fd392b3a9",
+   "l": "f8c6f544ea"
   },
   "god-of-war-iii-remastered": {
    "v": "e4778a5d74",
    "src": "sgdb:5246707/115241",
-   "h": "5e01e4d97d"
+   "h": "5e01e4d97d",
+   "l": "7fa6a93213"
   },
   "goemon-64": {
    "v": "332ef65041",
    "src": "sgdb:5493124/586134",
-   "h": "462cf77bcb"
+   "h": "462cf77bcb",
+   "l": "fdafef9aeb"
   },
   "golden-sun": {
    "v": "71cec5dbf0",
    "src": "libretro:Nintendo - Game Boy Advance/Golden Sun (USA, Europe).png",
-   "h": "5da6cea2bf"
+   "h": "5da6cea2bf",
+   "l": "ba7960f397"
   },
   "goldeneye-007": {
    "v": "626722f8b8",
    "src": "libretro:Nintendo - Nintendo 64/GoldenEye 007 (USA).png",
-   "h": "ccf70a17c0"
+   "h": "ccf70a17c0",
+   "l": "2a8e47af8b"
   },
   "goldeneye-007-xbla": {
    "v": "9930b465ad",
    "src": "sgdb:34306/43964",
-   "h": "ccf70a17c0"
+   "h": "ccf70a17c0",
+   "l": "2a8e47af8b"
   },
   "gothic": {
    "v": "a39c475d18",
    "src": "sgdb:19012/188571",
-   "h": "adb1b3c377"
+   "h": "adb1b3c377",
+   "l": "dadaadbf1e"
   },
   "gothic-ii-night-of-the-raven": {
    "v": "73f04c4c1e",
    "src": "sgdb:8792/66676",
-   "h": "833a767876"
+   "h": "833a767876",
+   "l": "dcd61a282f"
   },
   "gran-turismo-2": {
    "v": "e0083ffe91",
    "src": "libretro:Sony - PlayStation/Gran Turismo 2 (USA) (Arcade Mode).png",
-   "h": "ccc6ca8f19"
+   "h": "ccc6ca8f19",
+   "l": "4a27d7f8fa"
   },
   "grand-theft-auto-chinatown-wars": {
    "v": "a6fe3c1f7b",
    "src": "sgdb:62/114781",
-   "h": "8fbe84033d"
+   "h": "8fbe84033d",
+   "l": "c1c2d68ff9"
   },
   "grand-theft-auto-liberty-city-stories": {
    "v": "c1b4b97f15",
    "src": "libretro:Sony - PlayStation Portable/Grand Theft Auto - Liberty City Stories (USA) (En,Fr,De,Es,It) (v1.05).png",
-   "h": "9cc50c1026"
+   "h": "9cc50c1026",
+   "l": "dafb025473"
   },
   "grand-theft-auto-san-andreas": {
    "v": "877ce5370c",
    "src": "sgdb:1352/67088",
-   "h": "3f9b1f1135"
+   "h": "3f9b1f1135",
+   "l": "e702411529"
   },
   "grand-theft-auto-vice-city-stories": {
    "v": "4c62cc6480",
    "src": "libretro:Sony - PlayStation Portable/Grand Theft Auto - Vice City Stories (USA).png",
-   "h": "f288871fcd"
+   "h": "f288871fcd",
+   "l": "c8c9d8976f"
   },
   "guilty-gear": {
    "v": "622a606924",
    "src": "libretro:Sony - PlayStation/Guilty Gear (USA).png",
-   "h": "4aa17ae196"
+   "h": "4aa17ae196",
+   "l": "78e0f9897b"
   },
   "guitar-hero-warriors-of-rock": {
    "v": "af27a56164",
    "src": "sgdb:5283154/246161",
-   "h": "a22079b480"
+   "h": "a22079b480",
+   "l": "483fae7cf4"
   },
   "gumshoe": {
    "v": "6c61e60dbd",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Gumshoe (USA, Europe).png",
-   "h": "0afdaa116c"
+   "h": "0afdaa116c",
+   "l": "3d7a25da2b"
   },
   "gundam-battle-assault-2": {
    "v": "7fff85331d",
    "src": "libretro:Sony - PlayStation/Gundam Battle Assault 2 (USA).png",
-   "h": "418f7abe71"
+   "h": "418f7abe71",
+   "l": "121a003f29"
   },
   "gundam-battle-master-2": {
    "v": "03f23d0113",
    "src": "libretro:Sony - PlayStation/Gundam the Battle Master 2 (Japan).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "gundam-the-battle-master": {
    "v": "7db99e3398",
    "src": "libretro:Sony - PlayStation/Battle Master (Japan).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "half-life": {
    "v": "92fd4af7d0",
    "src": "sgdb:21207/201090",
-   "h": "fe4b812e95"
+   "h": "fe4b812e95",
+   "l": "7c9137c5e1"
   },
   "halo-combat-evolved": {
    "v": "091496c506",
    "src": "libretro:Microsoft - Xbox/Halo - Combat Evolved (USA).png",
-   "h": "fb95ea5836"
+   "h": "fb95ea5836",
+   "l": "6f8643168b"
   },
   "hard-corps-uprising": {
    "v": "8469bb9fdf",
    "src": "sgdb:5253571/65658",
-   "h": "90cc6a27f9"
+   "h": "90cc6a27f9",
+   "l": "3ae9a3913a"
   },
   "harry-potter-and-the-philosophers-stone": {
    "v": "1aa840bec5",
    "src": "sgdb:37910/145999",
-   "h": "71dfd41ff8"
+   "h": "71dfd41ff8",
+   "l": "b96616d6d1"
   },
   "harvest-moon-64": {
    "v": "382786ffea",
    "src": "libretro:Nintendo - Nintendo 64/Harvest Moon 64 (USA).png",
-   "h": "a9b85cebea"
+   "h": "a9b85cebea",
+   "l": "8c729c1412"
   },
   "heretic-ii": {
    "v": "c5c6d70525",
    "src": "sgdb:5250354/346701",
-   "h": "a07d8df484"
+   "h": "a07d8df484",
+   "l": "15b5d6a064"
   },
   "heroes-iii": {
    "v": "4e60fe0ea6",
    "src": "sgdb:5444610/437523",
-   "h": "2414bc62b4"
+   "h": "2414bc62b4",
+   "l": "704daf31de"
   },
   "heroes-of-might-and-magic-2": {
    "v": "9727838768",
    "src": "libretro:DOS/Heroes of Might and Magic II - The Succession Wars.png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "hurrican": {
    "v": "b8e62736ba",
    "src": "sgdb:5340502/360583",
-   "h": "b7f0b050e7"
+   "h": "b7f0b050e7",
+   "l": "a7f8d886b2"
   },
   "ico": {
    "v": "adde018b0c",
    "src": "libretro:Sony - PlayStation 2/Ico (USA).png",
-   "h": "ec16db91e1"
+   "h": "ec16db91e1",
+   "l": "9271865320"
   },
   "im-netzwerk-gefangen-dunkle-schatten-2": {
-   "h": null
+   "h": null,
+   "l": null
   },
   "in-pursuit-of-greed": {
    "v": "fd962521da",
    "src": "libretro:DOS/In Pursuit of Greed (1995).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "infinite-undiscovery": {
    "v": "d9138bf895",
    "src": "sgdb:34050/133088",
-   "h": "e9f69e87d7"
+   "h": "e9f69e87d7",
+   "l": "dd37eae8df"
   },
   "initial-d-arcade-stage-3": {
    "v": "78a7f240a3",
    "src": "libretro:Sega - Naomi 2/Initial D Arcade Stage Ver. 3 (Export) (GDS-0033).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "jackie-chan-stuntmaster": {
    "v": "c13c68411c",
    "src": "libretro:Sony - PlayStation/Jackie Chan Stuntmaster (USA).png",
-   "h": "5a8d2291d2"
+   "h": "5a8d2291d2",
+   "l": "ac548abb36"
   },
   "jagged-alliance-2": {
    "v": "2140e9426e",
    "src": "sgdb:1518/51270",
-   "h": "5e9551fad1"
+   "h": "5e9551fad1",
+   "l": "5f40a2e11a"
   },
   "jak-and-daxter-the-precursor-legacy": {
    "v": "5e362300ac",
    "src": "libretro:Sony - PlayStation 2/Jak 3 (USA) (En,Fr,De,Es,It,Pt,Ru).png",
-   "h": "c398c1aa82"
+   "h": "c398c1aa82",
+   "l": "0dd4c5cc62"
   },
   "jazz-jackrabbit": {
    "v": "a20ced51bd",
    "src": "libretro:DOS/Jazz Jackrabbit (1994).png",
-   "h": "6985f84c49"
+   "h": "6985f84c49",
+   "l": "77f68f2f01"
   },
   "jazz-jackrabbit-2": {
    "v": "75cefb6a12",
    "src": "sgdb:5247060/114987",
-   "h": "fdbfd62158"
+   "h": "fdbfd62158",
+   "l": "e587127d42"
   },
   "jedi-academy": {
    "v": "68677b94ca",
    "src": "libretro:DOS/Star Wars (1988).png",
-   "h": "6925ec634c"
+   "h": "6925ec634c",
+   "l": "fb1666c148"
   },
   "jet-moto-anthology": {
    "v": "ff1e73fb12",
    "src": "libretro:Sony - PlayStation/Jet Moto (USA).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "jungle-strike": {
    "v": "259d757ec5",
    "src": "libretro:Nintendo - Super Nintendo Entertainment System/Jungle Strike (USA).png",
-   "h": "bf014e9ca4"
+   "h": "bf014e9ca4",
+   "l": "070b7dbadd"
   },
   "kameo": {
    "v": "cae073526e",
    "src": "sgdb:5265763/600365",
-   "h": "739da364ca"
+   "h": "739da364ca",
+   "l": "d15afe3a35"
   },
   "kingdom-hearts-chain-of-memories": {
    "v": "d595935dd0",
    "src": "libretro:Nintendo - Game Boy Advance/Kingdom Hearts - Chain of Memories (USA).png",
-   "h": "d13f6dc17a"
+   "h": "d13f6dc17a",
+   "l": "aab4914448"
   },
   "kings-field": {
    "v": "595209ecd1",
    "src": "libretro:Sony - PlayStation/King's Field (USA).png",
-   "h": "028fe50830"
+   "h": "028fe50830",
+   "l": "17ad97d951"
   },
   "kings-field-japan": {
    "v": "ed8dd757d9",
    "src": "libretro:Sony - PlayStation/King's Field (Japan).png",
-   "h": "028fe50830"
+   "h": "028fe50830",
+   "l": "17ad97d951"
   },
   "kirby-wii": {
    "v": "f999c28c63",
    "src": "libretro:Nintendo - Wii/Kirby's Return to Dream Land (USA).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "knuckles-chaotix": {
    "v": "a59e5ae752",
    "src": "libretro:Sega - 32X/Knuckles' Chaotix (Europe).png",
-   "h": "7d61a8238d"
+   "h": "7d61a8238d",
+   "l": "ad5ad215b2"
   },
   "krush-kill-n-destroy-kknd2": {
    "v": "0918c0b943",
    "src": "sgdb:5247459/528520",
-   "h": null
+   "h": null,
+   "l": null
   },
   "legacy-of-kain-soul-reaver": {
    "v": "1dc2274d2b",
    "src": "libretro:Sony - PlayStation/Legacy of Kain - Soul Reaver (USA).png",
-   "h": "07fd0da219"
+   "h": "07fd0da219",
+   "l": "513dfee05b"
   },
   "legend-of-legaia": {
    "v": "1f9224c6be",
    "src": "libretro:Sony - PlayStation/Legend of Legaia (USA).png",
-   "h": "ef1605addb"
+   "h": "ef1605addb",
+   "l": "07ecdb4945"
   },
   "lego-dimensions": {
    "v": "d906bd4513",
    "src": "sgdb:5246706/76636",
-   "h": "794f65a11d"
+   "h": "794f65a11d",
+   "l": "b3c34b59df"
   },
   "lego-island": {
    "v": "577b0d3a7f",
    "src": "sgdb:38654/73882",
-   "h": "dd41c9957b"
+   "h": "dd41c9957b",
+   "l": "aa3f885b53"
   },
   "lego-racers": {
    "v": "b026af04a5",
    "src": "sgdb:37777/71276",
-   "h": "791c30f260"
+   "h": "791c30f260",
+   "l": "0f4d448298"
   },
   "liero-xtreme": {
    "v": "3808f50623",
    "src": "sgdb:5476513/529835",
-   "h": null
+   "h": null,
+   "l": null
   },
   "little-big-adventure": {
    "v": "16ac63d464",
    "src": "libretro:DOS/Little Big Adventure (1994).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "little-big-adventure-2-twinsens-odyssey": {
    "v": "f92c3bdb7d",
    "src": "sgdb:8951/54820",
-   "h": "52ca5f25be"
+   "h": "52ca5f25be",
+   "l": "c4dd38e695"
   },
   "lost-odyssey": {
    "v": "f4af92d620",
    "src": "sgdb:36456/203931",
-   "h": "512fd1d447"
+   "h": "512fd1d447",
+   "l": "6e3087dc22"
   },
   "lufia-ii-rise-of-the-sinistrals": {
    "v": "cf63df02eb",
    "src": "libretro:Nintendo - Super Nintendo Entertainment System/Lufia II - Rise of the Sinistrals (USA).png",
-   "h": "430eda314d"
+   "h": "430eda314d",
+   "l": "2b377a8017"
   },
   "machines-wired-for-war": {
    "v": "4e694373ef",
    "src": "sgdb:5253049/134428",
-   "h": "13ab14eaf1"
+   "h": "13ab14eaf1",
+   "l": "7b33f85b00"
   },
   "mad-stalker-full-metal-force": {
    "v": "8970644c4f",
    "src": "libretro:Sony - PlayStation/Mad Stalker - Full Metal Force (Japan).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "magic-carpet-2": {
    "v": "c5919719f8",
    "src": "libretro:DOS/Magic Carpet 2 - The Netherworlds (1995).png",
-   "h": "ebb72d68bb"
+   "h": "ebb72d68bb",
+   "l": "ffd7590b41"
   },
   "marathon": {
    "v": "3813954ec5",
    "src": "sgdb:34661/56623",
-   "h": "fcf81cc697"
+   "h": "fcf81cc697",
+   "l": "b581c3e31f"
   },
   "mario-kart-64": {
    "v": "8ba45266ef",
    "src": "libretro:Nintendo - Nintendo 64/Mario Kart 64 (USA).png",
-   "h": "b371989848"
+   "h": "b371989848",
+   "l": "e28284d3ae"
   },
   "mario-kart-super-circuit": {
    "v": "6aed990010",
    "src": "libretro:Nintendo - Game Boy Advance/Mario Kart - Super Circuit (USA).png",
-   "h": "289b584dbd"
+   "h": "289b584dbd",
+   "l": "3572d23256"
   },
   "mario-kart-wii": {
    "v": "ea1a662ebc",
    "src": "libretro:Nintendo - Wii/Mario Kart Wii (USA).png",
-   "h": "83d54adb37"
+   "h": "83d54adb37",
+   "l": "b6c84fe97d"
   },
   "mario-party-4": {
    "v": "bbce51cf81",
    "src": "libretro:Nintendo - GameCube/Mario Party 4 (USA).png",
-   "h": "1577c2a143"
+   "h": "1577c2a143",
+   "l": "a0febd8127"
   },
   "mario-strikers-charged": {
    "v": "0512d467ab",
    "src": "libretro:Nintendo - Wii/Mario Strikers Charged (USA).png",
-   "h": "f9a54d87ab"
+   "h": "f9a54d87ab",
+   "l": "0543a0c158"
   },
   "marios-tennis": {
    "v": "690929c00d",
    "src": "libretro:Nintendo - Virtual Boy/Mario's Tennis (Japan, USA).png",
-   "h": "9adfaa786f"
+   "h": "9adfaa786f",
+   "l": "2712014099"
   },
   "mars-the-ultimate-fighter": {
-   "h": null
+   "h": null,
+   "l": null
   },
   "martian-gothic-unification": {
    "v": "8021c2ed49",
    "src": "libretro:Sony - PlayStation/Martian Gothic - Unification (USA).png",
-   "h": "d0a6cf3d6a"
+   "h": "d0a6cf3d6a",
+   "l": "ae4378aa94"
   },
   "master-of-orion": {
    "v": "398b7f0d94",
    "src": "libretro:DOS/Master of Orion (1993).png",
-   "h": "3822ec88a2"
+   "h": "3822ec88a2",
+   "l": "12ba9dad3a"
   },
   "mdk": {
    "v": "bbcc228687",
    "src": "libretro:DOS/MDK (1997).png",
-   "h": "ff8d6587b6"
+   "h": "ff8d6587b6",
+   "l": "3c837efcd5"
   },
   "mechanized-assault-and-exploration": {
    "v": "bd0774a007",
    "src": "sgdb:17646/383164",
-   "h": null
+   "h": null,
+   "l": null
   },
   "mechcommander-2": {
    "v": "5efa551a21",
    "src": "sgdb:5256717/376574",
-   "h": "1b1a8ed845"
+   "h": "1b1a8ed845",
+   "l": "b0e47515c2"
   },
   "medal-of-honor-allied-assault": {
    "v": "5f3ee5d81c",
    "src": "sgdb:35422/37211",
-   "h": "b51f9c48ca"
+   "h": "b51f9c48ca",
+   "l": "356ebba8a6"
   },
   "medal-of-honor-frontline": {
    "v": "d849aefb48",
    "src": "libretro:Nintendo - GameCube/Medal of Honor - Frontline (USA).png",
-   "h": "9e5cf2f01f"
+   "h": "9e5cf2f01f",
+   "l": "4cf7df7296"
   },
   "medievil": {
    "v": "47078f217a",
    "src": "libretro:Sony - PlayStation/MediEvil (USA).png",
-   "h": "1ce26300a9"
+   "h": "1ce26300a9",
+   "l": "6568b10bc5"
   },
   "medievil-ii": {
    "v": "52b462503f",
    "src": "libretro:Sony - PlayStation/MediEvil II (USA).png",
-   "h": "42121b0aff"
+   "h": "42121b0aff",
+   "l": "4de7382cc8"
   },
   "mega-man-3": {
    "v": "315fc4fbc7",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Mega Man 3 (USA).png",
-   "h": "2e7f9212dd"
+   "h": "2e7f9212dd",
+   "l": "074a170a3e"
   },
   "mega-man-64": {
    "v": "eff2efc97c",
    "src": "libretro:Nintendo - Nintendo 64/Mega Man 64 (USA).png",
-   "h": "c5ed4e7fd7"
+   "h": "c5ed4e7fd7",
+   "l": "73d3cf1f62"
   },
   "mega-man-8": {
    "v": "7d1dba13bd",
    "src": "libretro:Sony - PlayStation/Mega Man 8 (USA).png",
-   "h": "9e937356f4"
+   "h": "9e937356f4",
+   "l": "84525ecf6d"
   },
   "mega-man-x": {
    "v": "bf5bc22516",
    "src": "libretro:Nintendo - Super Nintendo Entertainment System/Mega Man X (USA).png",
-   "h": "e3d4a7b88e"
+   "h": "e3d4a7b88e",
+   "l": "6880a382e7"
   },
   "mega-man-x4": {
    "v": "f64bbd0603",
    "src": "libretro:Sony - PlayStation/Mega Man X4 (USA).png",
-   "h": "6d1347e07b"
+   "h": "6d1347e07b",
+   "l": "e58a7512c4"
   },
   "mega-man-x5": {
    "v": "2bbb7c54e1",
    "src": "libretro:Sony - PlayStation/Mega Man X5 (USA).png",
-   "h": "fa16942e6c"
+   "h": "fa16942e6c",
+   "l": "215df4aedf"
   },
   "mega-man-x6": {
    "v": "0ca08da4c6",
    "src": "libretro:Sony - PlayStation/Mega Man X6 (USA).png",
-   "h": "4a1c398ae9"
+   "h": "4a1c398ae9",
+   "l": "1646ec56f3"
   },
   "mega-man-zero": {
    "v": "b965380941",
    "src": "libretro:Nintendo - Game Boy Advance/Mega Man Zero (USA, Europe).png",
-   "h": "9eaed8e673"
+   "h": "9eaed8e673",
+   "l": "c097af514b"
   },
   "mercenaries-playground-of-destruction": {
    "v": "1375fd92a3",
    "src": "libretro:Microsoft - Xbox/Mercenaries - Playground of Destruction (USA).png",
-   "h": "ecfea2b2dc"
+   "h": "ecfea2b2dc",
+   "l": "71203c7ba4"
   },
   "metroid": {
    "v": "f9332688fc",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Metroid (USA).png",
-   "h": "3914b5772c"
+   "h": "3914b5772c",
+   "l": "38455f5902"
   },
   "metroid-prime": {
    "v": "49c6315188",
    "src": "libretro:Nintendo - GameCube/Metroid Prime (USA).png",
-   "h": "4314809c28"
+   "h": "4314809c28",
+   "l": "9fa1a95dba"
   },
   "metroid-prime-hunters": {
    "v": "cfe78eef8e",
    "src": "libretro:Nintendo - Nintendo DS/Metroid Prime - Hunters (USA).png",
-   "h": "7bad2c2c6d"
+   "h": "7bad2c2c6d",
+   "l": "ed1de8f011"
   },
   "midnight-club-los-angeles-complete-edition": {
    "v": "b814d9be22",
    "src": "sgdb:5334363/549289",
-   "h": "575a610bca"
+   "h": "575a610bca",
+   "l": "e493a4a762"
   },
   "might-and-magic-vii": {
    "v": "38f5b25797",
    "src": "sgdb:5254178/133656",
-   "h": "b2916c5242"
+   "h": "b2916c5242",
+   "l": "f61063a10a"
   },
   "mine-bombers": {
-   "h": null
+   "h": null,
+   "l": null
   },
   "mischief-makers": {
    "v": "b9196c2182",
    "src": "libretro:Nintendo - Nintendo 64/Mischief Makers (USA).png",
-   "h": "4c70682c40"
+   "h": "4c70682c40",
+   "l": "09b9b34791"
   },
   "mobile-suit-gundam-seed-battle-assault": {
    "v": "54bdff940f",
    "src": "libretro:Nintendo - Game Boy Advance/Mobile Suit Gundam Seed - Battle Assault (USA).png",
-   "h": null
+   "h": null,
+   "l": "e5c9c32ed0"
   },
   "monster-hunter-portable-3rd-hd": {
    "v": "ccfb873957",
    "src": "sgdb:34131/208150",
-   "h": "fff67be83f"
+   "h": "fff67be83f",
+   "l": "266153ab71"
   },
   "monster-rancher": {
    "v": "fb8fbfd6b3",
    "src": "libretro:Sony - PlayStation/Monster Rancher (USA).png",
-   "h": "bc8ca4cc7c"
+   "h": "bc8ca4cc7c",
+   "l": "43fd666593"
   },
   "monster-rancher-2": {
    "v": "8ce1b37306",
    "src": "libretro:Sony - PlayStation/Monster Rancher 2 (USA).png",
-   "h": "160c72f5be"
+   "h": "160c72f5be",
+   "l": "8a1935223e"
   },
   "mortal-kombat-vs-dc-universe": {
    "v": "7b595d4ae6",
    "src": "sgdb:5249210/62050",
-   "h": "3eed980cf7"
+   "h": "3eed980cf7",
+   "l": "8385d40bb0"
   },
   "mr-boom": {
    "v": "accbbbf2f9",
    "src": "libretro:MrBoom/Mr.Boom.png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "naruto-rise-of-a-ninja": {
    "v": "eae41fe66b",
    "src": "sgdb:5268809/182802",
-   "h": "3d5bbaaf2a"
+   "h": "3d5bbaaf2a",
+   "l": "365d3dc9d3"
   },
   "nba-jam-on-fire-edition": {
    "v": "a5c7dc5b4b",
    "src": "sgdb:5259440/549496",
-   "h": "82ad68084b"
+   "h": "82ad68084b",
+   "l": "6dbec0681a"
   },
   "need-for-speed-most-wanted": {
    "v": "7dcecbc501",
    "src": "sgdb:5258915/36920",
-   "h": "8ec96b37de"
+   "h": "8ec96b37de",
+   "l": "513b565bed"
   },
   "neo-drift-out": {
    "v": "e4e1affa7e",
    "src": "libretro:FBNeo - Arcade Games/Neo Drift Out - New Technology.png",
-   "h": "fa31282cef"
+   "h": "fa31282cef",
+   "l": "9d739f7687"
   },
   "new-super-mario-bros-wii": {
    "v": "96848b8b99",
    "src": "libretro:Nintendo - Wii/New Super Mario Bros. Wii (USA).png",
-   "h": "9f769e1a32"
+   "h": "9f769e1a32",
+   "l": "719c2a1033"
   },
   "nhl-legacy-edition": {
    "v": "64449dbfe2",
    "src": "sgdb:5259438/115623",
-   "h": "d1f8b51473"
+   "h": "d1f8b51473",
+   "l": "416d7a6ea3"
   },
   "ninja-gaiden-black": {
    "v": "84b7c79ca9",
    "src": "libretro:Microsoft - Xbox/Ninja Gaiden Black (USA).png",
-   "h": "490ce12bb7"
+   "h": "490ce12bb7",
+   "l": "2b1a07e096"
   },
   "nox": {
    "v": "1921a9d3b5",
    "src": "sgdb:36559/381886",
-   "h": "b0a615fb09"
+   "h": "b0a615fb09",
+   "l": "a6f7697991"
   },
   "oddworld-abes-oddysee": {
    "v": "edc7a4069a",
    "src": "libretro:Sony - PlayStation/Oddworld - Abe's Exoddus (USA).png",
-   "h": "a7914d8daf"
+   "h": "a7914d8daf",
+   "l": "8c88f0c66f"
   },
   "one-must-fall-2097": {
    "v": "d3bdd52f2b",
    "src": "libretro:DOS/One Must Fall 2097 (1994).png",
-   "h": "b67dc4cf2c"
+   "h": "b67dc4cf2c",
+   "l": "2397ea9eb8"
   },
   "openarena": {
    "v": "fa2da976c3",
    "src": "sgdb:5283485/169183",
-   "h": "8d9844f657"
+   "h": "8d9844f657",
+   "l": "429d247e26"
   },
   "outpost": {
-   "h": null
+   "h": null,
+   "l": null
   },
   "outpost-kaloki-x": {
-   "h": null
+   "h": null,
+   "l": null
   },
   "outrun": {
    "v": "feb18d39e9",
    "src": "sgdb:35252/55103",
-   "h": "540fe6a622"
+   "h": "540fe6a622",
+   "l": "3c00fd2b07"
   },
   "p-t": {
    "v": "8f5e7bfa9e",
    "src": "sgdb:5250177/83032",
-   "h": "2a888b86b7"
+   "h": "2a888b86b7",
+   "l": "dbc531a70d"
   },
   "pac-man": {
    "v": "22da444228",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Pac-Man (Europe).png",
-   "h": "dbd08ebf31"
+   "h": "dbd08ebf31",
+   "l": "8577c9adbe"
   },
   "paper-mario": {
    "v": "d6336d204e",
    "src": "libretro:Nintendo - Nintendo 64/Paper Mario (USA).png",
-   "h": "837985f9a4"
+   "h": "837985f9a4",
+   "l": "c62003e5bb"
   },
   "perfect-dark": {
    "v": "a19e36edbf",
    "src": "libretro:Nintendo - Nintendo 64/Perfect Dark (USA).png",
-   "h": "ae9f5e0a78"
+   "h": "ae9f5e0a78",
+   "l": "ea27f0a15f"
   },
   "perfect-dark-zero": {
    "v": "2b4592569d",
    "src": "sgdb:5262078/94509",
-   "h": "48f3158410"
+   "h": "48f3158410",
+   "l": "b7876482f2"
   },
   "peter-jacksons-king-kong": {
    "v": "9511bed7ad",
    "src": "sgdb:5249080/476345",
-   "h": "6743404e9a"
+   "h": "6743404e9a",
+   "l": "9b53f65917"
   },
   "pharaoh": {
    "v": "d091fcce30",
    "src": "sgdb:15603/55113",
-   "h": "87eaa84df2"
+   "h": "87eaa84df2",
+   "l": "1ea453f3ba"
   },
   "pikmin": {
    "v": "d73be1c4eb",
    "src": "libretro:Nintendo - GameCube/Pikmin (USA).png",
-   "h": "e2e2914261"
+   "h": "e2e2914261",
+   "l": "005993594e"
   },
   "pilotwings-64": {
    "v": "ceb9c3a696",
    "src": "libretro:Nintendo - Nintendo 64/Pilotwings 64 (USA).png",
-   "h": "64b3449e03"
+   "h": "64b3449e03",
+   "l": "8611c5a23e"
   },
   "pokemon-emerald": {
    "v": "149478dee1",
    "src": "libretro:Nintendo - Game Boy Advance/Pokemon - Emerald Version (USA, Europe).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "pokemon-firered": {
    "v": "935c8536df",
    "src": "libretro:Nintendo - Game Boy Advance/Pokemon - FireRed Version (USA, Europe).png",
-   "h": "e2bd9d6ffc"
+   "h": "e2bd9d6ffc",
+   "l": "4df882763a"
   },
   "pokemon-mystery-dungeon-red-rescue-team": {
    "v": "f4aea403f0",
    "src": "libretro:Nintendo - Game Boy Advance/Pokemon Mystery Dungeon - Red Rescue Team (Europe) (En,Fr,De,Es,It).png",
-   "h": "43565b25a3"
+   "h": "43565b25a3",
+   "l": "7c87677d36"
   },
   "pokemon-platinum": {
    "v": "0528fdfc00",
    "src": "libretro:Nintendo - Nintendo DS/Pokemon - Platinum Version (USA).png",
-   "h": "b663e87911"
+   "h": "b663e87911",
+   "l": "aa115b8cac"
   },
   "pokemon-red": {
    "v": "610fce1b9e",
    "src": "libretro:Nintendo - Game Boy/Pokemon - Red Version (USA, Europe) (SGB Enhanced).png",
-   "h": "ae07354e84"
+   "h": "ae07354e84",
+   "l": "d1f1ed31db"
   },
   "pokemon-ruby": {
    "v": "cec071f81c",
    "src": "libretro:Nintendo - Game Boy Advance/Pokemon - Ruby Version (USA, Europe).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "pokemon-snap": {
    "v": "a18ef843a1",
    "src": "libretro:Nintendo - Nintendo 64/Pokemon Snap (USA).png",
-   "h": "f83298c137"
+   "h": "f83298c137",
+   "l": "95853ebe8a"
   },
   "pokemon-stadium": {
    "v": "6b9af76f9f",
    "src": "libretro:Nintendo - Nintendo 64/Pokemon Stadium (USA).png",
-   "h": "28a9e4b337"
+   "h": "28a9e4b337",
+   "l": "a2ead220ce"
   },
   "prehistorik": {
    "v": "3343365416",
    "src": "libretro:DOS/Prehistorik (1991).png",
-   "h": "47e77014da"
+   "h": "47e77014da",
+   "l": "44d81ca06b"
   },
   "prey": {
    "v": "5f01e2d952",
    "src": "sgdb:8887/45070",
-   "h": "289dbde353"
+   "h": "289dbde353",
+   "l": "bd510520b4"
   },
   "prince-of-persia": {
    "v": "1e25aa2abe",
    "src": "libretro:DOS/Prince of Persia (1990).png",
-   "h": "568d62051b"
+   "h": "568d62051b",
+   "l": "fabe1270a5"
   },
   "pro-pinball-timeshock": {
    "v": "8cd6294cb5",
    "src": "libretro:Sony - PlayStation/Pro Pinball - Timeshock! (USA).png",
-   "h": "262898e60f"
+   "h": "262898e60f",
+   "l": "0ef42d5c92"
   },
   "project-gotham-racing-4": {
    "v": "efbf0d3d1b",
    "src": "sgdb:5253137/64105",
-   "h": "e8301d21eb"
+   "h": "e8301d21eb",
+   "l": "ae7b2c393e"
   },
   "quake": {
    "v": "37b83ce0ee",
    "src": "libretro:DOS/Quake (1996).png",
-   "h": "bfd23224b4"
+   "h": "bfd23224b4",
+   "l": "b42dd1731b"
   },
   "quake-4": {
    "v": "5941cfeae6",
    "src": "sgdb:2275/102494",
-   "h": "bf0f32fca8"
+   "h": "bf0f32fca8",
+   "l": "226c3e4436"
   },
   "quake-ii": {
    "v": "cfb4e915ed",
    "src": "libretro:Quake II/Quake II.png",
-   "h": "b147c5097f"
+   "h": "b147c5097f",
+   "l": "0892af3ac3"
   },
   "quake-iii-arena": {
    "v": "1b65f37d25",
    "src": "libretro:Quake III/Quake III Arena.png",
-   "h": "7be94f2e49"
+   "h": "7be94f2e49",
+   "l": "e6d47e1357"
   },
   "quakeworld": {
    "v": "928470787c",
    "src": "libretro:Quake/Quake (v1.06).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "quest-64": {
    "v": "95589f14f2",
    "src": "libretro:Nintendo - Nintendo 64/Quest 64 (USA).png",
-   "h": "597563933f"
+   "h": "597563933f",
+   "l": "7035b62986"
   },
   "r-type-delta": {
    "v": "801409c8e5",
    "src": "libretro:Sony - PlayStation/R-Type Delta (USA).png",
-   "h": "4b127b4c63"
+   "h": "4b127b4c63",
+   "l": "2d642d693c"
   },
   "r4-ridge-racer-type-4": {
    "v": "1a22cd4b85",
    "src": "libretro:Sony - PlayStation/R4 - Ridge Racer Type 4 (USA).png",
-   "h": "ecd1aba664"
+   "h": "ecd1aba664",
+   "l": "d6c318602a"
   },
   "radix-beyond-the-void": {
    "v": "01b67ec41c",
    "src": "libretro:DOS/Radix - Beyond the Void (1995).png",
-   "h": "f63875066f"
+   "h": "f63875066f",
+   "l": "b0549ad570"
   },
   "rage-racer": {
    "v": "51e29660cd",
    "src": "libretro:Sony - PlayStation/Rage Racer (USA).png",
-   "h": "5b7910e8f4"
+   "h": "5b7910e8f4",
+   "l": "39f2544d86"
   },
   "ratchet-and-clank": {
    "v": "b7dcb9216f",
    "src": "sgdb:34743/158705",
-   "h": "0496f3775d"
+   "h": "0496f3775d",
+   "l": "ebd825c1ee"
   },
   "reckless-drivin": {
-   "h": null
+   "h": null,
+   "l": null
   },
   "remnants-of-the-precursors": {
    "v": "398b7f0d94",
    "src": "libretro:DOS/Master of Orion (1993).png",
-   "h": "3822ec88a2"
+   "h": "3822ec88a2",
+   "l": "12ba9dad3a"
   },
   "resident-evil-3-nemesis": {
    "v": "6450c00c7d",
    "src": "libretro:Sony - PlayStation/Resident Evil 3 - Nemesis (USA).png",
-   "h": "ade0a5f538"
+   "h": "ade0a5f538",
+   "l": "67b36ec964"
   },
   "return-to-castle-wolfenstein": {
    "v": "0913ef80e5",
    "src": "sgdb:29937/54563",
-   "h": "aca72d1c7f"
+   "h": "aca72d1c7f",
+   "l": "6a56c35ade"
   },
   "ridge-racer": {
    "v": "b87622bb9c",
    "src": "libretro:Sony - PlayStation/Ridge Racer (USA).png",
-   "h": "b78f554af1"
+   "h": "b78f554af1",
+   "l": "7658f5fd77"
   },
   "rise-2-resurrection": {
    "v": "2fab25be46",
    "src": "libretro:DOS/Rise 2 Resurrection.png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "rise-of-the-triad": {
    "v": "280820b794",
    "src": "libretro:DOS/Rise of the Triad - Dark War (1994).png",
-   "h": "4663bb48a5"
+   "h": "4663bb48a5",
+   "l": "af55a42436"
   },
   "road-rash-64": {
    "v": "b6934740bc",
    "src": "libretro:Nintendo - Nintendo 64/Road Rash 64 (USA).png",
-   "h": "3050f213ab"
+   "h": "3050f213ab",
+   "l": "84f76efc54"
   },
   "rocket-robot-on-wheels": {
    "v": "e91bda761a",
    "src": "libretro:Nintendo - Nintendo 64/Rocket - Robot on Wheels (USA).png",
-   "h": "f248af3194"
+   "h": "f248af3194",
+   "l": "6eef2e96f7"
   },
   "rollercoaster-tycoon": {
    "v": "7869856df9",
    "src": "sgdb:4614/72266",
-   "h": "67a03d61b7"
+   "h": "67a03d61b7",
+   "l": "18602169a0"
   },
   "rush-2-extreme-racing-usa": {
    "v": "8564fafb3d",
    "src": "libretro:Nintendo - Nintendo 64/Rush 2 - Extreme Racing USA (USA).png",
-   "h": "ba1a921b92"
+   "h": "ba1a921b92",
+   "l": "01df02d7b2"
   },
   "s-t-a-l-k-e-r-call-of-pripyat": {
    "v": "ab493f7d00",
    "src": "sgdb:9723/575539",
-   "h": "5a14a811ca"
+   "h": "5a14a811ca",
+   "l": "479f0e533e"
   },
   "saints-row": {
    "v": "a54f2c8ca0",
    "src": "sgdb:35143/52599",
-   "h": "dfef823d7f"
+   "h": "dfef823d7f",
+   "l": "19b651863f"
   },
   "sangokushi-eiketsuden": {
    "v": "586d81a5bb",
    "src": "sgdb:18089/204496",
-   "h": null
+   "h": null,
+   "l": "c06a2b91ba"
   },
   "scummvm": {
    "v": "a74ef88fbe",
    "src": "sgdb:5248828/70913",
-   "h": "23df6e0b5a"
+   "h": "23df6e0b5a",
+   "l": "c4956e8a35"
   },
   "sega-superstars-tennis": {
    "v": "7e75ab11ce",
    "src": "sgdb:5248634/44385",
-   "h": "9915c92822"
+   "h": "9915c92822",
+   "l": "c2f6d75b31"
   },
   "serious-sam-the-first-encounter-y-the-second-encounter": {
    "v": "3565e4492d",
    "src": "sgdb:9458/148146",
-   "h": "d404fd067f"
+   "h": "d404fd067f",
+   "l": "fa12733eb6"
   },
   "seven-kingdoms-ancient-adversaries": {
    "v": "13f36ba025",
    "src": "sgdb:11034/74822",
-   "h": "df90eeedbc"
+   "h": "df90eeedbc",
+   "l": "25ec310ba5"
   },
   "shadow-of-the-colossus": {
    "v": "4ec7a547df",
    "src": "sgdb:5414306/90124",
-   "h": "c14568cf70"
+   "h": "c14568cf70",
+   "l": "c29cb20e65"
   },
   "shadow-warrior": {
    "v": "a5044d2107",
    "src": "libretro:DOS/Shadow Warrior (1997).png",
-   "h": "0c5159cd03"
+   "h": "0c5159cd03",
+   "l": "c8888017e6"
   },
   "shantae": {
    "v": "a85624ddff",
    "src": "libretro:Nintendo - Game Boy Color/Shantae (USA).png",
-   "h": "c95acaa620"
+   "h": "c95acaa620",
+   "l": "27079b6cf6"
   },
   "sheep-dog-n-wolf-sheep-raider": {
    "v": "bee46fb6ed",
    "src": "libretro:Sony - PlayStation/Sheep, Dog 'n' Wolf (Europe) (En,Fr,De,Es,It,Nl).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "shrek": {
-   "h": null
+   "h": null,
+   "l": null
   },
   "silent-hill": {
    "v": "520ada0f46",
    "src": "libretro:Sony - PlayStation/Silent Hill (USA).png",
-   "h": "2185b14818"
+   "h": "2185b14818",
+   "l": "a88b5a3cbd"
   },
   "silent-hill-downpour": {
    "v": "1d01dc8d82",
    "src": "sgdb:34912/61373",
-   "h": "f654de3769"
+   "h": "f654de3769",
+   "l": "d8cca05e65"
   },
   "simcity-2000": {
    "v": "4e5c963fe3",
    "src": "libretro:DOS/SimCity 2000.png",
-   "h": "a4a6427015"
+   "h": "a4a6427015",
+   "l": "76a326ae46"
   },
   "skate-3": {
    "v": "748deead7f",
    "src": "sgdb:5249006/51506",
-   "h": "c1c37d1188"
+   "h": "c1c37d1188",
+   "l": "24bb0a0e43"
   },
   "skyroads": {
    "v": "94d904b4f0",
    "src": "libretro:DOS/SkyRoads (1993).png",
-   "h": "d366266f7f"
+   "h": "d366266f7f",
+   "l": "28b02eef80"
   },
   "sly-cooper-and-the-thievius-raccoonus": {
    "v": "590c07cbf1",
    "src": "libretro:Sony - PlayStation 2/Sly Cooper and the Thievius Raccoonus (USA).png",
-   "h": "08dd9cd48d"
+   "h": "08dd9cd48d",
+   "l": "b343713ab0"
   },
   "snowboard-kids": {
    "v": "2eb3ba9a58",
    "src": "libretro:Nintendo - Nintendo 64/Snowboard Kids (USA).png",
-   "h": "045989a95d"
+   "h": "045989a95d",
+   "l": "52c0c51a8b"
   },
   "snowboard-kids-2": {
    "v": "2349f42bec",
    "src": "libretro:Nintendo - Nintendo 64/Snowboard Kids 2 (USA).png",
-   "h": "088c2b6077"
+   "h": "088c2b6077",
+   "l": "d7b234de27"
   },
   "sonic-1-forever": {
    "v": "d02bac5341",
    "src": "libretro:Sega - Mega Drive - Genesis/Sonic The Hedgehog (USA, Europe).png",
-   "h": "68d1859463"
+   "h": "68d1859463",
+   "l": "26c8365d61"
   },
   "sonic-3-and-knuckles": {
    "v": "7e1b133ee4",
    "src": "sgdb:5248529/90892",
-   "h": "ba4b2c743b"
+   "h": "ba4b2c743b",
+   "l": "c5b2dcc35d"
   },
   "sonic-adventure": {
    "v": "b047846d3d",
    "src": "libretro:Sega - Dreamcast/Sonic Adventure (USA).png",
-   "h": "afffbfb4f2"
+   "h": "afffbfb4f2",
+   "l": "1d96a8a4e7"
   },
   "sonic-and-the-secret-rings": {
    "v": "42c8399ac5",
    "src": "libretro:Nintendo - Wii/Sonic and the Secret Rings (USA).png",
-   "h": "c22b58cc46"
+   "h": "c22b58cc46",
+   "l": "80ec5ab51c"
   },
   "sonic-cd": {
    "v": "9609fcba4b",
    "src": "libretro:Sega - Mega-CD - Sega CD/Sonic CD (USA).png",
-   "h": "d79f732184"
+   "h": "d79f732184",
+   "l": "153d6f81d3"
   },
   "sonic-free-riders": {
    "v": "a78512d4c0",
    "src": "sgdb:5265291/178898",
-   "h": "1bcb2f20c5"
+   "h": "1bcb2f20c5",
+   "l": "96d9d58c94"
   },
   "sonic-mania": {
    "v": "5730667207",
    "src": "sgdb:16424/126819",
-   "h": "3aa5739fe9"
+   "h": "3aa5739fe9",
+   "l": "56ac86d005"
   },
   "sonic-the-fighters": {
    "v": "37530cc3bb",
    "src": "sgdb:29859/156144",
-   "h": "af3c467e4f"
+   "h": "af3c467e4f",
+   "l": "dd0cc5ae0d"
   },
   "sonic-the-hedgehog": {
    "v": "d02bac5341",
    "src": "libretro:Sega - Mega Drive - Genesis/Sonic The Hedgehog (USA, Europe).png",
-   "h": "68d1859463"
+   "h": "68d1859463",
+   "l": "26c8365d61"
   },
   "sonic-the-hedgehog-3-sonic-and-knuckles": {
    "v": "80b2b41047",
    "src": "sgdb:33827/55613",
-   "h": "798048addb"
+   "h": "798048addb",
+   "l": "eddd24c8e5"
   },
   "sonic-the-hedgehog-demo": {
    "v": "276e36c539",
    "src": "sgdb:5249681/75394",
-   "h": "aecf4e9eaf"
+   "h": "aecf4e9eaf",
+   "l": "67d20afe96"
   },
   "sonic-unleashed": {
    "v": "ec8e64a479",
    "src": "sgdb:34584/70537",
-   "h": "a81e1b9488"
+   "h": "a81e1b9488",
+   "l": "0b77949703"
   },
   "sopwith": {
    "v": "c9874e6ad2",
    "src": "sgdb:35511/389844",
-   "h": "5aa36b4e34"
+   "h": "5aa36b4e34",
+   "l": "9608377cd8"
   },
   "soulcalibur-ii": {
    "v": "02e0356e00",
    "src": "libretro:Nintendo - GameCube/SoulCalibur II (USA).png",
-   "h": "bb1d0eb2d0"
+   "h": "bb1d0eb2d0",
+   "l": "3b1cf72afc"
   },
   "space-station-silicon-valley": {
    "v": "28ca8e07ca",
    "src": "sgdb:35559/103279",
-   "h": "994a524a7d"
+   "h": "994a524a7d",
+   "l": "28adfafaf0"
   },
   "speed-haste": {
    "v": "51c20396e9",
    "src": "libretro:DOS/Speed Haste (1995).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "spider-man": {
    "v": "2fc1173af1",
    "src": "libretro:Sony - PlayStation/Spider-Man (USA).png",
-   "h": "1e576c76f2"
+   "h": "1e576c76f2",
+   "l": "861a2debe2"
   },
   "spider-man-edge-of-time": {
    "v": "aaf40dc34f",
    "src": "sgdb:33765/129775",
-   "h": null
+   "h": null,
+   "l": "04517afbc1"
   },
   "spider-man-spider-man-2-enter-electro": {
    "v": "2fc1173af1",
    "src": "libretro:Sony - PlayStation/Spider-Man (USA).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "spyro-the-dragon": {
    "v": "43b37fddfb",
    "src": "libretro:Sony - PlayStation/Spyro the Dragon (USA).png",
-   "h": "cb7c5b3ff3"
+   "h": "cb7c5b3ff3",
+   "l": "7a4048270b"
   },
   "star-fox": {
    "v": "cf694ea5a4",
    "src": "libretro:Nintendo - Super Nintendo Entertainment System/Star Fox (USA).png",
-   "h": "df53c4ce3f"
+   "h": "df53c4ce3f",
+   "l": "b7372bf3e0"
   },
   "star-fox-64": {
    "v": "14324e0e10",
    "src": "libretro:Nintendo - Nintendo 64/Star Fox 64 (USA).png",
-   "h": "5752d4471b"
+   "h": "5752d4471b",
+   "l": "f857683974"
   },
   "star-fox-adventures": {
    "v": "7e1cc01887",
    "src": "libretro:Nintendo - GameCube/Star Fox Adventures (USA).png",
-   "h": "4299a46e0e"
+   "h": "4299a46e0e",
+   "l": "64c2aeedb0"
   },
   "star-trek-voyager-elite-force-holomatch": {
    "v": "83e5a2361b",
    "src": "sgdb:38118/79298",
-   "h": "97c52fa584"
+   "h": "97c52fa584",
+   "l": "1b76db4c5a"
   },
   "star-wars-dark-forces": {
    "v": "41fef4d471",
    "src": "libretro:DOS/Star Wars - Dark Forces (1995).png",
-   "h": "4bde77890f"
+   "h": "4bde77890f",
+   "l": "f2c606f2cf"
   },
   "star-wars-episode-i-the-phantom-menace": {
    "v": "207cef7039",
    "src": "libretro:Sony - PlayStation/Star Wars - Episode I - The Phantom Menace (USA).png",
-   "h": "ef3e551b66"
+   "h": "ef3e551b66",
+   "l": "f81b0b6646"
   },
   "star-wars-episode-iii-revenge-of-the-sith": {
    "v": "b41b1eddae",
    "src": "libretro:Microsoft - Xbox/Star Wars - Episode III - Revenge of the Sith (USA).png",
-   "h": "5243b973ff"
+   "h": "5243b973ff",
+   "l": "c3a6be74df"
   },
   "star-wars-jedi-knight-jedi-academy": {
    "v": "63f70f286d",
    "src": "sgdb:17126/81962",
-   "h": "7b303287f3"
+   "h": "7b303287f3",
+   "l": "a027473a01"
   },
   "star-wars-tie-fighter": {
    "v": "4b2987f785",
    "src": "libretro:DOS/Star Wars - TIE Fighter (Collector's CD-ROM).png",
-   "h": "0b0048e094"
+   "h": "0b0048e094",
+   "l": "63b8cc34c4"
   },
   "star-wars-x-wing": {
    "v": "9440e17b47",
    "src": "libretro:DOS/Star Wars - X-Wing (Collector's CD-ROM).png",
-   "h": "6a2701a51f"
+   "h": "6a2701a51f",
+   "l": "2c2d8cebcc"
   },
   "star-wars-x-wing-alliance": {
    "v": "9dc1a10219",
    "src": "sgdb:7253/92247",
-   "h": "6a2701a51f"
+   "h": "6a2701a51f",
+   "l": "2c2d8cebcc"
   },
   "star-wars-x-wing-vs-tie-fighter": {
    "v": "ddd18b3e23",
    "src": "libretro:DOS/Balance of Power (1985).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "starlancer": {
    "v": "78d945c3bf",
    "src": "sgdb:37515/156730",
-   "h": "4ad891e4f6"
+   "h": "4ad891e4f6",
+   "l": "6e809907d6"
   },
   "street-fighter-alpha-3": {
    "v": "78d6e63728",
    "src": "libretro:Sony - PlayStation/Street Fighter Alpha 3 (USA).png",
-   "h": "9b230669d7"
+   "h": "9b230669d7",
+   "l": "76f91bc752"
   },
   "street-fighter-ex-plus-alpha": {
    "v": "1c9440d0b6",
    "src": "libretro:Sony - PlayStation/Street Fighter EX Plus Alpha (USA).png",
-   "h": "b1304c508e"
+   "h": "b1304c508e",
+   "l": "3fe4dc2d7a"
   },
   "street-fighter-ex2-plus": {
    "v": "e29f0f4e0c",
    "src": "libretro:Sony - PlayStation/Street Fighter EX2 Plus (USA).png",
-   "h": "f7a38c8bf7"
+   "h": "f7a38c8bf7",
+   "l": "54c5fcad4b"
   },
   "street-fighter-iii-3rd-strike": {
    "v": "20c933db7b",
    "src": "sgdb:37621/88046",
-   "h": "baf22bf993"
+   "h": "baf22bf993",
+   "l": "d0e9efa7f8"
   },
   "streets-of-rage": {
    "v": "9efe6451bb",
    "src": "libretro:Sega - Mega Drive - Genesis/Streets of Rage (World).png",
-   "h": "05abeca1a7"
+   "h": "05abeca1a7",
+   "l": "d5d3861b0f"
   },
   "strider-2": {
    "v": "888c3c7b24",
    "src": "libretro:Sony - PlayStation/Strider 2 (USA).png",
-   "h": "3f6e55e1c8"
+   "h": "3f6e55e1c8",
+   "l": "ef1871a63e"
   },
   "suikoden": {
    "v": "63d8616e36",
    "src": "libretro:Sony - PlayStation/Suikoden (USA).png",
-   "h": "2fbe598e96"
+   "h": "2fbe598e96",
+   "l": "cac566e07d"
   },
   "super-bomberman": {
    "v": "1c192f68bb",
    "src": "libretro:Nintendo - Super Nintendo Entertainment System/Super Bomberman (USA).png",
-   "h": "6a5d0d4442"
+   "h": "6a5d0d4442",
+   "l": "c5fa518ae5"
   },
   "super-mario-64": {
    "v": "47a6e00d1e",
    "src": "libretro:Nintendo - Nintendo 64/Super Mario 64 (USA).png",
-   "h": "1c13a3b7e3"
+   "h": "1c13a3b7e3",
+   "l": "b156228c2e"
   },
   "super-mario-advance-2-super-mario-world": {
    "v": "2e3a5724e4",
    "src": "libretro:Nintendo - Game Boy Advance/Super Mario Advance 2 - Super Mario World (Europe) (En,Fr,De,Es).png",
-   "h": "0b7b504fe4"
+   "h": "0b7b504fe4",
+   "l": "a6528bcd04"
   },
   "super-mario-advance-4-super-mario-bros-3": {
    "v": "036beac69f",
    "src": "libretro:Nintendo - Game Boy Advance/Super Mario Advance 4 - Super Mario Bros. 3 (USA).png",
-   "h": "656ac96d9d"
+   "h": "656ac96d9d",
+   "l": "2629bfce5d"
   },
   "super-mario-bros": {
    "v": "370ab3c385",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Super Mario Bros. (World).png",
-   "h": "ccf3ab2638"
+   "h": "ccf3ab2638",
+   "l": "78fa7448c3"
   },
   "super-mario-bros-y-the-lost-levels": {
    "v": "370ab3c385",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Super Mario Bros. (World).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "super-mario-galaxy": {
    "v": "8f1e0bf109",
    "src": "libretro:Nintendo - Wii/Super Mario Galaxy (USA).png",
-   "h": "f9ec309596"
+   "h": "f9ec309596",
+   "l": "82fc95ee68"
   },
   "super-mario-sunshine": {
    "v": "94b7173873",
    "src": "libretro:Nintendo - GameCube/Super Mario Sunshine (USA).png",
-   "h": "3289d9fa7a"
+   "h": "3289d9fa7a",
+   "l": "128d2d6d91"
   },
   "super-mario-world": {
    "v": "b12e86a51d",
    "src": "libretro:Nintendo - Super Nintendo Entertainment System/Super Mario World (USA).png",
-   "h": "0b7b504fe4"
+   "h": "0b7b504fe4",
+   "l": "a6528bcd04"
   },
   "super-metroid": {
    "v": "83a9a733f7",
    "src": "libretro:Nintendo - Super Nintendo Entertainment System/Super Metroid (USA, Europe) (En,Ja) (Virtual Console, Classic Mini, Switch Online).png",
-   "h": "84a47b370f"
+   "h": "84a47b370f",
+   "l": "dc2951a0ab"
   },
   "super-smash-bros": {
    "v": "76316e635b",
    "src": "libretro:Nintendo - Nintendo 64/Super Smash Bros. (USA).png",
-   "h": "3668e0f36a"
+   "h": "3668e0f36a",
+   "l": "6474f92138"
   },
   "super-smash-bros-melee": {
    "v": "623b0a05ee",
    "src": "libretro:Nintendo - GameCube/Super Smash Bros. Melee (USA).png",
-   "h": "102f856f60"
+   "h": "102f856f60",
+   "l": "adba82b517"
   },
   "syndicate-wars": {
    "v": "e9c0fca9b6",
    "src": "libretro:DOS/Syndicate Wars (1996).png",
-   "h": "a6b264a1a0"
+   "h": "a6b264a1a0",
+   "l": "bdbd09bba0"
   },
   "syphon-filter": {
    "v": "f348e9fc01",
    "src": "libretro:Sony - PlayStation/Syphon Filter (USA).png",
-   "h": null
+   "h": null,
+   "l": "e1c9321003"
   },
   "syphon-filter-3": {
    "v": "90bf2a0dc2",
    "src": "libretro:Sony - PlayStation/Syphon Filter 3 (USA).png",
-   "h": "147755a1fe"
+   "h": "147755a1fe",
+   "l": "e4c567bd9d"
   },
   "system-shock": {
    "v": "16b1436bb8",
    "src": "libretro:DOS/System Shock (1994).png",
-   "h": "0528519d2e"
+   "h": "0528519d2e",
+   "l": "d7b46ff252"
   },
   "tekken-3": {
    "v": "9f3f91b89b",
    "src": "libretro:Sony - PlayStation/Tekken 3 (USA).png",
-   "h": "6507dbff9f"
+   "h": "6507dbff9f",
+   "l": "c38aa4d7a4"
   },
   "tenchu-stealth-assassins": {
    "v": "2277193eac",
    "src": "libretro:Sony - PlayStation/Tenchu - Stealth Assassins (USA).png",
-   "h": "993fb374ec"
+   "h": "993fb374ec",
+   "l": "5de029e00a"
   },
   "terraria-old-gen-console-edition": {
    "v": "0d0f518366",
    "src": "sgdb:1226/225608",
-   "h": "75fde8ca0b"
+   "h": "75fde8ca0b",
+   "l": "4871b5cdfa"
   },
   "tetris": {
    "v": "80e3737858",
    "src": "libretro:Nintendo - Game Boy/Tetris (World) (Rev 1).png",
-   "h": "6f7486da04"
+   "h": "6f7486da04",
+   "l": "3549430fd6"
   },
   "tetrisphere": {
    "v": "52694d5f86",
    "src": "libretro:Nintendo - Nintendo 64/Tetrisphere (USA).png",
-   "h": "85c815596d"
+   "h": "85c815596d",
+   "l": "5698d632a5"
   },
   "the-darkness": {
    "v": "1a06651a3f",
    "src": "sgdb:24046/158396",
-   "h": null
+   "h": null,
+   "l": null
   },
   "the-elder-scrolls-arena": {
    "v": "5c1792183d",
    "src": "libretro:DOS/Elder Scrolls, The - Arena (1994).png",
-   "h": "12cb31a489"
+   "h": "12cb31a489",
+   "l": "3532ea2fad"
   },
   "the-fifth-element": {
    "v": "9216ed72d2",
    "src": "libretro:Sony - PlayStation/Fifth Element, The (USA).png",
-   "h": "6beb4bea99"
+   "h": "6beb4bea99",
+   "l": "e8c1cea601"
   },
   "the-house-in-fata-morgana": {
    "v": "c4bc7cf49c",
    "src": "sgdb:4758/148776",
-   "h": "0cff663c12"
+   "h": "0cff663c12",
+   "l": "992eee629c"
   },
   "the-legend-of-dragoon": {
    "v": "e719f4b56f",
    "src": "libretro:Sony - PlayStation/Legend of Dragoon, The (USA).png",
-   "h": "9f03799e6f"
+   "h": "9f03799e6f",
+   "l": "5d9bae355d"
   },
   "the-legend-of-sword-and-fairy": {
    "v": "3c73b2069d",
    "src": "sgdb:20899/46050",
-   "h": "d9c48199c2"
+   "h": "d9c48199c2",
+   "l": "6834a4edfa"
   },
   "the-legend-of-zelda": {
    "v": "3a1cb086fa",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Legend of Zelda, The (USA).png",
-   "h": "50a9996493"
+   "h": "50a9996493",
+   "l": "d8fe96ea37"
   },
   "the-legend-of-zelda-a-link-to-the-past": {
    "v": "2262233dcd",
    "src": "libretro:Nintendo - Super Nintendo Entertainment System/Legend of Zelda, The - A Link to the Past (USA).png",
-   "h": "c3432a4c04"
+   "h": "c3432a4c04",
+   "l": "c64dabbd9e"
   },
   "the-legend-of-zelda-links-awakening": {
    "v": "170cf65fdf",
    "src": "sgdb:5253316/692854",
-   "h": "530791ebd6"
+   "h": "530791ebd6",
+   "l": "2af05360f9"
   },
   "the-legend-of-zelda-links-awakening-dx": {
    "v": "a450def5c2",
    "src": "libretro:Nintendo - Game Boy Color/Legend of Zelda, The - Link's Awakening DX (USA, Europe) (SGB Enhanced) (GB Compatible).png",
-   "h": "fd3f0e67ec"
+   "h": "fd3f0e67ec",
+   "l": "fe66e0ac63"
   },
   "the-legend-of-zelda-majoras-mask": {
    "v": "668476e116",
    "src": "libretro:Nintendo - Nintendo 64/Legend of Zelda, The - Majora's Mask (USA).png",
-   "h": "0196f5584d"
+   "h": "0196f5584d",
+   "l": "2f910ed320"
   },
   "the-legend-of-zelda-minish-cap": {
    "v": "5bd1dc9ce5",
    "src": "libretro:Nintendo - Game Boy Advance/Legend of Zelda, The - The Minish Cap (USA).png",
-   "h": "9cfa7d0f92"
+   "h": "9cfa7d0f92",
+   "l": "901546b39f"
   },
   "the-legend-of-zelda-ocarina-of-time": {
    "v": "07f1f87055",
    "src": "libretro:Nintendo - Nintendo 64/Legend of Zelda, The - Ocarina of Time (USA).png",
-   "h": "39b3b8be4d"
+   "h": "39b3b8be4d",
+   "l": "234869fadf"
   },
   "the-legend-of-zelda-ocarina-of-time-3d": {
    "v": "052ff3b8bf",
    "src": "libretro:Nintendo - Nintendo 3DS/Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es).png",
-   "h": "fc9ba4ae41"
+   "h": "fc9ba4ae41",
+   "l": "257ee39db1"
   },
   "the-legend-of-zelda-the-wind-waker": {
    "v": "cd09587c22",
    "src": "libretro:Nintendo - GameCube/Legend of Zelda, The - The Wind Waker (USA).png",
-   "h": "d32f194501"
+   "h": "d32f194501",
+   "l": "27a4cda3bb"
   },
   "the-legend-of-zelda-the-wind-waker-hd": {
    "v": "72c40a525f",
    "src": "libretro:Nintendo - Wii U/Legend of Zelda, The - The Wind Waker HD (Europe, Australia) (En,Fr,De,Es,It).png",
-   "h": "afa277016f"
+   "h": "afa277016f",
+   "l": "1415d43456"
   },
   "the-legend-of-zelda-twilight-princess": {
    "v": "e01233f49d",
    "src": "libretro:Nintendo - GameCube/Legend of Zelda, The - Twilight Princess (USA).png",
-   "h": "026ae759cb"
+   "h": "026ae759cb",
+   "l": "9b988fbe0b"
   },
   "the-lord-of-the-rings-the-two-towers": {
    "v": "d4fbd6456d",
    "src": "libretro:Microsoft - Xbox/Lord of the Rings, The - The Two Towers (USA).png",
-   "h": "25120c35d0"
+   "h": "25120c35d0",
+   "l": "6456b5ec33"
   },
   "the-settlers": {
    "v": "444720b7d4",
    "src": "libretro:Commodore - Amiga/Settlers, The (Europe).png",
-   "h": "beaf2da6b8"
+   "h": "beaf2da6b8",
+   "l": "2538381468"
   },
   "the-settlers-ii": {
    "v": "d02942374c",
    "src": "libretro:DOS/Settlers II, The (Gold Edition).png",
-   "h": null
+   "h": null,
+   "l": "f9c0c1d83b"
   },
   "the-simpsons-game": {
    "v": "f953dcbb74",
    "src": "sgdb:35540/285131",
-   "h": "8ea6f63117"
+   "h": "8ea6f63117",
+   "l": "0af6f024d0"
   },
   "the-simpsons-wrestling": {
    "v": "95e26be624",
    "src": "libretro:Sony - PlayStation/Simpsons Wrestling, The (USA).png",
-   "h": "b92a59ced8"
+   "h": "b92a59ced8",
+   "l": "459a390e11"
   },
   "the-terminator-future-shock": {
    "v": "2f509ad606",
    "src": "libretro:DOS/Terminator, The - Future Shock (1995).png",
-   "h": "69321a8f3a"
+   "h": "69321a8f3a",
+   "l": "6e9908535a"
   },
   "theme-hospital": {
    "v": "be30b1386a",
    "src": "libretro:DOS/Theme Hospital (1997).png",
-   "h": "49578c053c"
+   "h": "49578c053c",
+   "l": "5e35833174"
   },
   "tokyo-highway-battle": {
    "v": "60c67bf066",
    "src": "libretro:Sony - PlayStation/Tokyo Highway Battle (USA).png",
-   "h": null
+   "h": null,
+   "l": "1adf2f6d8f"
   },
   "tomb-raider-pc": {
    "v": "569c8061c9",
    "src": "libretro:DOS/Tomb Raider.png",
-   "h": "c853420d5f"
+   "h": "c853420d5f",
+   "l": "1965f02ea1"
   },
   "tomb-raider-playstation": {
    "v": "88d34ad495",
    "src": "libretro:Sony - PlayStation/Tomb Raider (USA).png",
-   "h": "c853420d5f"
+   "h": "c853420d5f",
+   "l": "1965f02ea1"
   },
   "tomba": {
    "v": "f9fe89f777",
    "src": "libretro:Sony - PlayStation/Tomba! (USA).png",
-   "h": "b623918ba7"
+   "h": "b623918ba7",
+   "l": "717051adf8"
   },
   "tomba-2-the-evil-swine-return": {
    "v": "a11a69860f",
    "src": "libretro:Sony - PlayStation/Tomba! 2 - The Evil Swine Return (USA).png",
-   "h": "57f27f7a23"
+   "h": "57f27f7a23",
+   "l": "c3f454cef2"
   },
   "tony-hawks-pro-skater": {
    "v": "5e6fe48eaf",
    "src": "libretro:Sony - PlayStation/Tony Hawk's Pro Skater (USA).png",
-   "h": "e9e0bf6f6e"
+   "h": "e9e0bf6f6e",
+   "l": "dcdd3ade8d"
   },
   "tony-hawks-pro-skater-2": {
    "v": "59ba3ba15d",
    "src": "libretro:Sony - PlayStation/Tony Hawk's Pro Skater 2 (USA).png",
-   "h": "6a2feb4777"
+   "h": "6a2feb4777",
+   "l": "1f7b3cd456"
   },
   "tony-hawks-pro-skater-3": {
    "v": "7e95f7ba09",
    "src": "libretro:Sony - PlayStation/Tony Hawk's Pro Skater 3 (USA).png",
-   "h": "ae7ca292a6"
+   "h": "ae7ca292a6",
+   "l": "7d4ce6790c"
   },
   "tony-hawks-pro-skater-4": {
    "v": "775cb804b5",
    "src": "libretro:Sony - PlayStation/Tony Hawk's Pro Skater 4 (USA).png",
-   "h": "2abce886e8"
+   "h": "2abce886e8",
+   "l": "3520c38f32"
   },
   "tony-hawks-project-8": {
    "v": "cc1ff0b8ee",
    "src": "sgdb:34809/106818",
-   "h": "412e189782"
+   "h": "412e189782",
+   "l": "52bf277646"
   },
   "total-annihilation-kingdoms": {
    "v": "ebb42f0c91",
    "src": "sgdb:5247487/108187",
-   "h": "1300f3be05"
+   "h": "1300f3be05",
+   "l": "79f303f6e7"
   },
   "touhou-6-embodiment-of-scarlet-devil": {
    "v": "b540c8f685",
    "src": "sgdb:104/289217",
-   "h": "c50dc7ee53"
+   "h": "c50dc7ee53",
+   "l": "7fbd99d85c"
   },
   "toy-story-2": {
    "v": "c88e84d059",
    "src": "sgdb:17828/66604",
-   "h": "2a0066be34"
+   "h": "2a0066be34",
+   "l": "c50a0fb638"
   },
   "transport-tycoon-deluxe": {
    "v": "90203dc9cd",
    "src": "libretro:DOS/Transport Tycoon Deluxe (1995).png",
-   "h": null
+   "h": null,
+   "l": "b67aa6bee0"
   },
   "tribal-trouble": {
-   "h": null
+   "h": null,
+   "l": null
   },
   "tsumu-light": {
    "v": "f28b0ad805",
    "src": "libretro:Sony - PlayStation/Tsumu Light (Japan).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "tyrian": {
    "v": "e93ac90098",
    "src": "libretro:DOS/Tyrian (1995).png",
-   "h": null
+   "h": null,
+   "l": "8db49760dc"
   },
   "ultima-underworld": {
    "v": "b1b639d7f7",
    "src": "libretro:DOS/Ultima Underworld - The Stygian Abyss (1992).png",
-   "h": "1a0861784c"
+   "h": "1a0861784c",
+   "l": "5b175d466c"
   },
   "ultima-underworld-i-and-ii": {
    "v": "b1b639d7f7",
    "src": "libretro:DOS/Ultima Underworld - The Stygian Abyss (1992).png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "ultima-v-warriors-of-destiny": {
    "v": "c50a5f7334",
    "src": "libretro:DOS/Ultima V - Warriors of Destiny (1988).png",
-   "h": "5073e40fec"
+   "h": "5073e40fec",
+   "l": "137938202a"
   },
   "ultima-vii-the-black-gate": {
    "v": "2b23c8058b",
    "src": "libretro:DOS/Ultima VII the black gate.png",
-   "h": "4df52a4c48"
+   "h": "4df52a4c48",
+   "l": "e734a83de6"
   },
   "unreal": {
    "v": "1c939d7d3e",
    "src": "libretro:DOS/Unreal (1991).png",
-   "h": "770082a973"
+   "h": "770082a973",
+   "l": "52ea2759fa"
   },
   "vandal-hearts": {
    "v": "9c62e5401e",
    "src": "libretro:Sony - PlayStation/Vandal Hearts (USA).png",
-   "h": "9f8a088e2a"
+   "h": "9f8a088e2a",
+   "l": "22fe5533d7"
   },
   "vangers": {
    "v": "3bc5ba64a7",
    "src": "sgdb:3454/113439",
-   "h": "27f12a7f6a"
+   "h": "27f12a7f6a",
+   "l": "17d095ddd9"
   },
   "vib-ribbon": {
    "v": "80b38aa5c4",
    "src": "libretro:Sony - PlayStation/Vib-Ribbon (Europe) (En,Fr,De,Es,It).png",
-   "h": "c32b821e47"
+   "h": "c32b821e47",
+   "l": "36681fdd7b"
   },
   "virtua-fighter": {
    "v": "275547bb6d",
    "src": "libretro:Sega - Saturn/Virtua Fighter (USA).png",
-   "h": "3aae8f92a5"
+   "h": "3aae8f92a5",
+   "l": "edf2990feb"
   },
   "virtual-pro-wrestling-2": {
    "v": "04f06bc0c1",
    "src": "libretro:Nintendo - Nintendo 64/Virtual Pro Wrestling 2 - Oudou Keishou (Japan).png",
-   "h": "890eb78585"
+   "h": "890eb78585",
+   "l": "0a9612904c"
   },
   "virtual-pro-wrestling-64": {
    "v": "6bc5d46bb7",
    "src": "libretro:Nintendo - Nintendo 64/Virtual Pro Wrestling 64 (Japan).png",
-   "h": "6267118a90"
+   "h": "6267118a90",
+   "l": "09581dabf8"
   },
   "viva-pinata": {
    "v": "0afb147591",
    "src": "sgdb:38472/224188",
-   "h": "b264c5ec7f"
+   "h": "b264c5ec7f",
+   "l": "406753adce"
   },
   "viva-pinata-trouble-in-paradise": {
    "v": "be70fafc9b",
    "src": "sgdb:5262214/94944",
-   "h": "4d5ae32305"
+   "h": "4d5ae32305",
+   "l": "75cdadae65"
   },
   "warcraft-ii-tides-of-darkness": {
    "v": "4bbc3ebfb8",
    "src": "libretro:DOS/Warcraft II - Tides of Darkness (1995).png",
-   "h": "baaac7df66"
+   "h": "baaac7df66",
+   "l": "ab6ef68168"
   },
   "warioware-twisted": {
    "v": "51fa2ee84e",
    "src": "libretro:Nintendo - Game Boy Advance/WarioWare - Twisted! (USA).png",
-   "h": "722e073750"
+   "h": "722e073750",
+   "l": "6aa470fd0d"
   },
   "warrior-kings": {
    "v": "1bd478a49f",
    "src": "sgdb:4469/50358",
-   "h": "3de7a25dce"
+   "h": "3de7a25dce",
+   "l": "fc79718a26"
   },
   "warzone-2100": {
    "v": "984c30b0d3",
    "src": "sgdb:5255553/281229",
-   "h": "7778d7dfe0"
+   "h": "7778d7dfe0",
+   "l": "14273ed841"
   },
   "wave-race-64": {
    "v": "c34183a2dc",
    "src": "sgdb:39034/298698",
-   "h": "0fae9175d2"
+   "h": "0fae9175d2",
+   "l": "db245a8588"
   },
   "wcw-nwo-revenge": {
    "v": "f66df0cadd",
    "src": "libretro:Nintendo - Nintendo 64/WCW-nWo Revenge (USA).png",
-   "h": "1ef319438b"
+   "h": "1ef319438b",
+   "l": "e1792ac7c2"
   },
   "wcw-vs-nwo-world-tour": {
    "v": "652eb87d65",
    "src": "libretro:Nintendo - Nintendo 64/WCW vs. nWo - World Tour (USA).png",
-   "h": "fc07561b14"
+   "h": "fc07561b14",
+   "l": "baf608e6fc"
   },
   "wet": {
    "v": "f1be7fbef7",
    "src": "sgdb:5258572/80886",
-   "h": "bda9e450bc"
+   "h": "bda9e450bc",
+   "l": "771f9904d8"
   },
   "wing-commander": {
    "v": "b57ca607cf",
    "src": "libretro:DOS/Wing Commander (1990).png",
-   "h": "9646c55d9f"
+   "h": "9646c55d9f",
+   "l": "35a652b7a3"
   },
   "wing-commander-ii": {
    "v": "efb3b9fb98",
    "src": "libretro:DOS/Wing Commander II - Deluxe Edition.png",
-   "h": null
+   "h": null,
+   "l": null
   },
   "wipeout": {
    "v": "c052ec7fa0",
    "src": "libretro:Sony - PlayStation/WipEout (USA).png",
-   "h": "e77e183a04"
+   "h": "e77e183a04",
+   "l": "551a355316"
   },
   "wolfenstein-3d": {
    "v": "5eee4f97e4",
    "src": "libretro:DOS/Spear of Destiny (1992).png",
-   "h": "f45531996d"
+   "h": "f45531996d",
+   "l": "011359fb6a"
   },
   "woody-woodpecker-escape-from-buzz-buzzard-park": {
    "v": "9f34dcf0e2",
    "src": "sgdb:5345132/265324",
-   "h": "818f398226"
+   "h": "818f398226",
+   "l": "bcc510ac3b"
   },
   "world-of-warcraft": {
    "v": "bddce5d826",
    "src": "sgdb:33707/70819",
-   "h": "bbe59b3ab9"
+   "h": "bbe59b3ab9",
+   "l": "fc25964e76"
   },
   "wwe-13": {
    "v": "0db2859ab8",
    "src": "sgdb:5252562/81431",
-   "h": "be94cbee1c"
+   "h": "be94cbee1c",
+   "l": "09ebeea7af"
   },
   "wwe-smackdown-vs-raw-2007": {
    "v": "52d3a81b6f",
    "src": "sgdb:5264777/111496",
-   "h": "b77dd1e2fb"
+   "h": "b77dd1e2fb",
+   "l": "1607976824"
   },
   "wwe-smackdown-vs-raw-2011": {
    "v": "1b2e475a08",
    "src": "sgdb:36043/61530",
-   "h": null
+   "h": null,
+   "l": "479987b241"
   },
   "wwf-no-mercy": {
    "v": "a2e18238f4",
    "src": "libretro:Nintendo - Nintendo 64/WWF No Mercy (USA).png",
-   "h": "7da502d0ed"
+   "h": "7da502d0ed",
+   "l": "e4591c08d3"
   },
   "wwf-smackdown-2-know-your-role": {
    "v": "0d001e31d7",
    "src": "libretro:Sony - PlayStation/WWF SmackDown! 2 - Know Your Role (USA).png",
-   "h": "f3d758cd53"
+   "h": "f3d758cd53",
+   "l": "db3527ddca"
   },
   "wwf-wrestlemania-2000": {
    "v": "d242d4ecd8",
    "src": "libretro:Nintendo - Nintendo 64/WWF WrestleMania 2000 (USA).png",
-   "h": "bd9bea7b78"
+   "h": "bd9bea7b78",
+   "l": "242144629b"
   },
   "x-com-apocalypse": {
    "v": "d61a413364",
    "src": "libretro:DOS/X-COM - Apocalypse (1997).png",
-   "h": "27386b0b51"
+   "h": "27386b0b51",
+   "l": "9b3502824f"
   },
   "x-men-legends": {
    "v": "5a5757ef69",
    "src": "libretro:Microsoft - Xbox/X-Men Legends (World).png",
-   "h": "5fc8818992"
+   "h": "5fc8818992",
+   "l": "c3071df3fd"
   },
   "x-men-mutant-academy-2": {
    "v": "8150dffd36",
    "src": "libretro:Sony - PlayStation/X-Men - Mutant Academy 2 (USA).png",
-   "h": "3764fa7a85"
+   "h": "3764fa7a85",
+   "l": "6720b6f16f"
   },
   "xcom-ufo-defense": {
    "v": "958531cfcf",
    "src": "libretro:DOS/X-COM - Terror from the Deep (1995).png",
-   "h": "6fc19a2f38"
+   "h": "6fc19a2f38",
+   "l": "a0ca4d8aa0"
   },
   "xenogears": {
    "v": "1f953f1aec",
    "src": "libretro:Sony - PlayStation/Xenogears (USA).png",
-   "h": "008fc2db3a"
+   "h": "008fc2db3a",
+   "l": "0183b30720"
   },
   "yakuza-dead-souls": {
    "v": "93bd6b5f61",
    "src": "sgdb:5259167/112647",
-   "h": "247238df91"
+   "h": "247238df91",
+   "l": "4c8b618093"
   },
   "yoshi": {
    "v": "febf85cf0a",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Yoshi (USA).png",
-   "h": "36b09609a6"
+   "h": "36b09609a6",
+   "l": "df90c139f0"
   },
   "yoshis-cookie": {
    "v": "388cd09b7c",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Yoshi's Cookie (USA).png",
-   "h": "eafffd5ad5"
+   "h": "eafffd5ad5",
+   "l": "d5dce8297e"
   },
   "yu-gi-oh-forbidden-memories": {
    "v": "5a55fe3c27",
    "src": "libretro:Sony - PlayStation/Yu-Gi-Oh! Forbidden Memories (USA).png",
-   "h": "80e5ead41c"
+   "h": "80e5ead41c",
+   "l": "dc90ca3f4f"
   },
   "zelda-ii-the-adventure-of-link": {
    "v": "a6cedb75ae",
    "src": "libretro:Nintendo - Nintendo Entertainment System/Zelda II - The Adventure of Link (USA).png",
-   "h": "463f31ff62"
+   "h": "463f31ff62",
+   "l": "242b317132"
   },
   "zero-racers": {
-   "h": null
+   "h": null,
+   "l": null
   }
  }
 }
