@@ -1,6 +1,11 @@
 {
  "generatedAt": "2026-10-22",
  "covers": {
+  "2014-fifa-world-cup-brazil": {
+   "v": "04c5eee458",
+   "src": "sgdb:5259701/786256",
+   "h": "c986e43277"
+  },
   "3d-pinball-space-cadet": {
    "v": "034f6bfe76",
    "src": "sgdb:17822/67396",
@@ -71,6 +76,16 @@
    "src": "libretro:Sony - PlayStation/Apocalypse (USA).png",
    "h": "5bcdd143aa"
   },
+  "armored-core-4": {
+   "v": "3179cc2062",
+   "src": "sgdb:5258123/79370",
+   "h": "8d63d2c307"
+  },
+  "armored-core-for-answer": {
+   "v": "0b32a9ab02",
+   "src": "sgdb:5258124/145219",
+   "h": "79382312cb"
+  },
   "arx-fatalis": {
    "v": "8b0e85bc00",
    "src": "sgdb:1539/51260",
@@ -120,6 +135,11 @@
    "v": "f65a34d36b",
    "src": "libretro:Nintendo - Nintendo 64/Beetle Adventure Racing! (USA) (En,Fr,De).png",
    "h": "2f7edacf45"
+  },
+  "black": {
+   "v": "cda586740d",
+   "src": "libretro:Microsoft - Xbox/Black (USA).png",
+   "h": "34dbc21cd4"
   },
   "blake-stone-aliens-of-gold": {
    "v": "77b24d0988",
@@ -309,6 +329,11 @@
    "src": "libretro:Nintendo - Nintendo 64/Conker's Bad Fur Day (USA).png",
    "h": "4d9498e334"
   },
+  "crackdown": {
+   "v": "b4fd29ea81",
+   "src": "sgdb:5245837/83289",
+   "h": "e88482b86e"
+  },
   "crash-bandicoot": {
    "v": "a12cc5e38b",
    "src": "libretro:Sony - PlayStation/Crash Bandicoot (USA).png",
@@ -398,6 +423,11 @@
    "v": "fe262a3c2a",
    "src": "sgdb:36900/101987",
    "h": "184cabaaa0"
+  },
+  "def-jam-fight-for-ny": {
+   "v": "d3897dced7",
+   "src": "libretro:Microsoft - Xbox/Def Jam - Fight for NY (USA).png",
+   "h": "a322682ec9"
   },
   "descent": {
    "v": "4b1d6e9d99",
@@ -614,6 +644,11 @@
    "src": "sgdb:5299938/592105",
    "h": "b233d26af4"
   },
+  "eternal-darkness-sanitys-requiem": {
+   "v": "6bc7b8b4bb",
+   "src": "libretro:Nintendo - GameCube/Eternal Darkness - Sanity's Requiem (USA).png",
+   "h": "ade8d4310c"
+  },
   "eternal-sonata": {
    "v": "6b4314f606",
    "src": "sgdb:33606/137579",
@@ -674,6 +709,11 @@
    "src": "libretro:Sony - PlayStation/Final Fantasy Tactics (USA).png",
    "h": "30881d677d"
   },
+  "final-fantasy-tactics-advance": {
+   "v": "8c5b18d914",
+   "src": "libretro:Nintendo - Game Boy Advance/Final Fantasy Tactics Advance (USA).png",
+   "h": "4976fad058"
+  },
   "final-fantasy-viii": {
    "v": "66bda5cf19",
    "src": "libretro:Sony - PlayStation/Final Fantasy VIII (USA).png",
@@ -731,6 +771,11 @@
    "v": "d087ca7058",
    "src": "libretro:Sony - PlayStation 2/God of War (USA).png",
    "h": "2fd392b3a9"
+  },
+  "god-of-war-chains-of-olympus-y-ghost-of-sparta": {
+   "h": null,
+   "v": "82f5f9567e",
+   "src": "sgdb:36385/111377"
   },
   "god-of-war-iii-remastered": {
    "v": "e4778a5d74",
@@ -880,6 +925,11 @@
    "src": "libretro:DOS/In Pursuit of Greed (1995).png",
    "h": null
   },
+  "infamous-second-son": {
+   "v": "d6a1fec237",
+   "src": "sgdb:5246744/115247",
+   "h": "37f6dcb18a"
+  },
   "infinite-undiscovery": {
    "v": "d9138bf895",
    "src": "sgdb:34050/133088",
@@ -934,6 +984,11 @@
    "v": "cae073526e",
    "src": "sgdb:5265763/600365",
    "h": "739da364ca"
+  },
+  "killzone": {
+   "v": "ac19fb168f",
+   "src": "libretro:Sony - PlayStation 2/Killzone (USA).png",
+   "h": "c4c9f59f5e"
   },
   "kingdom-hearts-chain-of-memories": {
    "v": "d595935dd0",
@@ -1342,6 +1397,11 @@
    "src": "libretro:Nintendo - Game Boy Advance/Pokemon - FireRed Version (USA, Europe).png",
    "h": "e2bd9d6ffc"
   },
+  "pokemon-lets-go-eevee": {
+   "v": "b6a0c08bdb",
+   "src": "sgdb:5246183/53688",
+   "h": "3501ac738c"
+  },
   "pokemon-mystery-dungeon-red-rescue-team": {
    "v": "f4aea403f0",
    "src": "libretro:Nintendo - Game Boy Advance/Pokemon Mystery Dungeon - Red Rescue Team (Europe) (En,Fr,De,Es,It).png",
@@ -1573,6 +1633,11 @@
    "src": "libretro:DOS/SimCity 2000.png",
    "h": "a4a6427015"
   },
+  "skate-2": {
+   "v": "125e3e8250",
+   "src": "sgdb:5249408/51505",
+   "h": "077b062cc9"
+  },
   "skate-3": {
    "v": "748deead7f",
    "src": "sgdb:5249006/51506",
@@ -1693,10 +1758,20 @@
    "src": "libretro:Sony - PlayStation/Spider-Man (USA).png",
    "h": null
   },
+  "spider-man-web-of-shadows": {
+   "v": "8a5ac76463",
+   "src": "sgdb:5248600/105523",
+   "h": "18d8ff0dc4"
+  },
   "spyro-the-dragon": {
    "v": "43b37fddfb",
    "src": "libretro:Sony - PlayStation/Spyro the Dragon (USA).png",
    "h": "cb7c5b3ff3"
+  },
+  "ssx-tricky": {
+   "v": "505de0bb9a",
+   "src": "libretro:Sony - PlayStation 2/SSX Tricky (USA).png",
+   "h": "e3efc87750"
   },
   "star-fox": {
    "v": "cf694ea5a4",
@@ -1928,6 +2003,11 @@
    "src": "sgdb:4758/148776",
    "h": "0cff663c12"
   },
+  "the-last-guardian": {
+   "v": "523ab95efd",
+   "src": "sgdb:5246743/115252",
+   "h": "8d0b20d2a6"
+  },
   "the-legend-of-dragoon": {
    "v": "e719f4b56f",
    "src": "libretro:Sony - PlayStation/Legend of Dragoon, The (USA).png",
@@ -2033,6 +2113,11 @@
    "src": "libretro:Sony - PlayStation/Tokyo Highway Battle (USA).png",
    "h": null
   },
+  "tom-clancys-splinter-cell-double-agent": {
+   "v": "cb4068ca33",
+   "src": "libretro:Microsoft - Xbox/Tom Clancy's - Splinter Cell - Double Agent (USA).png",
+   "h": "c41cedc56b"
+  },
   "tomb-raider-pc": {
    "v": "569c8061c9",
    "src": "libretro:DOS/Tomb Raider.png",
@@ -2130,6 +2215,11 @@
    "v": "2b23c8058b",
    "src": "libretro:DOS/Ultima VII the black gate.png",
    "h": "4df52a4c48"
+  },
+  "ultimate-mortal-kombat-3": {
+   "v": "070f4831fb",
+   "src": "sgdb:38752/161244",
+   "h": "62312d854c"
   },
   "unreal": {
    "v": "1c939d7d3e",
@@ -2255,6 +2345,21 @@
    "v": "52d3a81b6f",
    "src": "sgdb:5264777/111496",
    "h": "b77dd1e2fb"
+  },
+  "wwe-smackdown-vs-raw-2008": {
+   "v": "70a1c0fa83",
+   "src": "sgdb:5264778/102116",
+   "h": "6405ace405"
+  },
+  "wwe-smackdown-vs-raw-2009": {
+   "v": "51588d6d29",
+   "src": "sgdb:5252477/61012",
+   "h": "3efa8f55d2"
+  },
+  "wwe-smackdown-vs-raw-2010": {
+   "v": "7bd2b8d5f7",
+   "src": "sgdb:5252478/61013",
+   "h": "324970c289"
   },
   "wwe-smackdown-vs-raw-2011": {
    "v": "1b2e475a08",
